@@ -1,2702 +1,549 @@
 LocationName,Category,Longitude,Latitude,PartOf
-,capital,0,0,Hong Kong
-,capital,0,0,Antarctica
-,capital,0,0,Heard Island and McDonald Islands
-,capital,0,0,Macau
-Abu Dhabi,capital,54.366667,24.46666667,United Arab Emirates
-Abuja,capital,7.533333,9.083333333,Nigeria
-Abéché,capital,,,Chad
-Accra,capital,-0.216667,5.55,Ghana
-Aceh Sultanate,political,,,
-Adamstown,capital,-130.083333,-25.06666667,Pitcairn Islands
-Addis Ababa,capital,38.7,9.033333333,Ethiopia
-Addis Ababa,capital,,,Ethiopia
-Aegina,capital,,,Greece
-Afghanistan,country,69.183333,34.51666667,Asia: South
-Afghanistan,country,69.183333,34.51666667,Asia: South
-Afghanistan,country,69.183333,34.51666667,Asia
-Afghanistan,country,69.183333,34.51666667,Asia: South
-Afghanistan,country,69.183333,34.51666667,Asia: South
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa,continent,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: Central,region,,,
-Africa: East,region,,,
-Africa: East,region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Horn",region,,,
-"Africa: East, Lakes",region,,,
-"Africa: East, Lakes",region,,,
-"Africa: East, Lakes",region,,,
-"Africa: East, Lakes",region,,,
-"Africa: East, Lakes",region,,,
-"Africa: East, Lakes",region,,,
-"Africa: East, Lakes",region,,,
-"Africa: East, Lakes",region,,,
-Africa: Northeast,region,,,
-Africa: Northeast,region,,,
-Africa: Northeast,region,,,
-Africa: Northeast,region,,,
-Africa: Northwest,region,,,
-Africa: Northwest,region,,,
-Africa: Northwest,region,,,
-Africa: Northwest,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: South,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Africa: West,region,,,
-Ahom kingdom,political,77.2,28.6,India
-Ajaigarh State,political,77.2,28.6,India
-Aland Islands,country,19.9,60.116667,Europe
-Albania,country,19.816667,41.31666667,Europe
-Algeria,country,3.05,36.75,Africa: Northwest
-Algeria,country,3.05,36.75,Africa: Northwest
-Algeria,country,3.05,36.75,Africa: Northwest
-Algeria,country,3.05,36.75,Africa: Northwest
-Algeria,country,3.05,36.75,Africa
-Algiers,capital,,,Algeria
-Algiers,capital,3.05,36.75,Algeria
-Alipura State,political,77.2,28.6,India
-Alirajpur State,political,77.2,28.6,India
-Alofi,capital,-169.916667,-19.01666667,Niue
-Alsace-Lorraine,political,2.333333,48.86666667,France
-Alwar State,political,77.2,28.6,India
-Amarapura,capital,,,Myanmar
-American Samoa,country,-170.7,-14.26666667,Australia
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Caribbean,region,,,
-Americas: Central,region,,,
-Americas: Central,region,,,
-Americas: Central,region,,,
-Americas: Central,region,,,
-Americas: Central,region,,,
-Americas: Central,region,,,
-Americas: Central,region,,,
-Americas: Central,region,,,
-Americas: Central,region,,,
-Americas: Central,region,,,
-Americas: Central,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: North,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Americas: South,region,,,
-Amman,capital,35.933333,31.95,Jordan
-Amsterdam,capital,4.916667,52.35,Netherlands
-Andorra,country,1.516667,42.5,Europe: Southwest
-Andorra,political,1.516667,42.5,Andorra
-Andorra,country,1.516667,42.5,Europe: Southwest
-Andorra,country,1.516667,42.5,Europe
-Andorra la Vella,capital,1.516667,42.5,Andorra
-Anglo-Egyptian Sudan,political,32.533333,15.6,Sudan
-Anglo-French Joint Naval Commission,political,168.316667,-17.73333333,Vanuatu
-Angoche Sultanate,political,32.583333,-25.95,Mozambique
-"Angoche, Moma",capital,,,Mozambique
-Angola,country,13.216667,-8.833333333,Africa
-Angola,country,13.216667,-8.833333333,Africa: Central
-Angola,region,,,
-Angola,country,13.216667,-8.833333333,Africa: Central
-Angola,country,13.216667,-8.833333333,Africa: Central
-Angola,country,13.216667,-8.833333333,Africa: Central
-Anguilla,country,-63.05,18.21666667,North America
-Anhalt-Bernburg,political,13.4,52.51666667,Germany
-Anhalt-Dessau,political,13.4,52.51666667,Germany
-Anhalt-Köthen,political,13.4,52.51666667,Germany
-Ankara,capital,32.866667,39.93333333,Turkey
-Ankole,political,32.55,0.316666667,Uganda
-Annam (French protectorate),political,105.85,21.03333333,Vietnam
-Annexed byÊSiam,continent,,,
-Antananarivo,capital,47.516667,-18.91666667,Madagascar
-Antananarivo,capital,,,Madagascar
-Antarctica,continent,,,
-Antarctica,continent,,,
-Antarctica,continent,,,
-Antarctica,country,0,0,Antarctica
-Antarctica,continent,,,
-Antigua,country,,,Americas: Caribbean
-Antigua and Barbuda,country,-61.85,17.11666667,North America
-Anziku Kingdom,political,,,
-AnŽho,capital,,,Togo
-Apia,capital,-171.766667,-13.81666667,Samoa
-Arabia,country,,,Asia: West
-Archduchy of Austria,political,16.366667,48.2,Austria
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,political,-58.666667,-34.58333333,Argentina
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,Americas: South
-Argentina,country,-58.666667,-34.58333333,South America
-Argentine Confederation,political,-58.666667,-34.58333333,Argentina
-Armenia,country,44.5,40.16666667,Europe
-Aro Confederacy,political,7.533333,9.083333333,Nigeria
-Aruba,country,-70.033333,12.51666667,North America
-Asaita,capital,,,Ethiopia
-Ashgabat,capital,58.383333,37.95,Turkmenistan
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia,continent,,,
-Asia: Central,region,,,
-Asia: Central,region,,,
-Asia: Central,region,,,
-Asia: Central,region,,,
-Asia: East,region,,,
-Asia: East,region,,,
-Asia: East,region,,,
-Asia: East,region,,,
-Asia: East,region,,,
-Asia: East,region,,,
-Asia: East,region,,,
-Asia: East,region,,,
-Asia: East,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: South,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: Southeast,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asia: West,region,,,
-Asmara,capital,38.933333,15.33333333,Eritrea
-Astana,capital,71.416667,51.16666667,Kazakhstan
-Asuncion,capital,-57.666667,-25.26666667,Paraguay
-Atafu,capital,-171.833333,-9.166667,Tokelau
-Athens,capital,23.733333,37.98333333,Greece
-Athgarh,political,77.2,28.6,India
-Auckland,capital,,,New Zealand
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,country,149.133333,-35.26666667,Oceania
-Australia,continent,,,
-Australia,political,149.133333,-35.26666667,Australia
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,country,149.133333,-35.26666667,Australia
-Australia,continent,,,
-Australia,continent,,,
-Australia,country,149.133333,-35.26666667,Oceania
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Australia,continent,,,
-Austria,country,16.366667,48.2,Europe
-Austria,country,16.366667,48.2,Europe: Central
-Austria,country,16.366667,48.2,Europe: Central
-Austria,country,16.366667,48.2,Europe: Central
-Austria,country,16.366667,48.2,Europe: Central
-Austria,country,16.366667,48.2,Europe: Central
-Austria,country,16.366667,48.2,Europe: Central
-Austria-Hungary,political,16.366667,48.2,Austria
-Austrian,country,,,Europe: Central
-Austrian Empire,political,,,
-Avarua,capital,-159.766667,-21.2,Cook Islands
-Azerbaijan,country,49.866667,40.38333333,Europe
-Baghdad,capital,44.4,33.33333333,Iraq
-Bahamas,country,-77.35,25.08333333,Americas: Caribbean
-Bahamas,country,-77.35,25.08333333,Americas: Caribbean
-Bahamas,country,-77.35,25.08333333,North America
-Bahrain,country,50.566667,26.23333333,Asia
-Baku,capital,49.866667,40.38333333,Azerbaijan
-Bamako,capital,-8,12.65,Mali
-Bamana Empire,political,,,
-Bandar Seri Begawan,capital,114.933333,4.883333333,Brunei Darussalam
-Bangkok,capital,100.516667,13.75,Thailand
-Bangladesh,country,90.4,23.71666667,Asia
-Bangui,capital,18.583333,4.366666667,Central African Republic
-Banjul,capital,-16.566667,13.45,The Gambia
-Banten Sultanate,political,,,
-Baol,political,,,
-Barbados,country,-59.616667,13.1,Americas: Caribbean
-Barbados,country,-59.616667,13.1,Americas: Caribbean
-Barbados,country,-59.616667,13.1,North America
-Barotseland,political,28.283333,-15.41666667,Zambia
-Basseterre,capital,-62.716667,17.3,Saint Kitts and Nevis
-Basutoland,political,27.483333,-29.31666667,Lesotho
-Batavian Republic,political,4.916667,52.35,Netherlands
-Baté Empire,political,-13.7,9.5,Guinea
-Bechuanaland Protectorate,political,25.9,-24.63333333,Botswana
-Beijing,capital,116.383333,39.91666667,China
-Beirut,capital,35.5,33.86666667,Lebanon
-Belarus,country,27.566667,53.9,Europe
-Belgium,country,4.333333,50.83333333,"Europe: West, Low Countries"
-Belgium,country,4.333333,50.83333333,"Europe: West, Low Countries"
-Belgium,political,4.333333,50.83333333,Belgium
-Belgium,country,4.333333,50.83333333,Europe
-Belgrade,capital,20.5,44.83333333,Serbia
-Belize,country,-88.766667,17.25,Central America
-Belize,country,-88.766667,17.25,Americas: Central
-Belize,country,-88.766667,17.25,Americas: Central
-Belmopan,capital,-88.766667,17.25,Belize
-Benevento,capital,,,Italy
-Benin,country,2.616667,6.483333333,Africa: West
-Benin,country,2.616667,6.483333333,Africa: West
-Benin,country,2.616667,6.483333333,Africa
-Benin City,capital,,,Nigeria
-Berlin,capital,,,Germany
-Berlin,capital,13.4,52.51666667,Germany
-Berlin,capital,,,Germany
-Bermuda,country,-64.783333,32.28333333,North America
-Bern,capital,7.466667,46.91666667,Switzerland
-Bhutan,political,89.633333,27.46666667,Bhutan
-Bhutan,country,89.633333,27.46666667,Asia: South
-Bhutan,country,89.633333,27.46666667,Asia
-Bhutan,country,89.633333,27.46666667,Asia: South
-Bhutan,country,89.633333,27.46666667,Asia: South
-Bhutan,country,89.633333,27.46666667,Asia: South
-Bishkek,capital,74.6,42.86666667,Kyrgyzstan
-Bissau,capital,-15.583333,11.85,Guinea-Bissau
-Bogota,capital,-74.083333,4.6,Colombia
-Bolama,capital,,,Guinea-Bissau
-Bolivia,country,-68.15,-16.5,Americas: South
-Bolivia,country,-68.15,-16.5,South America
-Bolivia,political,-68.15,-16.5,Bolivia
-Bolivia,country,-68.15,-16.5,Americas: South
-Boma,capital,,,"Congo, Democratic Republic of the"
-Boma,capital,,,Democratic Republic of the Congo
-Bora Bora,country,,,Oceania
-Bornu Empire (Kanem–Bornu),political,15.033333,12.1,Chad
-Bosnia and Herzegovina,country,18.416667,43.86666667,Europe
-Botswana,country,25.9,-24.63333333,Africa: South
-Botswana,country,25.9,-24.63333333,Africa
-Botswana,country,25.9,-24.63333333,Africa: South
-Bourbon Restoration in France,political,2.333333,48.86666667,France
-Bourbon Restoration of Spain,political,-3.683333,40.4,Spain
-Bourbon Spain,political,-3.683333,40.4,Spain
-Brasilia,capital,-47.916667,-15.78333333,Brazil
-Bratislava,capital,17.116667,48.15,Slovakia
-Braunschweig,capital,,,Germany
-Braunschweig (Brunswick),capital,,,Germany
-Brazil,country,-47.916667,-15.78333333,Americas: South
-Brazil,country,-47.916667,-15.78333333,Americas: South
-Brazil,country,-47.916667,-15.78333333,Americas: South
-Brazil,country,-47.916667,-15.78333333,South America
-Brazil,country,-47.916667,-15.78333333,Americas: South
-Brazil,country,-47.916667,-15.78333333,Americas: South
-Brazil,country,-47.916667,-15.78333333,Americas: South
-Brazzaville,capital,15.283333,-4.25,Republic of Congo
-Bremen,political,13.4,52.51666667,Germany
-Bridgetown,capital,-59.616667,13.1,Barbados
-British Central Africa Protectorate,country,33.783333,-13.96666667,Africa
-British Ceylon,political,79.833333,6.916666667,Sri Lanka
-British Guiana,political,-58.15,6.8,Guyana
-British Honduras,political,-88.766667,17.25,Belize
-British India,political,77.2,28.6,India
-British Indian Ocean Territory,country,72.4,-7.3,Africa
-British Solomon Islands,country,159.95,-9.433333333,Australia
-British Solomon Islands,political,159.95,-9.433333333,Solomon Islands
-British Somaliland,political,44.05,9.55,Somaliland
-British Virgin Islands,country,-64.616667,18.41666667,North America
-British protectorate of Niue,political,-169.916667,-19.01666667,Niue
-British rule in Burma,political,,,
-Brunei,country,,,Asia: Southeast
-Brunei Darussalam,country,114.933333,4.883333333,Asia
-Bruneian Empire,political,,,
-Brussels,capital,4.333333,50.83333333,Belgium
-Brussels,capital,,,Belgium
-Bucharest,capital,,,Romania
-Bucharest,capital,26.1,44.43333333,Romania
-Buda,capital,,,Hungary
-Budapest,capital,19.083333,47.5,Hungary
-Buenos Aires,capital,-58.666667,-34.58333333,Argentina
-Buenos Aires,political,-58.666667,-34.58333333,Argentina
-Buganda,political,32.55,0.316666667,Uganda
-Bujumbura,capital,29.35,-3.366666667,Burundi
-Bulgaria,country,23.316667,42.68333333,Europe: Balkans
-Bulgaria,country,23.316667,42.68333333,Europe: Balkans
-Bulgaria,country,23.316667,42.68333333,Europe
-Bundu,political,-17.633333,14.73333333,Senegal
-Bunkeya,capital,,,Democratic Republic of the Congo
-Bunyoro,political,32.55,0.316666667,Uganda
-Burkina Faso,country,-1.516667,12.36666667,Africa
-Burkina Faso,country,-1.516667,12.36666667,Africa: West
-Burkina Faso,country,-1.516667,12.36666667,Africa: West
-Burma,country,,,Asia: Southeast
-Burma,country,,,Asia: Southeast
-Burundi,country,29.35,-3.366666667,"Africa: East, Lakes"
-Burundi,country,29.35,-3.366666667,Africa
-Burundi,country,29.35,-3.366666667,"Africa: East, Lakes"
-BŸckeburg,capital,,,Germany
-"Cagliari, Turin",capital,,,Italy
-Cairo,capital,31.25,30.05,Egypt
-California Republic,political,-77,38.883333,United States
-Cambodia,country,104.916667,11.55,Asia
-Cambodia,country,104.916667,11.55,Asia: Southeast
-Cambodia,country,104.916667,11.55,Asia: Southeast
-Cameroon,country,11.516667,3.866666667,Africa: Central
-Cameroon,country,11.516667,3.866666667,Africa
-Cameroon,country,11.516667,3.866666667,Africa: Central
-Canada,country,-75.7,45.41666667,Central America
-Canada,country,-75.7,45.41666667,Americas: North
-Canada,country,-75.7,45.41666667,Americas: North
-Canada,country,-75.7,45.41666667,Americas: North
-Canada,political,-75.7,45.41666667,Canada
-Canada,country,-75.7,45.41666667,Americas: North
-Canberra,capital,149.133333,-35.26666667,Australia
-Cape Colony,political,28.216667,-25.7,South Africa
-Cape Town,capital,,,South Africa
-Cape Verde,country,-23.516667,14.91666667,Africa: West
-Cape Verde,country,-23.516667,14.91666667,Africa
-Cape Verde,country,-23.516667,14.91666667,Africa: West
-Captaincy General of Chile,political,-70.666667,-33.45,Chile
-Captaincy General of Cuba,political,-82.35,23.11666667,Cuba
-Captaincy General of Guatemala,political,-90.516667,14.61666667,Guatemala
-Caracas,capital,-66.866667,10.48333333,Venezuela
-Castries,capital,-61,14,Saint Lucia
-Cayman Islands,country,-81.383333,19.3,North America
-Cayor,political,-17.633333,14.73333333,Senegal
-Central African Republic,country,18.583333,4.366666667,Africa
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Central America,continent,,,
-Chad,country,15.033333,12.1,Africa: West
-Chad,country,15.033333,12.1,Africa: West
-Chad,country,15.033333,12.1,Africa: Central
-Chad,country,15.033333,12.1,Africa: Central
-Chad,country,15.033333,12.1,Africa: Central
-Chad,country,15.033333,12.1,Africa: Central
-Chad,country,15.033333,12.1,Africa: Central
-Chad,country,15.033333,12.1,Africa
-Chad,country,15.033333,12.1,Africa: Central
-Champa,political,105.85,21.03333333,Vietnam
-Chan Santa Cruz,political,-99.133333,19.43333333,Mexico
-Chania,capital,,,Greece
-Charlotte Amalie,capital,-64.933333,18.35,US Virgin Islands
-Chekna,capital,,,Chad
-Cherokee Nation,political,-77,38.883333,United States
-Chiang Mai,country,1802,Thailand,Annexed byÊSiam
-Chile,country,-70.666667,-33.45,Americas: South
-Chile,country,-70.666667,-33.45,South America
-Chile,country,-70.666667,-33.45,Americas: South
-Chile,country,-70.666667,-33.45,Americas: South
-Chile,political,-70.666667,-33.45,Chile
-Chile,country,-70.666667,-33.45,Americas: South
-China,country,116.383333,39.91666667,Asia: East
-China,country,116.383333,39.91666667,Asia: East
-China,country,116.383333,39.91666667,Asia
-China,country,116.383333,39.91666667,Asia: East
-China,country,116.383333,39.91666667,Asia: East
-Chisinau,capital,28.85,47,Moldova
-Christiania (Oslo),capital,,,Norway
-Christmas Island,country,105.716667,-10.41666667,Australia
-Cisalpine Republic,political,12.483333,41.9,Italy
-Cochinchina,political,105.85,21.03333333,Vietnam
-Cocos Islands,country,96.833333,-12.16666667,Australia
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,South America
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombia,country,-74.083333,4.6,Americas: South
-Colombo,capital,79.833333,6.916666667,Sri Lanka
-Colonial Antigua,political,,,
-Colonial Barbados,political,-59.616667,13.1,Barbados
-Colonial Cambodia,country,104.916667,11.55,Asia
-Colonial Dominica,political,-61.4,15.3,Dominica
-Colonial Saint Lucia,political,-61,14,Saint Lucia
-Colonial Saint Vincent and the Grenadines,political,,,
-Colonial Trinidad and Tobago,political,-61.516667,10.65,Trinidad and Tobago
-Colony of Fiji,country,178.416667,-18.13333333,Australia
-Colony of Fiji,political,178.416667,-18.13333333,Fiji
-Colony of Natal,political,28.216667,-25.7,South Africa
-Colony of New Zealand,political,174.783333,-41.3,New Zealand
-Colony of New Zealand,country,174.783333,-41.3,Australia
-Colony of the Bahamas,political,-77.35,25.08333333,Bahamas
-"Colony, Portuguese",capital,,,
-Comoros,country,43.233333,-11.7,Africa
-Comoros,country,43.233333,-11.7,Africa: East
-Comoros,country,43.233333,-11.7,Africa: East
-Company rule in India,political,77.2,28.6,India
-Company rule in Rhodesia by the British South Africa Company,political,31.033333,-17.81666667,Zimbabwe
-Conakry,capital,-13.7,9.5,Guinea
-Confederate States of America,political,-77,38.883333,United States
-Confederation of the Rhine,political,13.4,52.51666667,Germany
-Congo Free State,political,15.3,-4.316666667,Democratic Republic of the Congo
-Congo Free State,country,15.3,-4.316666667,Africa
-Cook Islands,country,-159.766667,-21.2,Oceania
-Cook Islands,country,-159.766667,-21.2,Australia
-Cook Islands,country,-159.766667,-21.2,Oceania
-Cook Islands Federation,political,-159.766667,-21.2,Cook Islands
-Copenhagen,capital,,,Denmark
-Copenhagen,capital,12.583333,55.66666667,Denmark
-Corfu,capital,,,Greece
-Costa Rica,political,-84.083333,9.933333333,Costa Rica
-Costa Rica,country,-84.083333,9.933333333,Central America
-Costa Rica,country,-84.083333,9.933333333,Americas: Central
-Costa Rica,country,-84.083333,9.933333333,Americas: Central
-Cote d'Ivoire,country,-5.266667,6.816666667,Africa
-Cretan State,country,23.733333,37.98333333,Europe
-Croatia,country,16,45.8,Europe: Balkans
-Croatia,country,16,45.8,Europe: Balkans
-Croatia,country,16,45.8,Europe: Balkans
-Croatia,country,16,45.8,Europe: Balkans
-Croatia,country,16,45.8,Europe: Balkans
-Croatia,country,16,45.8,Europe: Balkans
-Croatia,country,16,45.8,Europe
-Crown Colony of Malta,political,14.5,35.88333333,Malta
-Cuba,country,-82.35,23.11666667,Americas: Caribbean
-Cuba,country,-82.35,23.11666667,North America
-Cuba,country,-82.35,23.11666667,Americas: Caribbean
-CuraÃ§ao,country,-68.916667,12.1,North America
-Cyprus,country,33.366667,35.16666667,Europe
-Czech Republic,country,14.466667,50.08333333,Europe: Central
-Czech Republic,country,14.466667,50.08333333,Europe
-Czech Republic,country,14.466667,50.08333333,Europe: Central
-Dahomey,political,2.616667,6.483333333,Benin
-Dakar,capital,-17.633333,14.73333333,Senegal
-Damascus,capital,36.3,33.5,Syria
-Dar es Salaam,capital,39.283333,-6.8,Tanzania
-Darmstadt,capital,,,Germany
-Debarwa,capital,,,Eritrea
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa: Central
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa: Central
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa: Central
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa: Central
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa: Central
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa: Central
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa: Central
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa: Central
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa: Central
-Democratic Republic of the Congo,country,15.3,-4.316666667,Africa: Central
-Dendi Kingdom: Askiya Dynasty,political,2.116667,13.51666667,Niger
-Denmark,country,12.583333,55.66666667,Europe: Nordic
-Denmark,political,12.583333,55.66666667,Denmark
-Denmark,country,12.583333,55.66666667,Europe: Nordic
-Denmark,country,12.583333,55.66666667,Europe
-Denmark,country,12.583333,55.66666667,Europe: Nordic
-Denmark,country,12.583333,55.66666667,Europe: Nordic
-Denmark,country,12.583333,55.66666667,Europe: Nordic
-Denmark,country,12.583333,55.66666667,Europe: Nordic
-DenmarkÐNorway,country,12.583333,55.66666667,Europe
-Denmark–Norway,political,12.583333,55.66666667,Denmark
-Dhaka,capital,90.4,23.71666667,Bangladesh
-Diego Garcia,capital,72.4,-7.3,British Indian Ocean Territory
-Dili,capital,125.6,-8.583333333,Timor-Leste
-Djibouti,capital,43.15,11.58333333,Djibouti
-Djibouti,country,43.15,11.58333333,Africa
-Doha,capital,51.533333,25.28333333,Qatar
-Dominica,country,-61.4,15.3,North America
-Dominica,country,-61.4,15.3,Americas: Caribbean
-Dominica,country,-61.4,15.3,Americas: Caribbean
-Dominican,country,,,Americas: Caribbean
-Dominican Republic,political,,,
-Dominican Republic,country,-69.9,18.46666667,North America
-Douglas,capital,-4.483333,54.15,Isle of Man
-Dresden,capital,,,Germany
-Dublin,capital,-6.233333,53.31666667,Ireland
-Duchy of Anhalt,political,13.4,52.51666667,Germany
-Duchy of Brunswick,political,13.4,52.51666667,Germany
-Duchy of Holstein,political,13.4,52.51666667,Germany
-Duchy of Massa and Principality of Carrara,political,12.483333,41.9,Italy
-Duchy of Mecklenburg-Schwerin,political,13.4,52.51666667,Germany
-Duchy of Mecklenburg-Strelitz,political,13.4,52.51666667,Germany
-Duchy of Modena and Reggio,political,12.483333,41.9,Italy
-Duchy of Nassau,political,13.4,52.51666667,Germany
-Duchy of Parma,political,12.483333,41.9,Italy
-Duchy of Saxe-Altenburg,political,13.4,52.51666667,Germany
-Duchy of Saxe-Meiningen,political,13.4,52.51666667,Germany
-Duchy of Schleswig,political,12.583333,55.66666667,Denmark
-Duchy of Tridentum,political,12.483333,41.9,Italy
-Duchy of Warsaw,political,21,52.25,Poland
-Durrani Empire,political,69.183333,34.51666667,Afghanistan
-Dushanbe,capital,68.766667,38.55,Tajikistan
-Dutch East Indies,political,,,
-Dutch Surinam,political,-55.166667,5.833333333,Suriname
-East Timor,country,,,Oceania
-Easter Island,political,,,
-Easter Island,country,,,Oceania
-Ecuador,country,-78.5,-0.216666667,South America
-Ecuador,country,-78.5,-0.216666667,Americas: South
-Ecuador,country,-78.5,-0.216666667,Americas: South
-Ecuador,political,-78.5,-0.216666667,Ecuador
-Egypt,country,31.25,30.05,Africa: Northeast
-Egypt,country,31.25,30.05,Africa: Northeast
-Egypt,country,31.25,30.05,Africa
-El Salvador,country,-89.2,13.7,Americas: Central
-El Salvador,political,-89.2,13.7,El Salvador
-El Salvador,country,-89.2,13.7,Central America
-El Salvador,country,-89.2,13.7,Americas: Central
-El-AaiÃºn,capital,-13.203333,27.153611,Western Sahara
-Electorate of Brunswick-Lüneburg,political,13.4,52.51666667,Germany
-Electorate of Hesse,political,13.4,52.51666667,Germany
-Electorate of Mainz,political,13.4,52.51666667,Germany
-Emirate of Afghanistan: Barakzai dynasty,political,69.183333,34.51666667,Afghanistan
-Emirate of Beihan,political,,,
-Emirate of Bukhara,political,,,
-Emirate of Dhala,political,,,
-Emirate of Diriyah,political,46.7,24.65,Saudi Arabia
-Emirate of Jabal Shammar,political,,,
-Emirate of Nejd,political,46.7,24.65,Saudi Arabia
-Empire of Japan,political,139.75,35.68333333,Japan
-Entebbe,capital,,,Uganda
-Equatorial Guinea,country,8.783333,3.75,Africa
-Eritrea,country,38.933333,15.33333333,Africa
-Eritrea,country,38.933333,15.33333333,"Africa: East, Horn"
-Eritrea,country,38.933333,15.33333333,"Africa: East, Horn"
-Estonia,country,24.716667,59.43333333,"Europe: East, Baltic"
-Estonia,country,24.716667,59.43333333,"Europe: East, Baltic"
-Estonia,country,24.716667,59.43333333,Europe
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopia,country,38.7,9.033333333,Africa
-Ethiopia,country,38.7,9.033333333,"Africa: East, Horn"
-Ethiopian Empire,political,38.7,9.033333333,Ethiopia
-"Etruria, Kingdom of",country,1865,Italy,moved to Rome
-Eurasia: Caucasus,region,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe,continent,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: Balkans,region,,,
-Europe: British Isles,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: Central,region,,,
-Europe: East,region,,,
-Europe: East,region,,,
-Europe: East,region,,,
-Europe: East,region,,,
-"Europe: East, Baltic",region,,,
-Europe: East; Asia: Central,region,,,
-Europe: Nordic,region,,,
-Europe: Nordic,region,,,
-Europe: Nordic,region,,,
-Europe: Nordic,region,,,
-Europe: Nordic,region,,,
-Europe: Nordic,region,,,
-Europe: Nordic,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southcentral,region,,,
-Europe: Southwest,region,,,
-Europe: Southwest,region,,,
-Europe: Southwest,region,,,
-Europe: Southwest,region,,,
-Europe: Southwest,region,,,
-Europe: Southwest,region,,,
-Europe: Southwest,region,,,
-Europe: West,region,,,
-Europe: West,region,,,
-Europe: West,region,,,
-Europe: West,region,,,
-Europe: West,region,,,
-Europe: West,region,,,
-Europe: West,region,,,
-Europe: West,region,,,
-Europe: West,region,,,
-Europe: West,region,,,
-"Europe: West, Low Countries",region,,,
-"Europe: West, Low Countries",region,,,
-"Europe: West, Low Countries",region,,,
-"Europe: West, Low Countries",region,,,
-"Europe: West, Low Countries",region,,,
-"Europe: West, Low Countries",region,,,
-"Europe: West, Low Countries",region,,,
-Falkland Islands,country,-57.85,-51.7,South America
-Fante Confederacy,political,-0.216667,5.55,Ghana
-Faroe Islands,country,-6.766667,62,Europe
-Fashoda,capital,,,South Sudan
-Federal Republic of Central America,political,-90.516667,14.61666667,Guatemala
-Federated Malay States,political,101.7,3.166666667,Malaysia
-Federated States of Micronesia,country,158.15,6.916666667,Australia
-Federated States of Micronesia,capital,1986,Federated States of Micronesia,Kolonia
-Fes,capital,,,Morocco
-Fiji,country,178.416667,-18.13333333,Australia
-Fiji,country,178.416667,-18.13333333,Oceania
-Fiji,country,178.416667,-18.13333333,Oceania
-Fiji,country,178.416667,-18.13333333,Oceania
-Fiji,country,178.416667,-18.13333333,Oceania
-Finland,country,24.933333,60.16666667,Europe: Nordic
-Finland,country,24.933333,60.16666667,Europe: Nordic
-Finland,country,24.933333,60.16666667,Europe
-"Finland, Grand Duchy of",country,24.933333,60.16666667,Europe
-First Brazilian Republic,political,-47.916667,-15.78333333,Brazil
-First Empire of Haiti,political,-72.333333,18.53333333,Haiti
-First French Empire,political,2.333333,48.86666667,France
-First Hellenic Republic,political,23.733333,37.98333333,Greece
-First Mexican Empire,political,-99.133333,19.43333333,Mexico
-First Spanish Republic,political,-3.683333,40.4,Spain
-Florence,capital,,,Italy
-Florence,country,1865,Italy,moved to Rome
-Fort Lamy,capital,,,Chad
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-France,country,2.333333,48.86666667,Europe: West
-Frankfurt,capital,,,Germany
-Free City of Frankfurt,political,13.4,52.51666667,Germany
-Free City of Kraków,political,21,52.25,Poland
-Free City of Lübeck,political,13.4,52.51666667,Germany
-Free Imperial City of Hamburg,political,13.4,52.51666667,Germany
-Freetown,capital,-13.233333,8.483333333,Sierra Leone
-French Algeria,political,3.05,36.75,Algeria
-French Chad,political,15.033333,12.1,Chad
-French Congo,political,,,
-French First Republic,political,2.333333,48.86666667,France
-French Polynesia,country,-149.566667,-17.53333333,Oceania
-French Polynesia,country,-149.566667,-17.53333333,Oceania
-French Polynesia,country,-149.566667,-17.53333333,Oceania
-French Polynesia,country,-149.566667,-17.53333333,Oceania
-French Polynesia,country,-149.566667,-17.53333333,Australia
-French Polynesia,country,-149.566667,-17.53333333,Oceania
-French Polynesia,country,-149.566667,-17.53333333,Oceania
-French Second Republic,political,2.333333,48.86666667,France
-French Southern and Antarctic Lands,country,70.216667,-49.35,Antarctica
-French Third Republic,political,2.333333,48.86666667,France
-French West Africa,political,-17.633333,14.73333333,Senegal
-Funafuti,capital,179.216667,-8.516666667,Tuvalu
-Funj Sultanate,political,32.533333,15.6,Sudan
-Gabon,country,9.45,0.383333333,Africa: Central
-Gabon,country,9.45,0.383333333,Africa
-Gabon,country,9.45,0.383333333,Africa: Central
-Gaborone,capital,25.9,-24.63333333,Botswana
-Gambia,country,,,Africa: West
-Gambia Colony and Protectorate,political,,,
-Garhwal Kingdom,political,77.2,28.6,India
-Gaza Empire,political,32.583333,-25.95,Mozambique
-George Town,capital,-81.383333,19.3,Cayman Islands
-Georgetown,capital,-58.15,6.8,Guyana
-Georgia,country,44.833333,41.68333333,Europe
-Georgia,country,44.833333,41.68333333,Eurasia: Caucasus
-Georgia,country,44.833333,41.68333333,Eurasia: Caucasus
-German Confederation,political,13.4,52.51666667,Germany
-German Empire,political,13.4,52.51666667,Germany
-German New Guinea,political,,,
-German Samoa,political,-171.766667,-13.81666667,Samoa
-German South West Africa,political,17.083333,-22.56666667,Namibia
-German South-West Africa,country,17.083333,-22.56666667,Africa
-German Togoland,political,1.216667,6.116666667,Togo
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Germany,country,13.4,52.51666667,Europe: Central
-Ghana,country,-0.216667,5.55,Africa: West
-Ghana,country,-0.216667,5.55,Africa: West
-Ghana,country,-0.216667,5.55,Africa
-Ghana,country,-0.216667,5.55,Africa: West
-Ghana,country,-0.216667,5.55,Africa: West
-Ghana,country,-0.216667,5.55,Africa: West
-Ghana,country,-0.216667,5.55,Africa: West
-Gibraltar,capital,-5.35,36.13333333,Gibraltar
-Gibraltar,country,-5.35,36.13333333,Europe
-Gilbert and Ellice Islands,political,169.533333,-0.883333333,Kiribati
-Governorate of Estonia,political,24.716667,59.43333333,Estonia
-Gozo,political,12.483333,41.9,Italy
-Gran Colombia,political,-74.083333,4.6,Colombia
-Granadine Confederation,political,-74.083333,4.6,Colombia
-Grand Duchy of Baden,political,13.4,52.51666667,Germany
-Grand Duchy of Berg,political,13.4,52.51666667,Germany
-Grand Duchy of Finland,political,24.933333,60.16666667,Finland
-Grand Duchy of Frankfurt,political,13.4,52.51666667,Germany
-Grand Duchy of Hesse and by Rhine,political,13.4,52.51666667,Germany
-Grand Duchy of Mecklenburg-Schwerin,political,13.4,52.51666667,Germany
-Grand Duchy of Mecklenburg-Strelitz,political,13.4,52.51666667,Germany
-Grand Duchy of Oldenburg,political,13.4,52.51666667,Germany
-Grand Duchy of Saxe-Weimar-Eisenach,political,13.4,52.51666667,Germany
-Grand Duchy of Tuscany,political,12.483333,41.9,Italy
-Grand Duchy of Würzburg,political,13.4,52.51666667,Germany
-Grand Turk,capital,-71.133333,21.46666667,Turks and Caicos Islands
-Grand-Bassam,capital,,,Ivory Coast
-Greater Republic of Central America,political,-87.216667,14.1,Honduras
-Greece,country,23.733333,37.98333333,Europe: Balkans
-Greece,country,23.733333,37.98333333,Europe: Balkans
-Greece,country,23.733333,37.98333333,Europe: Balkans
-Greece,country,23.733333,37.98333333,Europe: Balkans
-Greece,country,23.733333,37.98333333,Europe
-Greece,country,23.733333,37.98333333,Europe: Balkans
-Greece,country,23.733333,37.98333333,Europe: Balkans
-Greece,country,23.733333,37.98333333,Europe: Balkans
-Greece,country,23.733333,37.98333333,Europe: Balkans
-Greenland,country,-51.75,64.18333333,Central America
-Greenland,country,-51.75,64.18333333,Americas: North
-Greenland,country,-51.75,64.18333333,Americas: North
-Greenland,political,-51.75,64.18333333,Greenland
-Grenada,country,-61.75,12.05,North America
-Grenadines,country,,,Americas: Caribbean
-Guam,country,144.733333,13.46666667,Australia
-Guatemala,country,-90.516667,14.61666667,Americas: Central
-Guatemala,country,-90.516667,14.61666667,Central America
-Guatemala,country,-90.516667,14.61666667,Americas: Central
-Guatemala,country,-90.516667,14.61666667,Americas: Central
-Guatemala,country,-90.516667,14.61666667,Americas: Central
-Guatemala,country,-90.516667,14.61666667,Americas: Central
-Guatemala,country,-90.516667,14.61666667,Americas: Central
-Guatemala,country,-90.516667,14.61666667,Americas: Central
-Guatemala,country,-90.516667,14.61666667,Americas: Central
-Guatemala,political,-90.516667,14.61666667,Guatemala
-Guatemala City,capital,-90.516667,14.61666667,Guatemala
-Guernsey,country,-2.533333,49.45,Europe
-Guinea,country,-13.7,9.5,Africa
-Guinea,country,-13.7,9.5,Africa: West
-Guinea,country,-13.7,9.5,Africa: West
-Guinea,country,-13.7,9.5,Africa: West
-Guinea,country,-13.7,9.5,Africa: West
-Guinea,country,-13.7,9.5,Africa: West
-Guinea-Bissau,country,-15.583333,11.85,Africa
-Guinea ,country,-13.7,9.5,Africa: West
-Guinea ,country,-13.7,9.5,Africa: West
-Guinea ,country,-13.7,9.5,Africa: West
-Gustavia,capital,-62.85,17.88333333,Saint Barthelemy
-Gustavian era Sweden,political,18.05,59.33333333,Sweden
-Guyana,country,-58.15,6.8,Americas: South
-Guyana,country,-58.15,6.8,South America
-Guyana,country,-58.15,6.8,Americas: South
-Gyaaman,political,-0.216667,5.55,Ghana
-Habsburg monarchy,political,16.366667,48.2,Austria
-Hagatna,capital,144.733333,13.46666667,Guam
-Haiti,country,-72.333333,18.53333333,Americas: Caribbean
-Haiti,country,-72.333333,18.53333333,North America
-Haiti,country,-72.333333,18.53333333,Americas: Caribbean
-Haiti,country,-72.333333,18.53333333,Americas: Caribbean
-Haiti,country,-72.333333,18.53333333,Americas: Caribbean
-Haiti,country,-72.333333,18.53333333,Americas: Caribbean
-Haiti,country,-72.333333,18.53333333,Americas: Caribbean
-Haiti,country,-72.333333,18.53333333,Americas: Caribbean
-Haiti,country,-72.333333,18.53333333,Americas: Caribbean
-Haiti,country,-72.333333,18.53333333,Americas: Caribbean
-Haiti,country,-72.333333,18.53333333,Americas: Caribbean
-Hakodate,capital,,,Japan
-Hakodate,capital,,,Japan
-Hamburg,capital,,,Germany
-Hamilton,capital,-64.783333,32.28333333,Bermuda
-Hanoi,capital,105.85,21.03333333,Vietnam
-Hanover,capital,,,Germany
-Hanseong,capital,,,
-Hanseong,capital,,,
-Harare,capital,31.033333,-17.81666667,Zimbabwe
-Hargeisa,capital,44.05,9.55,Somaliland
-Hargeisa,capital,,,Somaliland
-Hargeisa,capital,,,Somaliland
-Havana,capital,-82.35,23.11666667,Cuba
-Hawaiian Kingdom,political,-77,38.883333,United States
-Heard Island and McDonald Islands,country,0,0,Antarctica
-Heian-ky_(Kyoto),capital,,,Japan
-Helsinki,capital,24.933333,60.16666667,Finland
-Helvetic Republic,political,7.466667,46.91666667,Switzerland
-Hesse-Homburg,political,13.4,52.51666667,Germany
-Hohenzollern-Hechingen,political,13.4,52.51666667,Germany
-Hohenzollern-Sigmaringen,political,13.4,52.51666667,Germany
-Holy Roman Empire,political,13.4,52.51666667,Germany
-Honduras,country,-87.216667,14.1,Americas: Central
-Honduras,country,-87.216667,14.1,Americas: Central
-Honduras,country,-87.216667,14.1,Americas: Central
-Honduras,country,-87.216667,14.1,Central America
-Honduras,country,-87.216667,14.1,Americas: Central
-Honduras,political,-87.216667,14.1,Honduras
-Hong Kong,country,0,0,Asia
-Honiara,capital,159.95,-9.433333333,Solomon Islands
-Hu_,capital,,,Vietnam
-Hungary,country,19.083333,47.5,Europe: Central
-Hungary,country,19.083333,47.5,Europe: Central
-Hungary,country,19.083333,47.5,Europe
-"Hungary, Kingdom of",country,19.083333,47.5,Europe
-Huraa dynasty,political,73.5,4.166666667,Maldives
-Hyderabad State,political,77.2,28.6,India
-Ia_i,capital,,,Romania
-Iceland,country,-21.95,64.15,Europe
-Igbo-Ukwu,capital,,,Nigeria
-Illyrian Provinces,political,14.516667,46.05,Slovenia
-Imamate of Futa Jallon,political,-13.7,9.5,Guinea
-Imamate of Futa Toro,political,-17.633333,14.73333333,Senegal
-Imamate of Oman,political,58.583333,23.61666667,Oman
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-India ,country,77.2,28.6,Asia: South
-Indonesia,country,106.816667,-6.166666667,Asia
-Indonesia ,country,,,Asia: Southeast
-Indonesia ,country,,,Asia: Southeast
-Indonesia ,country,,,Asia: Southeast
-Indonesia ,country,,,Asia: Southeast
-Indonesia ,country,,,Asia: Southeast
-"Indrapura, Vijaya, Panduranga",capital,,,Vietnam
-Iran,country,51.416667,35.7,Asia
-Iran,country,51.416667,35.7,Asia: West
-Iran,country,51.416667,35.7,Asia: West
-Iraq,country,44.4,33.33333333,Asia
-Ireland,country,-6.233333,53.31666667,Europe
-Isaaq Sultanate,political,44.05,9.55,Somaliland
-Islamabad,capital,73.05,33.68333333,Pakistan
-Island of Mozambique,capital,,,Mozambique
-Isle of Man,country,-4.483333,54.15,Europe
-Israel,country,35.233333,31.76666667,Asia
-Italian Republic (Napoleonic),political,12.483333,41.9,Italy
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-Italy,country,12.483333,41.9,Europe: Southcentral
-"Italy, Kingdom ofÊ(Sardinian)",country,12.483333,41.9,Europe
-"Italy, Kingdom ofÊ(Sardinian)",capital,1865,Italy,Florence
-Ivory Coast,country,,,Africa: West
-Ivory Coast (French colony),country,-5.266667,6.816666667,Africa
-"Jabor,ÊJaluit Atoll",country,1885,Marshall Islands,moved toÊMajuro Atoll
-Jaisalmer,capital,,,India
-Jaisalmer State,political,77.2,28.6,India
-Jakarta,capital,106.816667,-6.166666667,Indonesia
-Jamaica,country,-76.8,18,North America
-Jamestown,capital,-5.716667,-15.93333333,Saint Helena
-Japan,country,139.75,35.68333333,Asia: East
-Japan,country,139.75,35.68333333,Asia: East
-Japan,country,139.75,35.68333333,Asia: East
-Japan,country,139.75,35.68333333,Asia: East
-Japan,country,139.75,35.68333333,Asia: East
-Japan,country,139.75,35.68333333,Asia: East
-Japan,country,139.75,35.68333333,Asia: East
-Japan,country,139.75,35.68333333,Asia
-Japan,country,139.75,35.68333333,Asia: East
-Jersey,country,-2.1,49.18333333,Europe
-Jerusalem,capital,35.233333,31.76666667,Palestine
-Jerusalem,capital,35.233333,31.76666667,Israel
-Johor Sultanate,political,101.7,3.166666667,Malaysia
-Jordan,country,35.933333,31.95,Asia
-Joseon,political,,,
-Juba,capital,31.616667,4.85,South Sudan
-July Monarchy,political,2.333333,48.86666667,France
-Kaabu,political,,,
-Kaapstad,political,28.216667,-25.7,South Africa
-Kaarta,political,,,
-Kabul,capital,69.183333,34.51666667,Afghanistan
-Kamerun,political,11.516667,3.866666667,Cameroon
-Kampala,capital,32.55,0.316666667,Uganda
-Kampala,capital,,,Uganda
-Kanem-Bornu Empire,country,7.533333,9.083333333,Africa
-Kano Emirate,political,7.533333,9.083333333,Nigeria
-Kasanje Kingdom,political,13.216667,-8.833333333,Angola
-Kashmir and Jammu,political,77.2,28.6,India
-Kassel,capital,,,Germany
-Kassel,capital,,,Germany
-Kathmandu,capital,85.316667,27.71666667,Nepal
-Kathmandu,capital,,,Nepal
-Kazakh Khanate,political,71.416667,51.16666667,Kazakhstan
-Kazakhstan,country,71.416667,51.16666667,Asia: Central
-Kazakhstan,country,71.416667,51.16666667,Asia: Central
-Kazakhstan,country,71.416667,51.16666667,Asia
-Kazembe chiefdom,political,28.283333,-15.41666667,Zambia
-Kelmis,capital,,,Belgium
-Kenya,country,36.816667,-1.283333333,"Africa: East, Lakes"
-Kenya,country,36.816667,-1.283333333,Africa
-Kenya,country,36.816667,-1.283333333,"Africa: East, Lakes"
-Khanate of Khiva,political,,,
-Khanate of Kokand,political,,,
-Kharan,political,77.2,28.6,India
-Khartoum,capital,32.533333,15.6,Sudan
-Khasso,political,,,
-Khedivate of Egypt,political,31.25,30.05,Egypt
-Kigali,capital,30.05,-1.95,Rwanda
-King Edward Point,capital,-36.5,-54.283333,South Georgia and South Sandwich Islands
-Kingdom annexed byÊKingdom of Italy,continent,,,
-Kingdom of Araucanía and Patagonia,political,-58.666667,-34.58333333,Argentina
-Kingdom of Ashanti,political,-0.216667,5.55,Ghana
-Kingdom of Bavaria,political,13.4,52.51666667,Germany
-Kingdom of Benin,political,7.533333,9.083333333,Nigeria
-Kingdom of Bohemia,political,14.466667,50.08333333,Czech Republic
-Kingdom of Bora Bora,political,,,
-Kingdom of Burundi,political,29.35,-3.366666667,Burundi
-Kingdom of Cambodia: Middle Period,political,104.916667,11.55,Cambodia
-Kingdom of Champasak,political,102.6,17.96666667,Laos
-Kingdom of Cochin,political,77.2,28.6,India
-Kingdom of Croatia (Habsburg),political,16,45.8,Croatia
-Kingdom of Croatia-Slavonia,political,16,45.8,Croatia
-Kingdom of Eswatini,political,31.133333,-26.31666667,Swaziland
-Kingdom of Etruria,political,12.483333,41.9,Italy
-Kingdom of Fiji,political,178.416667,-18.13333333,Fiji
-Kingdom of Galicia,political,-3.683333,40.4,Spain
-Kingdom of Galicia and Lodomeria,political,21,52.25,Poland
-Kingdom of Garo,political,38.7,9.033333333,Ethiopia
-Kingdom of Gomma,political,38.7,9.033333333,Ethiopia
-Kingdom of Greece,political,23.733333,37.98333333,Greece
-Kingdom of Gumma,political,38.7,9.033333333,Ethiopia
-Kingdom of Haiti,political,-72.333333,18.53333333,Haiti
-Kingdom of Hanover,political,13.4,52.51666667,Germany
-Kingdom of Holland,political,4.916667,52.35,Netherlands
-Kingdom of Huahine,political,-149.566667,-17.53333333,French Polynesia
-Kingdom of Hungary,political,19.083333,47.5,Hungary
-Kingdom of Imereti,political,44.833333,41.68333333,Georgia
-Kingdom of Italy,political,12.483333,41.9,Italy
-Kingdom of Italy (Napoleonic),political,12.483333,41.9,Italy
-Kingdom of Janjero,political,38.7,9.033333333,Ethiopia
-Kingdom of Jimma,political,38.7,9.033333333,Ethiopia
-Kingdom of Jolof,political,-17.633333,14.73333333,Senegal
-Kingdom of Kaffa,political,38.7,9.033333333,Ethiopia
-Kingdom of Kongo,political,13.216667,-8.833333333,Angola
-Kingdom of Koya,political,-13.233333,8.483333333,Sierra Leone
-Kingdom of Limmu-Ennarea,political,38.7,9.033333333,Ethiopia
-Kingdom of Loango,political,,,
-Kingdom of Lombardy–Venetia,political,12.483333,41.9,Italy
-Kingdom of Luba,political,15.3,-4.316666667,Democratic Republic of the Congo
-Kingdom of Lunda,political,15.3,-4.316666667,Democratic Republic of the Congo
-Kingdom of Mangareva,political,-149.566667,-17.53333333,French Polynesia
-Kingdom of Mysore,political,77.2,28.6,India
-Kingdom of Naples,political,12.483333,41.9,Italy
-Kingdom of Nepal,political,85.316667,27.71666667,Nepal
-Kingdom of Norway (1814),political,10.75,59.91666667,Norway
-Kingdom of Nri,political,7.533333,9.083333333,Nigeria
-Kingdom of Orungu,political,9.45,0.383333333,Gabon
-Kingdom of Portugal,political,-9.133333,38.71666667,Portugal
-Kingdom of Prussia,political,13.4,52.51666667,Germany
-Kingdom of Rarotonga,political,174.783333,-41.3,New Zealand
-Kingdom of Romania,political,26.1,44.43333333,Romania
-Kingdom of Rwanda,political,30.05,-1.95,Rwanda
-Kingdom of Sarawak,political,101.7,3.166666667,Malaysia
-Kingdom of Sardinia,political,12.483333,41.9,Italy
-Kingdom of Saxony,political,13.4,52.51666667,Germany
-Kingdom of Serbia,political,20.5,44.83333333,Serbia
-Kingdom of Sikkim,political,77.2,28.6,India
-Kingdom of Sine,political,-17.633333,14.73333333,Senegal
-Kingdom of Spain (1810–1873),political,-3.683333,40.4,Spain
-Kingdom of Tahiti,political,,,
-Kingdom of Tonga (1900–1970),political,-175.2,-21.13333333,Tonga
-Kingdom of Trinacria: Sicily,political,12.483333,41.9,Italy
-Kingdom of Welayta,political,38.7,9.033333333,Ethiopia
-Kingdom of Westphalia,political,13.4,52.51666667,Germany
-Kingdom of the Netherlands,political,4.916667,52.35,Netherlands
-Kingdom of the Two Sicilies,political,12.483333,41.9,Italy
-Kingdoms of Naples and Sicily,political,12.483333,41.9,Italy
-Kingston,capital,-76.8,18,Jamaica
-Kingston,capital,167.966667,-29.05,Norfolk Island
-Kingstown,capital,-61.216667,13.13333333,Saint Vincent and the Grenadines
-Kinshasa,capital,15.3,-4.316666667,Democratic Republic of the Congo
-Kiribati,country,169.533333,-0.883333333,Australia
-Kiribati,country,169.533333,-0.883333333,Oceania
-Kiribati,country,169.533333,-0.883333333,Oceania
-Kolonia,country,1986,Federated States of Micronesia,moved toÊPalikir
-Konbaung Dynasty,country,96.15,16.8,Asia
-Konbaung dynasty,political,,,
-Kong Empire,political,,,
-Korea,country,,,Asia: East
-Korea,country,,,Asia: East
-Korean Empire,political,,,
-Kosovo,country,21.166667,42.66666667,Europe: Balkans
-Kosovo,country,21.166667,42.66666667,Europe: Balkans
-Kosovo,country,21.166667,42.66666667,Europe
-Kosovo Vilayet,political,21.166667,42.66666667,Kosovo
-Kuala Lumpur,capital,101.7,3.166666667,Malaysia
-Kuba Kingdom,political,15.3,-4.316666667,Democratic Republic of the Congo
-Kukawa,capital,,,Nigeria
-Kuwait,country,47.966667,29.36666667,Asia
-Kuwait,country,47.966667,29.36666667,Asia: West
-Kuwait,country,47.966667,29.36666667,Asia: West
-Kuwait City,capital,47.966667,29.36666667,Kuwait
-Kyiv,capital,30.516667,50.43333333,Ukraine
-Kyrgyzstan,country,74.6,42.86666667,Asia
-Kénédougou Kingdom,political,,,
-La Paz,capital,-68.15,-16.5,Bolivia
-Landgraviate of Hesse-Darmstadt,political,13.4,52.51666667,Germany
-Lanfang Republic,political,,,
-Laos,country,102.6,17.96666667,Asia
-Laos,country,102.6,17.96666667,Asia: Southeast
-Laos,country,102.6,17.96666667,Asia: Southeast
-Las Bela,political,77.2,28.6,India
-Latvia,country,24.1,56.95,Europe
-Lebanon,country,35.5,33.86666667,Asia
-Lesotho,country,27.483333,-29.31666667,Africa: South
-Lesotho,country,27.483333,-29.31666667,Africa: South
-Lesotho,country,27.483333,-29.31666667,Africa
-Levuka,capital,,,Fiji
-Liberia,country,-10.8,6.3,Africa: West
-Liberia,country,-10.8,6.3,Africa: West
-Liberia,country,-10.8,6.3,Africa: West
-Liberia,country,-10.8,6.3,Africa: West
-Liberia,political,-10.8,6.3,Liberia
-Liberia,country,-10.8,6.3,Africa
-Libreville,capital,9.45,0.383333333,Gabon
-Libya,country,13.166667,32.88333333,Africa
-Liechtenstein,country,9.516667,47.13333333,Europe: Central
-Liechtenstein,country,9.516667,47.13333333,Europe: Central
-Liechtenstein,political,9.516667,47.13333333,Liechtenstein
-Liechtenstein,country,9.516667,47.13333333,Europe
-Liga Federal,political,-56.166667,-34.85,Uruguay
-Ligurian Republic,political,12.483333,41.9,Italy
-Lilongwe,capital,33.783333,-13.96666667,Malawi
-Lima,capital,-77.05,-12.05,Peru
-Lisbon,capital,-9.133333,38.71666667,Portugal
-Lithuania,country,25.316667,54.68333333,Europe
-Ljubljana,capital,14.516667,46.05,Slovenia
-Lombardo-Venetian Kingdom,capital,1859,Italy,Venice
-Lome,capital,1.216667,6.116666667,Togo
-London,capital,,,United Kingdom
-London,capital,-0.083333,51.5,United Kingdom
-Longyearbyen,capital,15.633333,78.21666667,Svalbard
-Luanda,capital,13.216667,-8.833333333,Angola
-Luanda,political,,,
-Lucca,capital,,,Italy
-Lucca,capital,,,Italy
-Lucca,political,12.483333,41.9,Italy
-Lucerne,capital,,,Switzerland
-Lusaka,capital,28.283333,-15.41666667,Zambia
-Luxembourg,political,6.116667,49.6,Luxembourg
-Luxembourg,country,6.116667,49.6,"Europe: West, Low Countries"
-Luxembourg,country,6.116667,49.6,"Europe: West, Low Countries"
-Luxembourg,country,6.116667,49.6,Europe
-Luxembourg,capital,6.116667,49.6,Luxembourg
-Macau,country,0,0,Asia
-Macedonia,country,21.433333,42,Europe
-Madagascar,country,47.516667,-18.91666667,Africa: East
-Madagascar,country,47.516667,-18.91666667,Africa
-Madagascar,country,47.516667,-18.91666667,Africa: East
-Madrid,capital,-3.683333,40.4,Spain
-Maguindanao Sultanate,country,120.966667,14.6,Asia
-Majeerteen Sultanate,political,45.333333,2.066666667,Somalia
-Majuro,capital,171.383333,7.1,Marshall Islands
-Makran,political,77.2,28.6,India
-Malabo,capital,8.783333,3.75,Equatorial Guinea
-Malawi,country,33.783333,-13.96666667,Africa: South
-Malawi,country,33.783333,-13.96666667,Africa: South
-Malawi,country,33.783333,-13.96666667,Africa
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Malaysia,country,101.7,3.166666667,Asia: Southeast
-Maldives,country,73.5,4.166666667,Asia: South
-Maldives,country,73.5,4.166666667,Asia: South
-Maldives,country,73.5,4.166666667,Asia: South
-Maldives,country,73.5,4.166666667,Asia
-Maldives,country,73.5,4.166666667,Asia: South
-Male,capital,73.5,4.166666667,Maldives
-Mali,country,-8,12.65,Africa
-Malietoa dynasty (Samoa),political,-171.766667,-13.81666667,Samoa
-Mali ,country,,,Africa: West
-Mali ,country,,,Africa: West
-Mali ,country,,,Africa: West
-Mali ,country,,,Africa: West
-Mali ,country,,,Africa: West
-Mali ,country,,,Africa: West
-Mali ,country,,,Africa: West
-Mali ,country,,,Africa: West
-Malta,country,14.5,35.88333333,Europe: Southcentral
-Malta,country,14.5,35.88333333,Europe
-Malta,country,14.5,35.88333333,Europe: Southcentral
-Malta,country,14.5,35.88333333,Europe: Southcentral
-Malta,country,14.5,35.88333333,Europe: Southcentral
-Malta Protectorate,political,14.5,35.88333333,Malta
-Managua,capital,-86.25,12.13333333,Nicaragua
-Manama,capital,50.566667,26.23333333,Bahrain
-Mandalay,capital,,,Myanmar
-Manila,capital,120.966667,14.6,Philippines
-Manipur,political,77.2,28.6,India
-Maputo,capital,32.583333,-25.95,Mozambique
-Maratha Empire,political,77.2,28.6,India
-Maravi,political,33.783333,-13.96666667,Malawi
-Marawi,capital,,,Philippines
-Mariehamn,capital,19.9,60.116667,Aland Islands
-Marigot,capital,-63.0822,18.0731,Saint Martin
-Marshall Islands,country,171.383333,7.1,Australia
-Marshall Islands District,capital,1885,Marshall Islands,"Jabor,ÊJaluit Atoll"
-Maseru,capital,27.483333,-29.31666667,Lesotho
-Massina Empire,political,,,
-Mata-Utu,capital,-171.933333,-13.95,Wallis and Futuna
-Mauritania,country,-15.966667,18.06666667,Africa
-Mauritius,country,57.483333,-20.15,Africa
-Mbabane,capital,31.133333,-26.31666667,Swaziland
-Medri Bahri,political,38.933333,15.33333333,Eritrea
-Melekeok,capital,134.633333,7.483333333,Palau
-Merina Kingdom,political,47.516667,-18.91666667,Madagascar
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Central America
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,political,-99.133333,19.43333333,Mexico
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico,country,-99.133333,19.43333333,Americas: North
-Mexico City,capital,-99.133333,19.43333333,Mexico
-Milan,capital,,,Italy
-Milan,capital,,,Italy
-Minsk,capital,27.566667,53.9,Belarus
-Mogadishu,capital,45.333333,2.066666667,Somalia
-Moldova,country,28.85,47,Europe
-Monaco,country,7.416667,43.73333333,Europe: West
-Monaco,country,7.416667,43.73333333,Europe: West
-Monaco,political,7.416667,43.73333333,Monaco
-Monaco,country,7.416667,43.73333333,Europe
-Monaco,capital,7.416667,43.73333333,Monaco
-Mongolia,country,106.916667,47.91666667,Asia
-Monrovia,capital,-10.8,6.3,Liberia
-Montenegro,country,19.266667,42.43333333,Europe
-Montenegro,country,19.266667,42.43333333,Europe: Balkans
-Montenegro,country,19.266667,42.43333333,Europe: Balkans
-Montenegro,country,19.266667,42.43333333,Europe: Balkans
-Montenegro,country,19.266667,42.43333333,Europe: Balkans
-Montevideo,capital,-56.166667,-34.85,Uruguay
-Montserrat,country,-62.216667,16.7,North America
-Morocco,country,-6.816667,34.01666667,Africa: Northwest
-Morocco,country,-6.816667,34.01666667,Africa: Northwest
-Morocco,country,-6.816667,34.01666667,Africa
-Moroni,capital,43.233333,-11.7,Comoros
-Moscow,capital,37.6,55.75,Russia
-Mosquito Coast,political,-86.25,12.13333333,Nicaragua
-Mossi Kingdoms,political,-1.516667,12.36666667,Burkina Faso
-Mozambique,country,32.583333,-25.95,Africa: South
-Mozambique,country,32.583333,-25.95,Africa: South
-Mozambique,country,32.583333,-25.95,Africa: South
-Mozambique,country,32.583333,-25.95,Africa
-Mozambique,country,32.583333,-25.95,Africa: South
-Mozambique,country,32.583333,-25.95,Africa: South
-Mozambique ,country,32.583333,-25.95,Africa: South
-Mthethwa Paramountcy,political,28.216667,-25.7,South Africa
-Mthwakazi,political,31.033333,-17.81666667,Zimbabwe
-Mughal Empire,political,77.2,28.6,India
-Muscat,capital,58.583333,23.61666667,Oman
-Muscat and Oman,political,58.583333,23.61666667,Oman
-Mwibele,capital,,,Democratic Republic of the Congo
-Myanmar,country,96.15,16.8,Asia
-"Mysore, Srirangapatna",capital,,,India
-N'Djamena,capital,15.033333,12.1,Chad
-Nafplio,capital,,,Greece
-Nairobi,capital,36.816667,-1.283333333,Kenya
-Namibia,country,17.083333,-22.56666667,Africa: South
-Namibia,country,17.083333,-22.56666667,Africa: South
-Namibia,country,17.083333,-22.56666667,Africa
-Naples,capital,,,Italy
-Naples,capital,,,Italy
-Nassau,capital,-77.35,25.08333333,Bahamas
-Nauru,country,166.920867,-0.5477,Australia
-Nepal,country,85.316667,27.71666667,Asia
-Nepal,country,85.316667,27.71666667,Asia: South
-Nepal,country,85.316667,27.71666667,Asia: South
-Netherlands,country,4.916667,52.35,"Europe: West, Low Countries"
-Netherlands,country,4.916667,52.35,"Europe: West, Low Countries"
-Netherlands,country,4.916667,52.35,"Europe: West, Low Countries"
-Netherlands,country,4.916667,52.35,"Europe: West, Low Countries"
-Netherlands,country,4.916667,52.35,"Europe: West, Low Countries"
-Netherlands,country,4.916667,52.35,"Europe: West, Low Countries"
-Netherlands,country,4.916667,52.35,"Europe: West, Low Countries"
-Netherlands,country,4.916667,52.35,Europe
-Netherlands,country,4.916667,52.35,"Europe: West, Low Countries"
-Netherlands,country,4.916667,52.35,"Europe: West, Low Countries"
-Netherlands,country,4.916667,52.35,"Europe: West, Low Countries"
-Neutral Moresnet,country,4.333333,50.83333333,Europe
-New Caledonia,country,166.45,-22.26666667,Australia
-New Delhi,capital,77.2,28.6,India
-New Guinea,country,,,Oceania
-New Zealand,country,174.783333,-41.3,Oceania
-New Zealand,country,174.783333,-41.3,Oceania
-New Zealand,country,174.783333,-41.3,Oceania
-New Zealand,country,174.783333,-41.3,Oceania
-New Zealand,country,174.783333,-41.3,Australia
-Ngazargamu,capital,,,Chad
-Niamey,capital,2.116667,13.51666667,Niger
-Nicaragua,country,-86.25,12.13333333,Americas: Central
-Nicaragua,country,-86.25,12.13333333,Americas: Central
-Nicaragua,political,-86.25,12.13333333,Nicaragua
-Nicaragua,country,-86.25,12.13333333,Americas: Central
-Nicaragua,country,-86.25,12.13333333,Central America
-Nicaragua,country,-86.25,12.13333333,Americas: Central
-Nicosia,capital,33.366667,35.16666667,Cyprus
-Nieuwe Republiek,political,28.216667,-25.7,South Africa
-Niger,country,2.116667,13.51666667,Africa: West
-Niger,country,2.116667,13.51666667,Africa: West
-Niger,country,2.116667,13.51666667,Africa: West
-Niger,country,2.116667,13.51666667,Africa: West
-Niger,country,2.116667,13.51666667,Africa
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria,country,7.533333,9.083333333,Africa
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria,country,7.533333,9.083333333,Africa: West
-Nigeria ,country,7.533333,9.083333333,Africa: West
-Niue,country,-169.916667,-19.01666667,Oceania
-Niue,country,-169.916667,-19.01666667,Oceania
-Niue,country,-169.916667,-19.01666667,Australia
-Niue,country,-169.916667,-19.01666667,Oceania
-Niue,country,-169.916667,-19.01666667,Oceania
-Niuean monarchy,political,-169.916667,-19.01666667,Niue
-Norfolk Island,country,167.966667,-29.05,Australia
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North America,continent,,,
-North Borneo,political,101.7,3.166666667,Malaysia
-North German Confederation,political,13.4,52.51666667,Germany
-North Korea,country,125.75,39.01666667,Asia
-North Nicosia,capital,33.366667,35.183333,Northern Cyprus
-Northern Cyprus,country,33.366667,35.183333,Europe
-Northern Mariana Islands,country,145.75,15.2,Australia
-Norway,country,10.75,59.91666667,Europe: Nordic
-Norway,country,10.75,59.91666667,Europe
-Norway,country,10.75,59.91666667,Europe
-Norway,country,10.75,59.91666667,Europe: Nordic
-Not specified,capital,,,Angola
-Not specified,capital,,,Democratic Republic of the Congo
-Not specified,capital,,,Democratic Republic of the Congo
-Nouakchott,capital,-15.966667,18.06666667,Mauritania
-Noumea,capital,166.45,-22.26666667,New Caledonia
-Nuku'alofa,capital,-175.2,-21.13333333,Tonga
-Nuuk,capital,-51.75,64.18333333,Greenland
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Oceania,region,,,
-Okiato(Russell),capital,,,New Zealand
-Oldenburg,capital,,,Germany
-Oman,country,58.583333,23.61666667,Asia
-Oman,country,58.583333,23.61666667,Asia: West
-Oman,country,58.583333,23.61666667,Asia: West
-Oman,country,58.583333,23.61666667,Asia: West
-Oman,country,58.583333,23.61666667,Asia: West
-Orange Free State,political,28.216667,-25.7,South Africa
-Oranjestad,capital,-70.033333,12.51666667,Aruba
-Oslo,capital,10.75,59.91666667,Norway
-Otjimbingwe,capital,,,Namibia
-Ottawa,capital,-75.7,45.41666667,Canada
-Ottoman Algeria,political,3.05,36.75,Algeria
-Ottoman Empire,political,32.866667,39.93333333,Turkey
-Ouagadougou,capital,-1.516667,12.36666667,Burkina Faso
-Oyo Empire,political,7.533333,9.083333333,Nigeria
-Oyo-Ile,capital,,,Nigeria
-Pago Pago,capital,-170.7,-14.26666667,American Samoa
-Pakistan,country,73.05,33.68333333,Asia
-Palau,country,134.633333,7.483333333,Australia
-Palestine,country,35.233333,31.76666667,Asia
-Palikir,capital,158.15,6.916666667,Federated States of Micronesia
-Panama,country,-79.533333,8.966666667,Central America
-Panama City,capital,-79.533333,8.966666667,Panama
-Papal,country,,,Europe: Southcentral
-Papal States,political,,,
-Papeete,capital,-149.566667,-17.53333333,French Polynesia
-Papua New Guinea,country,147.183333,-9.45,Australia
-Papua New Guinea,country,147.183333,-9.45,Oceania
-Papua New Guinea,country,147.183333,-9.45,Oceania
-Paraguay,country,-57.666667,-25.26666667,Americas: South
-Paraguay,political,-57.666667,-25.26666667,Paraguay
-Paraguay,country,-57.666667,-25.26666667,South America
-Paraguay,country,-57.666667,-25.26666667,Americas: South
-Paramaribo,capital,-55.166667,5.833333333,Suriname
-Paris,capital,2.333333,48.86666667,France
-Paris,capital,,,France
-Pashalik of Timbuktu,political,,,
-Pattani kingdom,political,101.7,3.166666667,Malaysia
-Peking,capital,,,China
-Perak Sultanate: Siak dynasty,political,101.7,3.166666667,Malaysia
-Persia,country,,,Asia: West
-Persia: Qajar dynasty,political,,,
-Peru,country,-77.05,-12.05,Americas: South
-Peru,country,-77.05,-12.05,Americas: South
-Peru,country,-77.05,-12.05,Americas: South
-Peru,country,-77.05,-12.05,South America
-Peru,country,-77.05,-12.05,Americas: South
-Peru,country,-77.05,-12.05,Americas: South
-Peru,country,-77.05,-12.05,Americas: South
-Peru,political,-77.05,-12.05,Peru
-Peru–Bolivian Confederation,political,-77.05,-12.05,Peru
-Petrograd (Saint Petersburg),capital,,,Russia
-Philippines,country,120.966667,14.6,Asia
-Philippines,country,120.966667,14.6,Asia: Southeast
-Philippines,country,120.966667,14.6,Asia: Southeast
-Philippines,country,120.966667,14.6,Asia: Southeast
-Philippines,country,120.966667,14.6,Asia: Southeast
-Philippines,country,120.966667,14.6,Asia: Southeast
-Philippines,country,120.966667,14.6,Asia: Southeast
-Philipsburg,capital,-63.033333,18.01666667,Sint Maarten
-Phnom Penh,capital,,,Cambodia
-Phnom Penh,capital,104.916667,11.55,Cambodia
-Phœ Xu‰nÊ(Hu_),capital,,,Vietnam
-Pitcairn Islands,country,-130.083333,-25.06666667,Australia
-Plovdiv,capital,,,Bulgaria
-Plymouth,capital,-62.216667,16.7,Montserrat
-Podgorica,capital,19.266667,42.43333333,Montenegro
-Poland,country,21,52.25,Europe: Central
-Poland,country,21,52.25,Europe: Central
-Poland,country,21,52.25,Europe: Central
-Poland,country,21,52.25,Europe
-Poland,country,21,52.25,Europe: Central
-Poland,country,21,52.25,Europe: Central
-Poland,country,21,52.25,Europe: Central
-Port Louis,capital,57.483333,-20.15,Mauritius
-Port Moresby,capital,147.183333,-9.45,Papua New Guinea
-Port of Spain,capital,-61.516667,10.65,Trinidad and Tobago
-Port-Vila,capital,168.316667,-17.73333333,Vanuatu
-Port-au-Prince,capital,-72.333333,18.53333333,Haiti
-Port-aux-FranÃ§ais,capital,70.216667,-49.35,French Southern and Antarctic Lands
-Porto-Novo,capital,2.616667,6.483333333,Benin
-Portugal,country,-9.133333,38.71666667,Europe: Southwest
-Portugal,country,-9.133333,38.71666667,Europe: Southwest
-Portugal,country,-9.133333,38.71666667,Europe
-"Portugal, Brazil and the Algarves",political,-47.916667,-15.78333333,Brazil
-Portuguese Cape Verde,political,-23.516667,14.91666667,Cape Verde
-Portuguese Guinea,political,-13.7,9.5,Guinea
-Portuguese Guinea,country,-15.583333,11.85,Africa
-Portuguese Mozambique,political,32.583333,-25.95,Mozambique
-Portuguese Mozambique,country,32.583333,-25.95,Africa
-Portuguese São Tomé and Príncipe,political,,,
-Portuguese Timor,political,,,
-Prague,capital,14.466667,50.08333333,Czech Republic
-Praia,capital,-23.516667,14.91666667,Cape Verde
-Pretoria,capital,28.216667,-25.7,South Africa
-Prince-Bishopric of Montenegro,political,19.266667,42.43333333,Montenegro
-Principality of Aschaffenburg,political,13.4,52.51666667,Germany
-Principality of Bulgaria,country,23.316667,42.68333333,Europe
-Principality of Bulgaria,political,23.316667,42.68333333,Bulgaria
-Principality of Leyen,political,13.4,52.51666667,Germany
-Principality of Lippe,political,13.4,52.51666667,Germany
-Principality of Moldavia,political,26.1,44.43333333,Romania
-Principality of Montenegro,political,19.266667,42.43333333,Montenegro
-Principality of Regensburg,political,13.4,52.51666667,Germany
-Principality of Reuss-Gera,political,13.4,52.51666667,Germany
-Principality of Reuss-Greiz,political,13.4,52.51666667,Germany
-Principality of Schaumburg-Lippe,political,13.4,52.51666667,Germany
-Principality of Serbia,political,20.5,44.83333333,Serbia
-Principality of Wallachia,political,26.1,44.43333333,Romania
-Pristina,capital,21.166667,42.66666667,Kosovo
-Provisional Government of Hawaii,political,-77,38.883333,United States
-Prussia,political,13.4,52.51666667,Germany
-Puerto Rico,country,-66.116667,18.46666667,North America
-Pyongyang,capital,125.75,39.01666667,North Korea
-Qatar,country,51.533333,25.28333333,Asia
-Qing dynasty,political,116.383333,39.91666667,China
-Quito,capital,-78.5,-0.216666667,Ecuador
-Rabat,capital,-6.816667,34.01666667,Morocco
-Ragusa,capital,,,Croatia
-Ragusa (Dubrovnik),capital,,,Croatia
-"Ragusa, RepublicÊof",country,16,45.8,Europe
-Raiatea,political,-149.566667,-17.53333333,French Polynesia
-Rangoon,capital,96.15,16.8,Myanmar
-Rangoon (Yangon),capital,,,Myanmar
-Rattanakosin Kingdom of Siam,political,100.516667,13.75,Thailand
-Rattanatingsa,capital,1802,Thailand,Chiang Mai
-Republic of Acre,political,-47.916667,-15.78333333,Brazil
-Republic of Congo,country,15.283333,-4.25,Africa
-Republic of Cospaia,political,12.483333,41.9,Italy
-Republic of Ezo,country,139.75,35.68333333,Asia
-Republic of Ezo,political,139.75,35.68333333,Japan
-Republic of Formosa,political,121.516667,25.03333333,Taiwan
-Republic of Genoa,political,12.483333,41.9,Italy
-Republic of Hawaii,political,-77,38.883333,United States
-Republic of Indian Stream,political,-77,38.883333,United States
-Republic of Lucca,political,12.483333,41.9,Italy
-Republic of Manitoba,political,-75.7,45.41666667,Canada
-Republic of Maryland,political,-10.8,6.3,Liberia
-Republic of New Granada,political,-74.083333,4.6,Colombia
-Republic of Ragusa,political,16,45.8,Croatia
-Republic of Sonora,political,-99.133333,19.43333333,Mexico
-Republic of Texas,political,-77,38.883333,United States
-Republic of West Florida,political,-77,38.883333,United States
-Republic of Yucatán,political,-99.133333,19.43333333,Mexico
-Republic of the Congo,country,,,Africa: Central
-Republic of the Congo,country,,,Africa: Central
-Republic of the Congo,country,,,Africa: Central
-Republic of the Rio Grande,political,-99.133333,19.43333333,Mexico
-Republic of Colombia,political,-74.083333,4.6,Colombia
-Restoration and Regeneration in Switzerland,political,7.466667,46.91666667,Switzerland
-Reuss,political,13.4,52.51666667,Germany
-Reuss-Ebersdorf,political,13.4,52.51666667,Germany
-Reuss-Lobenstein,political,13.4,52.51666667,Germany
-Reykjavik,capital,-21.95,64.15,Iceland
-Riga,capital,24.1,56.95,Latvia
-Riyadh,capital,46.7,24.65,Saudi Arabia
-Road Town,capital,-64.616667,18.41666667,British Virgin Islands
-Roman Republic (19th century),political,12.483333,41.9,Italy
-Romania,country,26.1,44.43333333,Europe: East
-Romania,country,26.1,44.43333333,Europe: East
-Romania,country,26.1,44.43333333,Europe: East
-Romania,country,26.1,44.43333333,Europe: East
-Romania,country,26.1,44.43333333,Europe: East
-Romania,country,26.1,44.43333333,Europe: East
-Romania,country,26.1,44.43333333,Europe: East
-Romania,country,26.1,44.43333333,Europe
-Romania,country,26.1,44.43333333,Europe: East
-Romanian United Principalities,country,26.1,44.43333333,Europe
-Rome,capital,12.483333,41.9,Italy
-Rome,capital,,,
-Rome,capital,,,Italy
-Roquebrune-Cap-Martin,political,2.333333,48.86666667,France
-Roseau,capital,-61.4,15.3,Dominica
-Rozvi Empire,political,31.033333,-17.81666667,Zimbabwe
-Russia,country,37.6,55.75,Europe: East; Asia: Central
-Russia,country,37.6,55.75,Europe
-Russia,country,37.6,55.75,Europe: East; Asia: Central
-Russian Empire,political,37.6,55.75,Russia
-Russian Empire,country,37.6,55.75,Europe
-Rwanda,country,30.05,-1.95,Africa
-Rwanda,country,30.05,-1.95,"Africa: East, Lakes"
-Rwanda,country,30.05,-1.95,"Africa: East, Lakes"
-Ryukyu Kingdom,political,139.75,35.68333333,Japan
-Saint Barthelemy,country,-62.85,17.88333333,North America
-Saint George's,capital,-61.75,12.05,Grenada
-Saint Helena,country,-5.716667,-15.93333333,Africa
-Saint Helier,capital,-2.1,49.18333333,Jersey
-Saint John's,capital,-61.85,17.11666667,Antigua and Barbuda
-Saint Kitts and Nevis,country,-62.716667,17.3,North America
-Saint Lucia,country,-61,14,North America
-Saint Lucia,country,-61,14,Americas: Caribbean
-Saint Lucia,country,-61,14,Americas: Caribbean
-Saint Martin,country,-63.0822,18.0731,North America
-Saint Peter Port,capital,-2.533333,49.45,Guernsey
-Saint Pierre and Miquelon,country,-56.183333,46.76666667,Central America
-Saint Vincent and the Grenadines,country,-61.216667,13.13333333,Central America
-Saint-Domingue,political,-72.333333,18.53333333,Haiti
-Saint-Pierre,capital,-56.183333,46.76666667,Saint Pierre and Miquelon
-Saipan,capital,145.75,15.2,Northern Mariana Islands
-Samoa,country,-171.766667,-13.81666667,Oceania
-Samoa,country,-171.766667,-13.81666667,Oceania
-Samoa,country,-171.766667,-13.81666667,Australia
-Samoa,country,-171.766667,-13.81666667,Oceania
-Samoa,country,-171.766667,-13.81666667,Oceania
-Samoa,country,-171.766667,-13.81666667,Oceania
-Samoa,country,-171.766667,-13.81666667,Oceania
-San Jose,capital,-84.083333,9.933333333,Costa Rica
-San Juan,capital,-66.116667,18.46666667,Puerto Rico
-San Marino,political,12.416667,43.93333333,San Marino
-San Marino,capital,12.416667,43.93333333,San Marino
-San Marino,country,12.416667,43.93333333,Europe
-San Marino,country,12.416667,43.93333333,Europe: Southcentral
-San Marino,capital,,,San Marino
-San Marino,country,12.416667,43.93333333,Europe: Southcentral
-San Salvador,capital,-89.2,13.7,El Salvador
-Sanaa,capital,44.2,15.35,Yemen
-Santiago,capital,-70.666667,-33.45,Chile
-Santiago de Compostela,capital,,,Spain
-Santo Domingo,capital,-69.9,18.46666667,Dominican Republic
-Sao Tome,capital,6.733333,0.333333333,Sao Tome and Principe
-Sao Tome and Principe,country,6.733333,0.333333333,Africa
-Sarajevo,capital,18.416667,43.86666667,Bosnia and Herzegovina
-Saudi Arabia,country,46.7,24.65,Asia: West
-Saudi Arabia,country,46.7,24.65,Asia
-Saudi Arabia,country,46.7,24.65,Asia: West
-Saudi Arabia,country,46.7,24.65,Asia: West
-Saudi Arabia,country,46.7,24.65,Asia: West
-Saxe-Coburg and Gotha,political,13.4,52.51666667,Germany
-Saxe-Coburg-Saalfeld,political,13.4,52.51666667,Germany
-Saxe-Gotha-Altenburg,political,13.4,52.51666667,Germany
-Saxe-Hildburghausen,political,13.4,52.51666667,Germany
-Saxe-Lauenburg,political,13.4,52.51666667,Germany
-Schwarzburg-Rudolstadt,political,13.4,52.51666667,Germany
-Schwarzburg-Sondershausen,political,13.4,52.51666667,Germany
-Second French Empire,political,2.333333,48.86666667,France
-Second Mexican Empire,political,-99.133333,19.43333333,Mexico
-Selangor Sultanate,political,101.7,3.166666667,Malaysia
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal,country,-17.633333,14.73333333,Africa: West
-Senegal ,country,,,Africa: West
-Seoul,capital,126.983333,37.55,South Korea
-Septinsular Republic,political,23.733333,37.98333333,Greece
-Serbia,country,20.5,44.83333333,Europe: Balkans
-Serbia,country,20.5,44.83333333,Europe
-Serbia,country,20.5,44.83333333,Europe: Balkans
-Serbia,country,20.5,44.83333333,Europe: Balkans
-Serbia,country,20.5,44.83333333,Europe: Balkans
-Seychelles,country,55.45,-4.616666667,Africa
-Sheikhdom of Kuwait,political,47.966667,29.36666667,Kuwait
-Shilluk Kingdom,political,31.616667,4.85,South Sudan
-Sierra Leone,country,-13.233333,8.483333333,Africa: West
-Sierra Leone,country,-13.233333,8.483333333,Africa: West
-Sierra Leone,country,-13.233333,8.483333333,Africa: West
-Sierra Leone,country,-13.233333,8.483333333,Africa: West
-Sierra Leone,country,-13.233333,8.483333333,Africa
-Sierra Leone Colony and Protectorate,political,-13.233333,8.483333333,Sierra Leone
-Sikh Empire,political,77.2,28.6,India
-Singapore,capital,103.85,1.283333333,Singapore
-Singapore,country,103.85,1.283333333,Asia
-Sint Maarten,country,-63.033333,18.01666667,North America
-Sirmoor State,political,77.2,28.6,India
-Sirmür,capital,,,India
-Skopje,capital,21.433333,42,Macedonia
-Slovakia,country,17.116667,48.15,Europe
-Slovenia,country,14.516667,46.05,Europe: Balkans
-Slovenia,country,14.516667,46.05,Europe: Balkans
-Slovenia,country,14.516667,46.05,Europe
-Sofia,capital,23.316667,42.68333333,Bulgaria
-Sokoto Caliphate,political,7.533333,9.083333333,Nigeria
-Solomon Islands,country,159.95,-9.433333333,Oceania
-Solomon Islands,country,159.95,-9.433333333,Oceania
-Solomon Islands,country,159.95,-9.433333333,Australia
-Somalia,country,45.333333,2.066666667,Africa
-Somalia,country,45.333333,2.066666667,"Africa: East, Horn"
-Somalia,country,45.333333,2.066666667,"Africa: East, Horn"
-Somalia,country,45.333333,2.066666667,"Africa: East, Horn"
-Somalia,country,45.333333,2.066666667,"Africa: East, Horn"
-Somaliland,country,44.05,9.55,"Africa: East, Horn"
-Somaliland,country,44.05,9.55,"Africa: East, Horn"
-Somaliland,country,44.05,9.55,"Africa: East, Horn"
-Somaliland,country,44.05,9.55,"Africa: East, Horn"
-Somaliland,country,44.05,9.55,Africa
-Soran Emirate,political,51.416667,35.7,Iran
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa
-South Africa,country,28.216667,-25.7,Africa: South
-South Africa,country,28.216667,-25.7,Africa: South
-South African Republic,political,28.216667,-25.7,South Africa
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South America,continent,,,
-South Georgia and South Sandwich Islands,country,-36.5,-54.283333,Antarctica
-South Korea,country,126.983333,37.55,Asia
-South Sudan,country,31.616667,4.85,"Africa: East, Lakes"
-South Sudan,country,31.616667,4.85,Africa
-South Sudan,country,31.616667,4.85,"Africa: East, Lakes"
-Sovereign Principality of Elba,political,12.483333,41.9,Italy
-Sovereign Principality of the United Netherlands,political,4.916667,52.35,Netherlands
-Spain,country,-3.683333,40.4,Europe: Southwest
-Spain,country,-3.683333,40.4,Europe
-Spain,country,-3.683333,40.4,Europe: Southwest
-Spain,country,-3.683333,40.4,Europe: Southwest
-Spain,country,-3.683333,40.4,Europe: Southwest
-Spain,country,-3.683333,40.4,Europe: Southwest
-Spain,country,-3.683333,40.4,Europe: Southwest
-Spain,country,-3.683333,40.4,Europe: Southwest
-Spain,country,-3.683333,40.4,Europe: Southwest
-Spain,country,-3.683333,40.4,Europe: Southwest
-Spain,country,-3.683333,40.4,Europe: Southwest
-"Spanish East Indies, part of the Captaincy General of the Philippines",political,120.966667,14.6,Philippines
-Spanish Sahara,political,-13.203333,27.153611,Western Sahara
-Sri Lanka,country,79.833333,6.916666667,Asia: South
-Sri Lanka,country,79.833333,6.916666667,Asia
-Sri Lanka,country,79.833333,6.916666667,Asia: South
-Stanley,capital,-57.85,-51.7,Falkland Islands
-State of Haiti,political,-72.333333,18.53333333,Haiti
-State of Muskogee,political,-77,38.883333,United States
-Stockholm,capital,18.05,59.33333333,Sweden
-Straits Settlements,political,101.7,3.166666667,Malaysia
-Stuttgart,capital,,,Germany
-Sudan,country,32.533333,15.6,Africa: Northeast
-Sudan,country,32.533333,15.6,Africa: Northeast
-Sudan,country,32.533333,15.6,Africa: Northeast
-Sudan,country,32.533333,15.6,Africa: Northeast
-Sudan,country,32.533333,15.6,Africa: Northeast
-Sudan,country,32.533333,15.6,Africa: Northeast
-Sudan,country,32.533333,15.6,Africa
-Sultanate of Aussa,political,38.7,9.033333333,Ethiopia
-Sultanate of Bagirmi,political,15.033333,12.1,Chad
-Sultanate of Damagaram,political,2.116667,13.51666667,Niger
-Sultanate of Darfur,political,32.533333,15.6,Sudan
-Sultanate of Hobyo,political,45.333333,2.066666667,Somalia
-Sultanate of Maguindanao,political,120.966667,14.6,Philippines
-Sultanate of Morocco,political,-6.816667,34.01666667,Morocco
-Sultanate of Pahang,political,101.7,3.166666667,Malaysia
-Sultanate of Serdang,political,,,
-Sultanate of Sulu,political,120.966667,14.6,Philippines
-Sultanate of Zanzibar,political,39.283333,-6.8,Tanzania
-Sultanate of the Maldives,political,73.5,4.166666667,Maldives
-Sultans of the Comoros,political,43.233333,-11.7,Comoros
-Suriname,country,-55.166667,5.833333333,Americas: South
-Suriname,country,-55.166667,5.833333333,Americas: South
-Suriname,country,-55.166667,5.833333333,South America
-Suva,capital,178.416667,-18.13333333,Fiji
-Svalbard,country,15.633333,78.21666667,Europe
-Swaziland,country,31.133333,-26.31666667,Africa
-Swaziland,country,31.133333,-26.31666667,Africa: South
-Swaziland,country,31.133333,-26.31666667,Africa: South
-Sweden,country,18.05,59.33333333,Europe: Nordic
-Sweden,country,18.05,59.33333333,Europe: Nordic
-Sweden,country,18.05,59.33333333,Europe: Nordic
-Sweden,country,18.05,59.33333333,Europe: Nordic
-Sweden,country,18.05,59.33333333,Europe
-Sweden–Norway,political,18.05,59.33333333,Sweden
-Switzerland,country,7.466667,46.91666667,Europe: Central
-Switzerland,country,7.466667,46.91666667,Europe: Central
-Switzerland,country,7.466667,46.91666667,Europe: Central
-Switzerland,country,7.466667,46.91666667,Europe
-Switzerland,country,7.466667,46.91666667,Europe: Central
-Switzerland,country,7.466667,46.91666667,Europe: Central
-Switzerland,political,7.466667,46.91666667,Switzerland
-Switzerland,country,7.466667,46.91666667,Europe: Central
-Switzerland,country,7.466667,46.91666667,Europe: Central
-Switzerland,country,7.466667,46.91666667,Europe: Central
-Switzerland of the Napoleonic era,political,7.466667,46.91666667,Switzerland
-Syria,country,36.3,33.5,Asia
-São Salvador,capital,,,Angola
-São Tomé and Príncipe,country,,,Africa: Central
-Tahiti,country,,,Oceania
-Taipei,capital,121.516667,25.03333333,Taiwan
-Taiping Heavenly Kingdom,political,116.383333,39.91666667,China
-Taiwan,country,121.516667,25.03333333,Asia: East
-Taiwan,country,121.516667,25.03333333,Asia
-Taiwan,country,121.516667,25.03333333,Asia: East
-Tajikistan,country,68.766667,38.55,Asia
-Tallinn,capital,24.716667,59.43333333,Estonia
-Tanzania,country,39.283333,-6.8,"Africa: East, Lakes"
-Tanzania,country,39.283333,-6.8,"Africa: East, Lakes"
-Tanzania,country,39.283333,-6.8,Africa
-Tarawa,capital,169.533333,-0.883333333,Kiribati
-Tarnovo,capital,,,Bulgaria
-Tashkent,capital,69.25,41.31666667,Uzbekistan
-Tbilisi,capital,44.833333,41.68333333,Georgia
-Tegucigalpa,capital,-87.216667,14.1,Honduras
-Tehran,capital,51.416667,35.7,Iran
-Territory of Papua,political,147.183333,-9.45,Papua New Guinea
-Thailand,country,100.516667,13.75,Asia
-Thailand,country,100.516667,13.75,Asia: Southeast
-Thailand,country,100.516667,13.75,Asia: Southeast
-The Gambia,country,-16.566667,13.45,Africa
-The Settlement,capital,105.716667,-10.41666667,Christmas Island
-The Valley,capital,-63.05,18.21666667,Anguilla
-Theocratic Bhutan,political,89.633333,27.46666667,Bhutan
-Thimphu,capital,89.633333,27.46666667,Bhutan
-Third Haitian Republic,political,-72.333333,18.53333333,Haiti
-Timor-Leste,country,125.6,-8.583333333,Asia
-Tirana,capital,19.816667,41.31666667,Albania
-Togo,country,1.216667,6.116666667,Africa
-Togo,country,1.216667,6.116666667,Africa: West
-Togo,country,1.216667,6.116666667,Africa: West
-Togoland,country,1.216667,6.116666667,Africa
-Tokelau,country,-171.833333,-9.166667,Australia
-Tokugawa shogunate,political,139.75,35.68333333,Japan
-Tokyo,capital,139.75,35.68333333,Japan
-"Toledo, Madrid",capital,,,Spain
-Tonga,political,-175.2,-21.13333333,Tonga
-Tonga,country,-175.2,-21.13333333,Oceania
-Tonga,country,-175.2,-21.13333333,Oceania
-Tonga,country,-175.2,-21.13333333,Oceania
-Tonga,country,-175.2,-21.13333333,Australia
-Tonga,country,-175.2,-21.13333333,Oceania
-Tonga,country,-175.2,-21.13333333,Oceania
-Tonga,country,-175.2,-21.13333333,Oceania
-Tonkin,political,105.85,21.03333333,Vietnam
-Torshavn,capital,-6.766667,62,Faroe Islands
-Toucouleur Empire,political,,,
-Transvaal Colony,political,28.216667,-25.7,South Africa
-Travancore,political,77.2,28.6,India
-Trinidad and Tobago,country,-61.516667,10.65,Americas: Caribbean
-Trinidad and Tobago,country,-61.516667,10.65,Americas: Caribbean
-Trinidad and Tobago,country,-61.516667,10.65,North America
-Tripoli,capital,13.166667,32.88333333,Libya
-Trucial States,political,54.366667,24.46666667,United Arab Emirates
-Tui Manua dynasty (Samoa),political,-171.766667,-13.81666667,Samoa
-Tulagi,capital,,,Solomon Islands
-Tunis,capital,10.183333,36.8,Tunisia
-Tunisia,country,10.183333,36.8,Africa
-Turin,capital,,,Italy
-Turin,capital,,,Italy
-Turkey,country,32.866667,39.93333333,Asia: West
-Turkey,country,32.866667,39.93333333,Asia: West
-Turkey,country,32.866667,39.93333333,Europe
-Turkmenistan,country,58.383333,37.95,Asia
-Turks and Caicos Islands,country,-71.133333,21.46666667,North America
-Turku,capital,,,Finland
-Tuvalu,country,179.216667,-8.516666667,Australia
-Tuʻi Tonga Empire,political,-175.2,-21.13333333,Tonga
-Tây Sơn dynasty,political,105.85,21.03333333,Vietnam
-US Minor Outlying Islands,country,-77,38.883333,Australia
-US Virgin Islands,country,-64.933333,18.35,North America
-Uganda,country,32.55,0.316666667,"Africa: East, Lakes"
-Uganda,country,32.55,0.316666667,Africa
-Uganda,country,32.55,0.316666667,"Africa: East, Lakes"
-Uganda,country,32.55,0.316666667,"Africa: East, Lakes"
-Uganda,country,32.55,0.316666667,"Africa: East, Lakes"
-Uganda,country,32.55,0.316666667,"Africa: East, Lakes"
-Uganda,country,32.55,0.316666667,"Africa: East, Lakes"
-"Uganda, Protectorate of",country,32.55,0.316666667,Africa
-Ukraine,country,30.516667,50.43333333,Europe
-Ulaanbaatar,capital,106.916667,47.91666667,Mongolia
-United Arab Emirates,country,54.366667,24.46666667,Asia
-United Arab Emirates,country,54.366667,24.46666667,Asia: West
-United Arab Emirates,country,54.366667,24.46666667,Asia: West
-United Kingdom,country,-0.083333,51.5,Europe
-United Kingdom,country,-0.083333,51.5,Europe: British Isles
-United Kingdom,country,-0.083333,51.5,Europe: British Isles
-United Kingdom of Great Britain and Ireland,political,-0.083333,51.5,United Kingdom
-United Kingdom of the Netherlands,political,4.916667,52.35,Netherlands
-United Principalities of Moldavia and Wallachia,political,26.1,44.43333333,Romania
-United Provinces of Central America,political,-90.516667,14.61666667,Guatemala
-United Provinces of New Granada,political,-74.083333,4.6,Colombia
-United Provinces of the Río de la Plata,political,-58.666667,-34.58333333,Argentina
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Oceania
-United States,country,-77,38.883333,Central America
-United States,country,-77,38.883333,Oceania
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Oceania
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Americas: North
-United States,political,-77,38.883333,United States
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Oceania
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Oceania
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Oceania
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Americas: North
-United States,country,-77,38.883333,Americas: North
-United States of Colombia,political,-74.083333,4.6,Colombia
-United States of Venezuela,political,-66.866667,10.48333333,Venezuela
-United States of the Ionian Islands,political,23.733333,37.98333333,Greece
-Upper Aulaqi Sheikhdom,political,,,
-Upper Aulaqi Sultanate,political,,,
-Upper Yafa,political,,,
-Uruguay,country,-56.166667,-34.85,Americas: South
-Uruguay,country,-56.166667,-34.85,Americas: South
-Uruguay,country,-56.166667,-34.85,Americas: South
-Uruguay,political,-56.166667,-34.85,Uruguay
-Uruguay,country,-56.166667,-34.85,Americas: South
-Uruguay,country,-56.166667,-34.85,South America
-Uzbekistan,country,69.25,41.31666667,Asia
-Uzbekistan ,country,,,Asia: Central
-Uzbekistan ,country,,,Asia: Central
-Uzbekistan ,country,,,Asia: Central
-Vaduz,capital,9.516667,47.13333333,Liechtenstein
-Valletta,capital,14.5,35.88333333,Malta
-Vanuatu,country,168.316667,-17.73333333,Oceania
-Vanuatu,country,168.316667,-17.73333333,Australia
-Vanuatu,country,168.316667,-17.73333333,Oceania
-Various,capital,,,Sweden
-Various,capital,,,Portugal
-Various,capital,,,India
-Various,capital,,,
-Various,capital,,,India
-Various,capital,,,Philippines
-Various,capital,,,Italy
-Various,capital,,,Hungary
-Various,capital,,,Greece
-Various,capital,,,Denmark
-Vatican City,capital,12.45,41.9,Vatican City
-Vatican City,country,12.45,41.9,Europe
-Venezuela,country,-66.866667,10.48333333,Americas: South
-Venezuela,country,-66.866667,10.48333333,Americas: South
-Venezuela,country,-66.866667,10.48333333,South America
-Venice,country,1859,Italy,Kingdom annexed byÊKingdom of Italy
-Venice,capital,,,Italy
-Viceroyalty of New Granada,political,-74.083333,4.6,Colombia
-Viceroyalty of Peru,political,-77.05,-12.05,Peru
-Viceroyalty of the Río de la Plata,political,-58.666667,-34.58333333,Argentina
-Victoria,capital,55.45,-4.616666667,Seychelles
-Vienna,capital,,,
-Vienna,capital,,,Austria
-Vienna,capital,16.366667,48.2,Austria
-"Vienna, Budapest",capital,,,Austria
-Vientiane,capital,102.6,17.96666667,Laos
-Vietnam,country,105.85,21.03333333,Asia
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vietnam,country,105.85,21.03333333,Asia: Southeast
-Vilnius,capital,25.316667,54.68333333,Lithuania
-Việt Nam: Nguyễn dynasty,political,105.85,21.03333333,Vietnam
-Wadai Empire,political,15.033333,12.1,Chad
-Wahidi Balhaf,political,,,
-Wahidi Haban,political,,,
-Waldeck,political,13.4,52.51666667,Germany
-Wallis and Futuna,country,-171.933333,-13.95,Australia
-Warsaw,capital,21,52.25,Poland
-Washington,capital,-77,38.883333,US Minor Outlying Islands
-Washington,capital,-77,38.883333,United States
-"Washington, D.C.",capital,,,United States
-Wassoulou Empire,political,-13.7,9.5,Guinea
-Wellington,capital,174.783333,-41.3,New Zealand
-West Island,capital,96.833333,-12.16666667,Cocos Islands
-Western Sahara,country,-13.203333,27.153611,Africa: Northwest
-Western Sahara,country,-13.203333,27.153611,Africa
-Western Sahara,country,-13.203333,27.153611,Africa: Northwest
-Wiesbaden,capital,,,Germany
-Willemstad,capital,-68.916667,12.1,CuraÃ§ao
-Windhoek,capital,17.083333,-22.56666667,Namibia
-Wituland,political,36.816667,-1.283333333,Kenya
-Württemberg,political,13.4,52.51666667,Germany
-Yamoussoukro,capital,-5.266667,6.816666667,Cote d'Ivoire
-Yaounde,capital,11.516667,3.866666667,Cameroon
-Yaoundé,capital,,,Cameroon
-Yaren,capital,166.920867,-0.5477,Nauru
-Yeke Kingdom,political,15.3,-4.316666667,Democratic Republic of the Congo
-Yeman,country,,,Asia: West
-Yeman,country,,,Asia: West
-Yeman,country,,,Asia: West
-Yeman,country,,,Asia: West
-Yeman,country,,,Asia: West
-Yeman,country,,,Asia: West
-Yeman,country,,,Asia: West
-Yemen,country,44.2,15.35,Asia
-Yerevan,capital,44.5,40.16666667,Armenia
-Zagreb,capital,16,45.8,Croatia
-Zambia,country,28.283333,-15.41666667,Africa: South
-Zambia,country,28.283333,-15.41666667,Africa: Central
-Zambia,country,28.283333,-15.41666667,Africa: Central
-Zambia,country,28.283333,-15.41666667,Africa
-Zambia,country,28.283333,-15.41666667,Africa: South
-Zanzibar City,capital,,,Tanzania
-"Zanzibar, Sultanate of",country,39.283333,-6.8,Africa
-Zimbabwe,country,31.033333,-17.81666667,Africa: South
-Zimbabwe,country,31.033333,-17.81666667,Africa: South
-Zimbabwe,country,31.033333,-17.81666667,Africa: South
-Zimbabwe,country,31.033333,-17.81666667,Africa: South
-Zimbabwe,country,31.033333,-17.81666667,Africa: South
-Zimbabwe,country,31.033333,-17.81666667,Africa
-Zimbabwe,country,31.033333,-17.81666667,Africa: South
-Zomba,capital,,,Malawi
-Zulu Kingdom,political,28.216667,-25.7,South Africa
-__i Nam (Nguy_n dynasty),country,105.85,21.03333333,Asia
-moved to Rome,continent,,,
-moved toÊMajuro Atoll,continent,,,
-moved toÊPalikir,continent,,,
+Abuja,Capital,9.083333333,7.533333,Nigeria
+Accra,Capital,5.55,-0.216667,Ghana
+Adamstown,Capital,-25.06666667,-130.083333,Pitcairn Islands
+Addis Ababa,Capital,9.033333333,38.7,Ethiopia
+Aegina,Capital,37.7408815,23.5014213,Greece
+Afghanistan,Country,34.51666667,69.183333,Asia
+Aland Islands,Country,60.116667,19.9,Europe
+Albania,Country,41.31666667,19.816667,Europe
+Algeria,Country,36.75,3.05,Africa
+Algiers,Capital,36.75,3.05,Algeria
+Alofi,Capital,-19.01666667,-169.916667,Niue
+Amarapura,Capital,21.9038842,96.0493896,Myanmar
+American Samoa,Country,-14.26666667,-170.7,Australia
+Amman,Capital,31.95,35.933333,Jordan
+Amsterdam,Capital,52.35,4.916667,Netherlands
+Andorra,Country,42.5,1.516667,Europe
+Andorra la Vella,Capital,42.5,1.516667,Andorra
+Anecho,Capital,,,Togo
+Angola,Country,-8.833333333,13.216667,Africa
+Anguilla,Country,18.21666667,-63.05,North America
+Ankara,Capital,39.93333333,32.866667,Turkey
+Antananarivo,Capital,-18.91666667,47.516667,Madagascar
+Antarctica,Country,0,0,Antarctica
+Antigua and Barbuda,Country,17.11666667,-61.85,North America
+Apia,Capital,-13.81666667,-171.766667,Samoa
+Argentina,Country,-34.58333333,-58.666667,South America
+Armenia,Country,40.16666667,44.5,Europe
+Aruba,Country,12.51666667,-70.033333,North America
+Ashgabat,Capital,37.95,58.383333,Turkmenistan
+Asmara,Capital,15.33333333,38.933333,Eritrea
+Astana,Capital,51.16666667,71.416667,Kazakhstan
+Asuncion,Capital,-25.26666667,-57.666667,Paraguay
+Atafu,Capital,-9.166667,-171.833333,Tokelau
+Athens,Capital,37.98333333,23.733333,Greece
+Auckland,Capital,-36.8508827,174.7644881,New Zealand
+Australia,Country,-35.26666667,149.133333,Australia
+Austria,Country,48.2,16.366667,Europe
+Avarua,Capital,-21.2,-159.766667,Cook Islands
+Azerbaijan,Country,40.38333333,49.866667,Europe
+Baghdad,Capital,33.33333333,44.4,Iraq
+Bahamas,Country,25.08333333,-77.35,North America
+Bahrain,Country,26.23333333,50.566667,Asia
+Baku,Capital,40.38333333,49.866667,Azerbaijan
+Bamako,Capital,12.65,-8,Mali
+Bandar Seri Begawan,Capital,4.883333333,114.933333,Brunei Darussalam
+Bangkok,Capital,13.75,100.516667,Thailand
+Bangladesh,Country,23.71666667,90.4,Asia
+Bangui,Capital,4.366666667,18.583333,Central African Republic
+Banjul,Capital,13.45,-16.566667,The Gambia
+Barbados,Country,13.1,-59.616667,North America
+Basseterre,Capital,17.3,-62.716667,Saint Kitts and Nevis
+Beijing,Capital,39.91666667,116.383333,China
+Beirut,Capital,33.86666667,35.5,Lebanon
+Belarus,Country,53.9,27.566667,Europe
+Belgium,Country,50.83333333,4.333333,Europe
+Belgrade,Capital,44.83333333,20.5,Serbia
+Belize,Country,17.25,-88.766667,Central America
+Belmopan,Capital,17.25,-88.766667,Belize
+Benin,Country,6.483333333,2.616667,Africa
+Berlin,Capital,52.5200066,13.404954,Germany
+Bermuda,Country,32.28333333,-64.783333,North America
+Bern,Capital,46.91666667,7.466667,Switzerland
+Bhutan,Country,27.46666667,89.633333,Asia
+Bishkek,Capital,42.86666667,74.6,Kyrgyzstan
+Bissau,Capital,11.85,-15.583333,Guinea-Bissau
+Bogota,Capital,4.6,-74.083333,Colombia
+Bolama,Capital,11.5770712,-15.4800382,Guinea-Bissau
+Bolivia,Country,-16.5,-68.15,South America
+Boma,Capital,,,"Congo, Democratic Republic of the"
+Bosnia,Country,43.86666667,18.416667,Europe
+Botswana,Country,-24.63333333,25.9,Africa
+Brasilia,Capital,-15.78333333,-47.916667,Brazil
+Bratislava,Capital,48.15,17.116667,Slovakia
+Braunschweig ,Capital,52.2688736,10.5267696,Germany
+Brazil,Country,-15.78333333,-47.916667,South America
+Brazzaville,Capital,-4.25,15.283333,Republic of Congo
+Bridgetown,Capital,13.1,-59.616667,Barbados
+British Indian Ocean Territory,Country,-7.3,72.4,Africa
+British Virgin Islands,Country,18.41666667,-64.616667,North America
+Brunei Darussalam,Country,4.883333333,114.933333,Asia
+Brunswick,Capital,52.2688736,10.5267696,Germany
+Brussels,Capital,50.83333333,4.333333,Belgium
+Bucharest,Capital,44.4267674,26.1025384,Romania
+Bückeburg,Capital,52.2592762,9.0521233,Germany
+Buda,Capital,47.497912,19.040235,Hungary
+Budapest,Capital,47.5,19.083333,Hungary
+Buenos Aires,Capital,-34.58333333,-58.666667,Argentina
+Bujumbura,Capital,-3.366666667,29.35,Burundi
+Bulgaria,Country,42.68333333,23.316667,Europe
+Burkina Faso,Country,12.36666667,-1.516667,Africa
+Burundi,Country,-3.366666667,29.35,Africa
+Cairo,Capital,30.05,31.25,Egypt
+Cambodia,Country,11.55,104.916667,Asia
+Cameroon,Country,3.866666667,11.516667,Africa
+Canada,Country,45.41666667,-75.7,Central America
+Canberra,Capital,-35.26666667,149.133333,Australia
+Cape Verde,Country,14.91666667,-23.516667,Africa
+Caracas,Capital,10.48333333,-66.866667,Venezuela
+Castries,Capital,14,-61,Saint Lucia
+Cayman Islands,Country,19.3,-81.383333,North America
+Central African Republic,Country,4.366666667,18.583333,Africa
+Chad,Country,12.1,15.033333,Africa
+Chania,Capital,35.5138298,24.0180367,Greece
+Charlotte Amalie,Capital,18.35,-64.933333,US Virgin Islands
+Chile,Country,-33.45,-70.666667,South America
+China,Country,39.91666667,116.383333,Asia
+Chisinau,Capital,47,28.85,Moldova
+Christiania,Capital,59.9138688,10.7522454,Norway
+Christmas Island,Country,-10.41666667,105.716667,Australia
+Cocos Islands,Country,-12.16666667,96.833333,Australia
+Colombia,Country,4.6,-74.083333,South America
+Colombo,Capital,6.916666667,79.833333,Sri Lanka
+Comoros,Country,-11.7,43.233333,Africa
+Conakry,Capital,9.5,-13.7,Guinea
+Cook Islands,Country,-21.2,-159.766667,Australia
+Copenhagen,Capital,55.66666667,12.583333,Denmark
+Copenhagen,Capital,55.6760968,12.5683371,Denmark
+Corfu,Capital,39.6242621,19.9216777,Greece
+Costa Rica,Country,9.933333333,-84.083333,Central America
+Cote d'Ivoire,Country,6.816666667,-5.266667,Africa
+Croatia,Country,45.8,16,Europe
+Cuba,Country,23.11666667,-82.35,North America
+Curaçao,Country,12.1,-68.916667,North America
+Cyprus,Country,35.16666667,33.366667,Europe
+Czech Republic,Country,50.08333333,14.466667,Europe
+Dakar,Capital,14.73333333,-17.633333,Senegal
+Damascus,Capital,33.5,36.3,Syria
+Dar es Salaam,Capital,-6.8,39.283333,Tanzania
+Darmstadt,Capital,49.8728253,8.6511929,Germany
+Democratic Republic of the Congo,Country,-4.316666667,15.3,Africa
+Denmark,Country,55.66666667,12.583333,Europe
+Dhaka,Capital,23.71666667,90.4,Bangladesh
+Diego Garcia,Capital,-7.3,72.4,British Indian Ocean Territory
+Dili,Capital,-8.583333333,125.6,Timor-Leste
+Djibouti,Capital,11.58333333,43.15,Djibouti
+Djibouti,Country,11.58333333,43.15,Africa
+Doha,Capital,25.28333333,51.533333,Qatar
+Dominica,Country,15.3,-61.4,North America
+Dominican Republic,Country,18.46666667,-69.9,North America
+Douglas,Capital,54.15,-4.483333,Isle of Man
+Dresden,Capital,51.0504088,13.7372621,Germany
+Dublin,Capital,53.31666667,-6.233333,Ireland
+Dubrovnik,Capital,42.6506606,18.0944238,Croatia
+Dushanbe,Capital,38.55,68.766667,Tajikistan
+Ecuador,Country,-0.216666667,-78.5,South America
+Egypt,Country,30.05,31.25,Africa
+El Salvador,Country,13.7,-89.2,Central America
+El-Aaiún,Capital,27.153611,-13.203333,Western Sahara
+Entebbe,Capital,0.0511839,32.463708,Uganda
+Equatorial Guinea,Country,3.75,8.783333,Africa
+Eritrea,Country,15.33333333,38.933333,Africa
+Estonia,Country,59.43333333,24.716667,Europe
+Ethiopia,Country,9.033333333,38.7,Africa
+Falkland Islands,Country,-51.7,-57.85,South America
+Faroe Islands,Country,62,-6.766667,Europe
+Federated States of Micronesia,Country,6.916666667,158.15,Australia
+Fiji,Country,-18.13333333,178.416667,Australia
+Finland,Country,60.16666667,24.933333,Europe
+Florence,Capital,43.7695604,11.2558136,Italy
+France,Country,48.86666667,2.333333,Europe
+Frankfurt,Capital,50.1109221,8.6821267,Germany
+Freetown,Capital,8.483333333,-13.233333,Sierra Leone
+French Polynesia,Country,-17.53333333,-149.566667,Australia
+French Southern and Antarctic Lands,Country,-49.35,70.216667,Antarctica
+Funafuti,Capital,-8.516666667,179.216667,Tuvalu
+Gabon,Country,0.383333333,9.45,Africa
+Gaborone,Capital,-24.63333333,25.9,Botswana
+George Town,Capital,19.3,-81.383333,Cayman Islands
+Georgetown,Capital,6.8,-58.15,Guyana
+Georgia,Country,41.68333333,44.833333,Europe
+Germany,Country,52.51666667,13.4,Europe
+Ghana,Country,5.55,-0.216667,Africa
+Gibraltar,Capital,36.13333333,-5.35,Gibraltar
+Gibraltar,Country,36.13333333,-5.35,Europe
+Grand Turk,Capital,21.46666667,-71.133333,Turks and Caicos Islands
+Grand-Bassam,Capital,5.225936,-3.7536663,Ivory Coast
+Greece,Country,37.98333333,23.733333,Europe
+Greenland,Country,64.18333333,-51.75,Central America
+Grenada,Country,12.05,-61.75,North America
+Guam,Country,13.46666667,144.733333,Australia
+Guatemala,Country,14.61666667,-90.516667,Central America
+Guatemala City,Capital,14.61666667,-90.516667,Guatemala
+Guernsey,Country,49.45,-2.533333,Europe
+Guinea,Country,9.5,-13.7,Africa
+Guinea-Bissau,Country,11.85,-15.583333,Africa
+Gustavia,Capital,17.88333333,-62.85,Saint Barthelemy
+Guyana,Country,6.8,-58.15,South America
+Hagatna,Capital,13.46666667,144.733333,Guam
+Haiti,Country,18.53333333,-72.333333,North America
+Hakodate,Capital,41.7686961,140.7290599,Japan
+Hamilton,Capital,32.28333333,-64.783333,Bermuda
+Hanoi,Capital,21.03333333,105.85,Vietnam
+Hanover,Capital,44.1526004,-81.0254145,Germany
+Harare,Capital,-17.81666667,31.033333,Zimbabwe
+Hargeisa,Capital,9.55,44.05,Somaliland
+Havana,Capital,23.11666667,-82.35,Cuba
+Heard Island ,Country,0,0,Antarctica
+Heian-ky,Capital,35.011564,135.7681489,Japan
+Helsinki,Capital,60.16666667,24.933333,Finland
+Herzegovina,Country,43.86666667,18.416667,Europe
+Honduras,Country,14.1,-87.216667,Central America
+Hong Kong,Country,22.302711,114.177216,Asia
+Honiara,Capital,-9.433333333,159.95,Solomon Islands
+Huế ,Capital,16.4637117,107.5908628,Vietnam
+Hungary,Country,47.5,19.083333,Europe
+Iceland,Country,64.15,-21.95,Europe
+India,Country,28.6,77.2,Asia
+Indonesia,Country,-6.166666667,106.816667,Asia
+Iran,Country,35.7,51.416667,Asia
+Iraq,Country,33.33333333,44.4,Asia
+Ireland,Country,53.31666667,-6.233333,Europe
+Islamabad,Capital,33.68333333,73.05,Pakistan
+Island of Mozambique,Capital,-15.0364493,40.7323311,Mozambique
+Isle of Man,Country,54.15,-4.483333,Europe
+Israel,Country,31.76666667,35.233333,Asia
+Italy,Country,41.9,12.483333,Europe
+Jakarta,Capital,-6.166666667,106.816667,Indonesia
+Jamaica,Country,18,-76.8,North America
+Jamestown,Capital,-15.93333333,-5.716667,Saint Helena
+Japan,Country,35.68333333,139.75,Asia
+Jassy,Capital,47.1584549,27.6014418,Romania
+Jersey,Country,49.18333333,-2.1,Europe
+Jerusalem,Capital,31.76666667,35.233333,Israel
+Jerusalem,Capital,31.76666667,35.233333,Palestine
+Jordan,Country,31.95,35.933333,Asia
+Juba,Capital,4.85,31.616667,South Sudan
+Kabul,Capital,34.51666667,69.183333,Afghanistan
+Kampala,Capital,0.316666667,32.55,Uganda
+Kassel,Capital,51.3127114,9.4797461,Germany
+Kassel,Capital,51.3127114,9.4797461,Germany
+Kathmandu,Capital,27.71666667,85.316667,Nepal
+Kazakhstan,Country,51.16666667,71.416667,Asia
+Kelmis,Capital,50.7163786,6.0118139,Belgium
+Kenya,Country,-1.283333333,36.816667,Africa
+Khartoum,Capital,15.6,32.533333,Sudan
+Kigali,Capital,-1.95,30.05,Rwanda
+King Edward Point,Capital,-54.283333,-36.5,South Georgia and South Sandwich Islands
+Kingston,Capital,18,-76.8,Jamaica
+Kingston,Capital,-29.05,167.966667,Norfolk Island
+Kingstown,Capital,13.13333333,-61.216667,Saint Vincent and the Grenadines
+Kinshasa,Capital,-4.316666667,15.3,Democratic Republic of the Congo
+Kiribati,Country,-0.883333333,169.533333,Australia
+Kosovo,Country,42.66666667,21.166667,Europe
+Kuala Lumpur,Capital,3.166666667,101.7,Malaysia
+Kukawa,Capital,12.9229652,13.5639377,Nigeria
+Kuwait,Country,29.36666667,47.966667,Asia
+Kuwait City,Capital,29.36666667,47.966667,Kuwait
+Kyiv,Capital,50.43333333,30.516667,Ukraine
+Kyoto,Capital,35.011564,135.7681489,Japan
+Kyrgyzstan,Country,42.86666667,74.6,Asia
+La Paz,Capital,-16.5,-68.15,Bolivia
+Laos,Country,17.96666667,102.6,Asia
+Latvia,Country,56.95,24.1,Europe
+Lebanon,Country,33.86666667,35.5,Asia
+Lesotho,Country,-29.31666667,27.483333,Africa
+Levuka,Capital,-17.6817232,178.8323025,Fiji
+Liberia,Country,6.3,-10.8,Africa
+Libreville,Capital,0.383333333,9.45,Gabon
+Libya,Country,32.88333333,13.166667,Africa
+Liechtenstein,Country,47.13333333,9.516667,Europe
+Lilongwe,Capital,-13.96666667,33.783333,Malawi
+Lima,Capital,-12.05,-77.05,Peru
+Lisbon,Capital,38.71666667,-9.133333,Portugal
+Lithuania,Country,54.68333333,25.316667,Europe
+Ljubljana,Capital,46.05,14.516667,Slovenia
+Lome,Capital,6.116666667,1.216667,Togo
+London,Capital,51.5,-0.083333,United Kingdom
+Longyearbyen,Capital,78.21666667,15.633333,Svalbard
+Luanda,Capital,-8.833333333,13.216667,Angola
+Lucca,Capital,43.8429197,10.5026977,Italy
+Lucerne,Capital,47.0501682,8.3093072,Switzerland
+Lusaka,Capital,-15.41666667,28.283333,Zambia
+Luxembourg,Capital,49.6,6.116667,Luxembourg
+Luxembourg,Country,49.6,6.116667,Europe
+Macau,Country,0,0,Asia
+Macedonia,Country,42,21.433333,Europe
+Madagascar,Country,-18.91666667,47.516667,Africa
+Madrid,Capital,40.4,-3.683333,Spain
+Majuro,Capital,7.1,171.383333,Marshall Islands
+Malabo,Capital,3.75,8.783333,Equatorial Guinea
+Malawi,Country,-13.96666667,33.783333,Africa
+Malaysia,Country,3.166666667,101.7,Asia
+Maldives,Country,4.166666667,73.5,Asia
+Male,Capital,4.166666667,73.5,Maldives
+Mali,Country,12.65,-8,Africa
+Malta,Country,35.88333333,14.5,Europe
+Managua,Capital,12.13333333,-86.25,Nicaragua
+Manama,Capital,26.23333333,50.566667,Bahrain
+Mandalay,Capital,21.9588282,96.0891032,Myanmar
+Manila,Capital,14.6,120.966667,Philippines
+Maputo,Capital,-25.95,32.583333,Mozambique
+Marawi,Capital,8.0106213,124.297718,Philippines
+Mariehamn,Capital,60.116667,19.9,Aland Islands
+Marigot,Capital,18.0731,-63.0822,Saint Martin
+Marshall Islands,Country,7.1,171.383333,Australia
+Maseru,Capital,-29.31666667,27.483333,Lesotho
+Mata-Utu,Capital,-13.95,-171.933333,Wallis and Futuna
+Mauritania,Country,18.06666667,-15.966667,Africa
+Mauritius,Country,-20.15,57.483333,Africa
+Mbabane,Capital,-26.31666667,31.133333,Swaziland
+McDonald Island,Country,0,0,Antarctica
+Melekeok,Capital,7.483333333,134.633333,Palau
+Mexico,Country,19.43333333,-99.133333,Central America
+Mexico City,Capital,19.43333333,-99.133333,Mexico
+Milan,Capital,45.4642035,9.189982,Italy
+Minsk,Capital,53.9,27.566667,Belarus
+Mogadishu,Capital,2.066666667,45.333333,Somalia
+Moldova,Country,47,28.85,Europe
+Monaco,Capital,43.73333333,7.416667,Monaco
+Monaco,Country,43.73333333,7.416667,Europe
+Mongolia,Country,47.91666667,106.916667,Asia
+Monrovia,Capital,6.3,-10.8,Liberia
+Montenegro,Country,42.43333333,19.266667,Europe
+Montevideo,Capital,-34.85,-56.166667,Uruguay
+Montserrat,Country,16.7,-62.216667,North America
+Morocco,Country,34.01666667,-6.816667,Africa
+Moroni,Capital,-11.7,43.233333,Comoros
+Moscow,Capital,55.75,37.6,Russia
+Mozambique,Country,-25.95,32.583333,Africa
+Muscat,Capital,23.61666667,58.583333,Oman
+Myanmar,Country,16.8,96.15,Asia
+N'Djamena,Capital,12.1,15.033333,Chad
+Nafplio,Capital,37.5673173,22.8015531,Greece
+Nairobi,Capital,-1.283333333,36.816667,Kenya
+Namibia,Country,-22.56666667,17.083333,Africa
+Naples,Capital,40.8517983,14.26812,Italy
+Nassau,Capital,25.08333333,-77.35,Bahamas
+Nauru,Country,-0.5477,166.920867,Australia
+Nepal,Country,27.71666667,85.316667,Asia
+Netherlands,Country,52.35,4.916667,Europe
+New Caledonia,Country,-22.26666667,166.45,Australia
+New Delhi,Capital,28.6,77.2,India
+New Zealand,Country,-41.3,174.783333,Australia
+Niamey,Capital,13.51666667,2.116667,Niger
+Nicaragua,Country,12.13333333,-86.25,Central America
+Nicosia,Capital,35.16666667,33.366667,Cyprus
+Niger,Country,13.51666667,2.116667,Africa
+Nigeria,Country,9.083333333,7.533333,Africa
+Niue,Country,-19.01666667,-169.916667,Australia
+Norfolk Island,Country,-29.05,167.966667,Australia
+North Korea,Country,39.01666667,125.75,Asia
+North Nicosia,Capital,35.183333,33.366667,Northern Cyprus
+Northern Cyprus,Country,35.183333,33.366667,Europe
+Northern Mariana Islands,Country,15.2,145.75,Australia
+Norway,Country,59.91666667,10.75,Europe
+Nouakchott,Capital,18.06666667,-15.966667,Mauritania
+Noumea,Capital,-22.26666667,166.45,New Caledonia
+Nuku'alofa,Capital,-21.13333333,-175.2,Tonga
+Nuuk,Capital,64.18333333,-51.75,Greenland
+Okiato,Capital,-35.3039393,174.1220763,New Zealand
+Oldenburg,Capital,53.1434501,8.2145521,Germany
+Oman,Country,23.61666667,58.583333,Asia
+Oranjestad,Capital,12.51666667,-70.033333,Aruba
+Oslo,Capital,59.91666667,10.75,Norway
+Otjimbingwe,Capital,-22.3531369,16.1286901,Namibia
+Ottawa,Capital,45.41666667,-75.7,Canada
+Ouagadougou,Capital,12.36666667,-1.516667,Burkina Faso
+Pago Pago,Capital,-14.26666667,-170.7,American Samoa
+Pakistan,Country,33.68333333,73.05,Asia
+Palau,Country,7.483333333,134.633333,Australia
+Palestine,Country,31.76666667,35.233333,Asia
+Palikir,Capital,6.916666667,158.15,Federated States of Micronesia
+Panama,Country,8.966666667,-79.533333,Central America
+Panama City,Capital,8.966666667,-79.533333,Panama
+Papeete,Capital,-17.53333333,-149.566667,French Polynesia
+Papua New Guinea,Country,-9.45,147.183333,Australia
+Paraguay,Country,-25.26666667,-57.666667,South America
+Paramaribo,Capital,5.833333333,-55.166667,Suriname
+Paris,Capital,48.86666667,2.333333,France
+Peru,Country,-12.05,-77.05,South America
+Petrograd ,Capital,59.9310584,30.3609097,Russia
+Philippines,Country,14.6,120.966667,Asia
+Philipsburg,Capital,18.01666667,-63.033333,Sint Maarten
+Phnom Penh,Capital,11.5563738,104.9282099,Cambodia
+Phú Xuân,Capital,10.6286249,105.2838511,Vietnam
+Pitcairn Islands,Country,-25.06666667,-130.083333,Australia
+Plovdiv,Capital,42.1354079,24.7452904,Bulgaria
+Plymouth,Capital,16.7,-62.216667,Montserrat
+Podgorica,Capital,42.43333333,19.266667,Montenegro
+Poland,Country,52.25,21,Europe
+Port Louis,Capital,-20.15,57.483333,Mauritius
+Port Moresby,Capital,-9.45,147.183333,Papua New Guinea
+Port of Spain,Capital,10.65,-61.516667,Trinidad and Tobago
+Port-au-Prince,Capital,18.53333333,-72.333333,Haiti
+Port-aux-Francais,Capital,-49.35,70.216667,French Southern and Antarctic Lands
+Port-Vila,Capital,-17.73333333,168.316667,Vanuatu
+Porto-Novo,Capital,6.483333333,2.616667,Benin
+Portugal,Country,38.71666667,-9.133333,Europe
+Prague,Capital,50.08333333,14.466667,Czech Republic
+Praia,Capital,14.91666667,-23.516667,Cape Verde
+Pretoria,Capital,-25.7,28.216667,South Africa
+Principe,Country,0.333333333,6.733333,Africa
+Pristina,Capital,42.66666667,21.166667,Kosovo
+Puerto Rico,Country,18.46666667,-66.116667,North America
+Pyongyang,Capital,39.01666667,125.75,North Korea
+Qatar,Country,25.28333333,51.533333,Asia
+Quito,Capital,-0.216666667,-78.5,Ecuador
+Rabat,Capital,34.01666667,-6.816667,Morocco
+Ragusa,Capital,42.6506606,18.0944238,Croatia
+Rangoon,Capital,16.8,96.15,Myanmar
+Rangoon ,Capital,16.840939,96.173526,Myanmar
+Republic of Congo,Country,-4.25,15.283333,Africa
+Reykjavik,Capital,64.15,-21.95,Iceland
+Riga,Capital,56.95,24.1,Latvia
+Riyadh,Capital,24.65,46.7,Saudi Arabia
+Road Town,Capital,18.41666667,-64.616667,British Virgin Islands
+Romania,Country,44.43333333,26.1,Europe
+Rome,Capital,41.9027835,12.4963655,Italy
+Roseau,Capital,15.3,-61.4,Dominica
+Russell,Capital,-35.3039393,174.1220763,New Zealand
+Russia,Country,55.75,37.6,Europe
+Rwanda,Country,-1.95,30.05,Africa
+Saint Barthelemy,Country,17.88333333,-62.85,North America
+Saint George's,Capital,12.05,-61.75,Grenada
+Saint Helena,Country,-15.93333333,-5.716667,Africa
+Saint Helier,Capital,49.18333333,-2.1,Jersey
+Saint John's,Capital,17.11666667,-61.85,Antigua and Barbuda
+Saint Kitts and Nevis,Country,17.3,-62.716667,North America
+Saint Lucia,Country,14,-61,North America
+Saint Martin,Country,18.0731,-63.0822,North America
+Saint Peter Port,Capital,49.45,-2.533333,Guernsey
+Saint Petersburg,Capital,59.9310584,30.3609097,Russia
+Saint Pierre and Miquelon,Country,46.76666667,-56.183333,Central America
+Saint Vincent and the Grenadines,Country,13.13333333,-61.216667,Central America
+Saint-Pierre,Capital,46.76666667,-56.183333,Saint Pierre and Miquelon
+Saipan,Capital,15.2,145.75,Northern Mariana Islands
+Samoa,Country,-13.81666667,-171.766667,Australia
+San Jose,Capital,9.933333333,-84.083333,Costa Rica
+San Juan,Capital,18.46666667,-66.116667,Puerto Rico
+San Marino,Capital,43.93333333,12.416667,San Marino
+San Marino,Country,43.93333333,12.416667,Europe
+San Salvador,Capital,13.7,-89.2,El Salvador
+Sanaa,Capital,15.35,44.2,Yemen
+Santiago,Capital,-33.45,-70.666667,Chile
+Santo Domingo,Capital,18.46666667,-69.9,Dominican Republic
+Sao Tome,Capital,0.333333333,6.733333,Sao Tome and Principe
+Sao Tome ,Country,0.333333333,6.733333,Africa
+Sarajevo,Capital,43.86666667,18.416667,Bosnia and Herzegovina
+Saudi Arabia,Country,24.65,46.7,Asia
+Senegal,Country,14.73333333,-17.633333,Africa
+Seoul,Capital,37.55,126.983333,South Korea
+Serbia,Country,44.83333333,20.5,Europe
+Seychelles,Country,-4.616666667,55.45,Africa
+Sierra Leone,Country,8.483333333,-13.233333,Africa
+Singapore,Capital,1.283333333,103.85,Singapore
+Singapore,Country,1.283333333,103.85,Asia
+Sint Maarten,Country,18.01666667,-63.033333,North America
+Skopje,Capital,42,21.433333,Macedonia
+Slovakia,Country,48.15,17.116667,Europe
+Slovenia,Country,46.05,14.516667,Europe
+Sofia,Capital,42.68333333,23.316667,Bulgaria
+Solomon Islands,Country,-9.433333333,159.95,Australia
+Somalia,Country,2.066666667,45.333333,Africa
+Somaliland,Country,9.55,44.05,Africa
+South Africa,Country,-25.7,28.216667,Africa
+South Georgia and South Sandwich Islands,Country,-54.283333,-36.5,Antarctica
+South Korea,Country,37.55,126.983333,Asia
+South Sudan,Country,4.85,31.616667,Africa
+Spain,Country,40.4,-3.683333,Europe
+Sri Lanka,Country,6.916666667,79.833333,Asia
+Stanley,Capital,-51.7,-57.85,Falkland Islands
+Stockholm,Capital,59.33333333,18.05,Sweden
+Stuttgart,Capital,48.7758459,9.1829321,Germany
+Sudan,Country,15.6,32.533333,Africa
+Suriname,Country,5.833333333,-55.166667,South America
+Suva,Capital,-18.13333333,178.416667,Fiji
+Svalbard,Country,78.21666667,15.633333,Europe
+Swaziland,Country,-26.31666667,31.133333,Africa
+Sweden,Country,59.33333333,18.05,Europe
+Switzerland,Country,46.91666667,7.466667,Europe
+Syria,Country,33.5,36.3,Asia
+Taipei,Capital,25.03333333,121.516667,Taiwan
+Taiwan,Country,25.03333333,121.516667,Asia
+Tajikistan,Country,38.55,68.766667,Asia
+Tallinn,Capital,59.43333333,24.716667,Estonia
+Tanzania,Country,-6.8,39.283333,Africa
+Tarawa,Capital,-0.883333333,169.533333,Kiribati
+Tarnovo,Capital,43.0756739,25.6171514,Bulgaria
+Tashkent,Capital,41.31666667,69.25,Uzbekistan
+Tbilisi,Capital,41.68333333,44.833333,Georgia
+Tegucigalpa,Capital,14.1,-87.216667,Honduras
+Tehran,Capital,35.7,51.416667,Iran
+Thailand,Country,13.75,100.516667,Asia
+The Gambia,Country,13.45,-16.566667,Africa
+The Settlement,Capital,-10.41666667,105.716667,Christmas Island
+The Valley,Capital,18.21666667,-63.05,Anguilla
+Thimphu,Capital,27.46666667,89.633333,Bhutan
+Timor-Leste,Country,-8.583333333,125.6,Asia
+Tirana,Capital,41.31666667,19.816667,Albania
+Tobago,Country,10.65,-61.516667,North America
+Togo,Country,6.116666667,1.216667,Africa
+Tokelau,Country,-9.166667,-171.833333,Australia
+Tokyo,Capital,35.68333333,139.75,Japan
+Tonga,Country,-21.13333333,-175.2,Australia
+Torshavn,Capital,62,-6.766667,Faroe Islands
+Trinidad,Country,10.65,-61.516667,North America
+Tripoli,Capital,32.88333333,13.166667,Libya
+Tulagi,Capital,-9.1015826,160.147069,Solomon Islands
+Tunis,Capital,36.8,10.183333,Tunisia
+Tunisia,Country,36.8,10.183333,Africa
+Turin,Capital,45.0703393,7.686864,Italy
+Turkey,Country,39.93333333,32.866667,Europe
+Turkmenistan,Country,37.95,58.383333,Asia
+Turks and Caicos Islands,Country,21.46666667,-71.133333,North America
+Turku,Capital,60.4518126,22.2666303,Finland
+Tuvalu,Country,-8.516666667,179.216667,Australia
+Uganda,Country,0.316666667,32.55,Africa
+Ukraine,Country,50.43333333,30.516667,Europe
+Ulaanbaatar,Capital,47.91666667,106.916667,Mongolia
+United Arab Emirates,Country,24.46666667,54.366667,Asia
+United Kingdom,Country,51.5,-0.083333,Europe
+United States,Country,38.883333,-77,Central America
+Uruguay,Country,-34.85,-56.166667,South America
+US Minor Outlying Islands,Country,38.883333,-77,Australia
+US Virgin Islands,Country,18.35,-64.933333,North America
+Uzbekistan,Country,41.31666667,69.25,Asia
+Vaduz,Capital,47.13333333,9.516667,Liechtenstein
+Valletta,Capital,35.88333333,14.5,Malta
+Vanuatu,Country,-17.73333333,168.316667,Australia
+Vatican,Country,41.9,12.45,Europe
+Vatican City,Capital,41.9,12.45,Vatican City
+Venezuela,Country,10.48333333,-66.866667,South America
+Venice,Capital,45.4408474,12.3155151,Italy
+Victoria,Capital,-4.616666667,55.45,Seychelles
+Vienna,Capital,48.2,16.366667,Austria
+Vientiane,Capital,17.96666667,102.6,Laos
+Vietnam,Country,21.03333333,105.85,Asia
+Vilnius,Capital,54.68333333,25.316667,Lithuania
+Wallis and Futuna,Country,-13.95,-171.933333,Australia
+Warsaw,Capital,52.25,21,Poland
+Washington,Capital,38.883333,-77,United States
+Wellington,Capital,-41.3,174.783333,New Zealand
+West Island,Capital,-12.16666667,96.833333,Cocos Islands
+Western Sahara,Country,27.153611,-13.203333,Africa
+Wiesbaden,Capital,50.0782184,8.2397608,Germany
+Willemstad,Capital,12.1,-68.916667,CuraÃ§ao
+Windhoek,Capital,-22.56666667,17.083333,Namibia
+Yamoussoukro,Capital,6.816666667,-5.266667,Cote d'Ivoire
+Yangon,Capital,16.840939,96.173526,Myanmar
+Yaounde,Capital,3.866666667,11.516667,Cameroon
+Yaren,Capital,-0.5477,166.920867,Nauru
+Yemen,Country,15.35,44.2,Asia
+Yerevan,Capital,40.16666667,44.5,Armenia
+Zagreb,Capital,45.8,16,Croatia
+Zambia,Country,-15.41666667,28.283333,Africa
+Zanzibar City,Capital,-6.165193,39.1989144,Tanzania
+Zimbabwe,Country,-17.81666667,31.033333,Africa
+Zomba,Capital,-15.3765857,35.3356518,Malawi
