@@ -1,549 +1,549 @@
-LocationName,Category,Longitude,Latitude,PartOf
-Abuja,Capital,9.083333333,7.533333,Nigeria
-Accra,Capital,5.55,-0.216667,Ghana
-Adamstown,Capital,-25.06666667,-130.083333,Pitcairn Islands
-Addis Ababa,Capital,9.033333333,38.7,Ethiopia
-Aegina,Capital,37.7408815,23.5014213,Greece
-Afghanistan,Country,34.51666667,69.183333,Asia
-Aland Islands,Country,60.116667,19.9,Europe
-Albania,Country,41.31666667,19.816667,Europe
-Algeria,Country,36.75,3.05,Africa
-Algiers,Capital,36.75,3.05,Algeria
-Alofi,Capital,-19.01666667,-169.916667,Niue
-Amarapura,Capital,21.9038842,96.0493896,Myanmar
-American Samoa,Country,-14.26666667,-170.7,Australia
-Amman,Capital,31.95,35.933333,Jordan
-Amsterdam,Capital,52.35,4.916667,Netherlands
-Andorra,Country,42.5,1.516667,Europe
-Andorra la Vella,Capital,42.5,1.516667,Andorra
+LocationName,Category,Latitude,Longitude,PartOf
+Abuja,Capital,7.533333,9.083333333,Nigeria
+Accra,Capital,-0.216667,5.55,Ghana
+Adamstown,Capital,-130.083333,-25.06666667,Pitcairn Islands
+Addis Ababa,Capital,38.7,9.033333333,Ethiopia
+Aegina,Capital,23.5014213,37.7408815,Greece
+Afghanistan,Country,69.183333,34.51666667,Asia
+Aland Islands,Country,19.9,60.116667,Europe
+Albania,Country,19.816667,41.31666667,Europe
+Algeria,Country,3.05,36.75,Africa
+Algiers,Capital,3.05,36.75,Algeria
+Alofi,Capital,-169.916667,-19.01666667,Niue
+Amarapura,Capital,96.0493896,21.9038842,Myanmar
+American Samoa,Country,-170.7,-14.26666667,Australia
+Amman,Capital,35.933333,31.95,Jordan
+Amsterdam,Capital,4.916667,52.35,Netherlands
+Andorra,Country,1.516667,42.5,Europe
+Andorra la Vella,Capital,1.516667,42.5,Andorra
 Anecho,Capital,,,Togo
-Angola,Country,-8.833333333,13.216667,Africa
-Anguilla,Country,18.21666667,-63.05,North America
-Ankara,Capital,39.93333333,32.866667,Turkey
-Antananarivo,Capital,-18.91666667,47.516667,Madagascar
+Angola,Country,13.216667,-8.833333333,Africa
+Anguilla,Country,-63.05,18.21666667,North America
+Ankara,Capital,32.866667,39.93333333,Turkey
+Antananarivo,Capital,47.516667,-18.91666667,Madagascar
 Antarctica,Country,0,0,Antarctica
-Antigua and Barbuda,Country,17.11666667,-61.85,North America
-Apia,Capital,-13.81666667,-171.766667,Samoa
-Argentina,Country,-34.58333333,-58.666667,South America
-Armenia,Country,40.16666667,44.5,Europe
-Aruba,Country,12.51666667,-70.033333,North America
-Ashgabat,Capital,37.95,58.383333,Turkmenistan
-Asmara,Capital,15.33333333,38.933333,Eritrea
-Astana,Capital,51.16666667,71.416667,Kazakhstan
-Asuncion,Capital,-25.26666667,-57.666667,Paraguay
-Atafu,Capital,-9.166667,-171.833333,Tokelau
-Athens,Capital,37.98333333,23.733333,Greece
-Auckland,Capital,-36.8508827,174.7644881,New Zealand
-Australia,Country,-35.26666667,149.133333,Australia
-Austria,Country,48.2,16.366667,Europe
-Avarua,Capital,-21.2,-159.766667,Cook Islands
-Azerbaijan,Country,40.38333333,49.866667,Europe
-Baghdad,Capital,33.33333333,44.4,Iraq
-Bahamas,Country,25.08333333,-77.35,North America
-Bahrain,Country,26.23333333,50.566667,Asia
-Baku,Capital,40.38333333,49.866667,Azerbaijan
-Bamako,Capital,12.65,-8,Mali
-Bandar Seri Begawan,Capital,4.883333333,114.933333,Brunei Darussalam
-Bangkok,Capital,13.75,100.516667,Thailand
-Bangladesh,Country,23.71666667,90.4,Asia
-Bangui,Capital,4.366666667,18.583333,Central African Republic
-Banjul,Capital,13.45,-16.566667,The Gambia
-Barbados,Country,13.1,-59.616667,North America
-Basseterre,Capital,17.3,-62.716667,Saint Kitts and Nevis
-Beijing,Capital,39.91666667,116.383333,China
-Beirut,Capital,33.86666667,35.5,Lebanon
-Belarus,Country,53.9,27.566667,Europe
-Belgium,Country,50.83333333,4.333333,Europe
-Belgrade,Capital,44.83333333,20.5,Serbia
-Belize,Country,17.25,-88.766667,Central America
-Belmopan,Capital,17.25,-88.766667,Belize
-Benin,Country,6.483333333,2.616667,Africa
-Berlin,Capital,52.5200066,13.404954,Germany
-Bermuda,Country,32.28333333,-64.783333,North America
-Bern,Capital,46.91666667,7.466667,Switzerland
-Bhutan,Country,27.46666667,89.633333,Asia
-Bishkek,Capital,42.86666667,74.6,Kyrgyzstan
-Bissau,Capital,11.85,-15.583333,Guinea-Bissau
-Bogota,Capital,4.6,-74.083333,Colombia
-Bolama,Capital,11.5770712,-15.4800382,Guinea-Bissau
-Bolivia,Country,-16.5,-68.15,South America
+Antigua and Barbuda,Country,-61.85,17.11666667,North America
+Apia,Capital,-171.766667,-13.81666667,Samoa
+Argentina,Country,-58.666667,-34.58333333,South America
+Armenia,Country,44.5,40.16666667,Europe
+Aruba,Country,-70.033333,12.51666667,North America
+Ashgabat,Capital,58.383333,37.95,Turkmenistan
+Asmara,Capital,38.933333,15.33333333,Eritrea
+Astana,Capital,71.416667,51.16666667,Kazakhstan
+Asuncion,Capital,-57.666667,-25.26666667,Paraguay
+Atafu,Capital,-171.833333,-9.166667,Tokelau
+Athens,Capital,23.733333,37.98333333,Greece
+Auckland,Capital,174.7644881,-36.8508827,New Zealand
+Australia,Country,149.133333,-35.26666667,Australia
+Austria,Country,16.366667,48.2,Europe
+Avarua,Capital,-159.766667,-21.2,Cook Islands
+Azerbaijan,Country,49.866667,40.38333333,Europe
+Baghdad,Capital,44.4,33.33333333,Iraq
+Bahamas,Country,-77.35,25.08333333,North America
+Bahrain,Country,50.566667,26.23333333,Asia
+Baku,Capital,49.866667,40.38333333,Azerbaijan
+Bamako,Capital,-8,12.65,Mali
+Bandar Seri Begawan,Capital,114.933333,4.883333333,Brunei Darussalam
+Bangkok,Capital,100.516667,13.75,Thailand
+Bangladesh,Country,90.4,23.71666667,Asia
+Bangui,Capital,18.583333,4.366666667,Central African Republic
+Banjul,Capital,-16.566667,13.45,The Gambia
+Barbados,Country,-59.616667,13.1,North America
+Basseterre,Capital,-62.716667,17.3,Saint Kitts and Nevis
+Beijing,Capital,116.383333,39.91666667,China
+Beirut,Capital,35.5,33.86666667,Lebanon
+Belarus,Country,27.566667,53.9,Europe
+Belgium,Country,4.333333,50.83333333,Europe
+Belgrade,Capital,20.5,44.83333333,Serbia
+Belize,Country,-88.766667,17.25,Central America
+Belmopan,Capital,-88.766667,17.25,Belize
+Benin,Country,2.616667,6.483333333,Africa
+Berlin,Capital,13.404954,52.5200066,Germany
+Bermuda,Country,-64.783333,32.28333333,North America
+Bern,Capital,7.466667,46.91666667,Switzerland
+Bhutan,Country,89.633333,27.46666667,Asia
+Bishkek,Capital,74.6,42.86666667,Kyrgyzstan
+Bissau,Capital,-15.583333,11.85,Guinea-Bissau
+Bogota,Capital,-74.083333,4.6,Colombia
+Bolama,Capital,-15.4800382,11.5770712,Guinea-Bissau
+Bolivia,Country,-68.15,-16.5,South America
 Boma,Capital,,,"Congo, Democratic Republic of the"
-Bosnia,Country,43.86666667,18.416667,Europe
-Botswana,Country,-24.63333333,25.9,Africa
-Brasilia,Capital,-15.78333333,-47.916667,Brazil
-Bratislava,Capital,48.15,17.116667,Slovakia
-Braunschweig ,Capital,52.2688736,10.5267696,Germany
-Brazil,Country,-15.78333333,-47.916667,South America
-Brazzaville,Capital,-4.25,15.283333,Republic of Congo
-Bridgetown,Capital,13.1,-59.616667,Barbados
-British Indian Ocean Territory,Country,-7.3,72.4,Africa
-British Virgin Islands,Country,18.41666667,-64.616667,North America
-Brunei Darussalam,Country,4.883333333,114.933333,Asia
-Brunswick,Capital,52.2688736,10.5267696,Germany
-Brussels,Capital,50.83333333,4.333333,Belgium
-Bucharest,Capital,44.4267674,26.1025384,Romania
-Bückeburg,Capital,52.2592762,9.0521233,Germany
-Buda,Capital,47.497912,19.040235,Hungary
-Budapest,Capital,47.5,19.083333,Hungary
-Buenos Aires,Capital,-34.58333333,-58.666667,Argentina
-Bujumbura,Capital,-3.366666667,29.35,Burundi
-Bulgaria,Country,42.68333333,23.316667,Europe
-Burkina Faso,Country,12.36666667,-1.516667,Africa
-Burundi,Country,-3.366666667,29.35,Africa
-Cairo,Capital,30.05,31.25,Egypt
-Cambodia,Country,11.55,104.916667,Asia
-Cameroon,Country,3.866666667,11.516667,Africa
-Canada,Country,45.41666667,-75.7,Central America
-Canberra,Capital,-35.26666667,149.133333,Australia
-Cape Verde,Country,14.91666667,-23.516667,Africa
-Caracas,Capital,10.48333333,-66.866667,Venezuela
-Castries,Capital,14,-61,Saint Lucia
-Cayman Islands,Country,19.3,-81.383333,North America
-Central African Republic,Country,4.366666667,18.583333,Africa
-Chad,Country,12.1,15.033333,Africa
-Chania,Capital,35.5138298,24.0180367,Greece
-Charlotte Amalie,Capital,18.35,-64.933333,US Virgin Islands
-Chile,Country,-33.45,-70.666667,South America
-China,Country,39.91666667,116.383333,Asia
-Chisinau,Capital,47,28.85,Moldova
-Christiania,Capital,59.9138688,10.7522454,Norway
-Christmas Island,Country,-10.41666667,105.716667,Australia
-Cocos Islands,Country,-12.16666667,96.833333,Australia
-Colombia,Country,4.6,-74.083333,South America
-Colombo,Capital,6.916666667,79.833333,Sri Lanka
-Comoros,Country,-11.7,43.233333,Africa
-Conakry,Capital,9.5,-13.7,Guinea
-Cook Islands,Country,-21.2,-159.766667,Australia
-Copenhagen,Capital,55.66666667,12.583333,Denmark
-Copenhagen,Capital,55.6760968,12.5683371,Denmark
-Corfu,Capital,39.6242621,19.9216777,Greece
-Costa Rica,Country,9.933333333,-84.083333,Central America
-Cote d'Ivoire,Country,6.816666667,-5.266667,Africa
-Croatia,Country,45.8,16,Europe
-Cuba,Country,23.11666667,-82.35,North America
-Curaçao,Country,12.1,-68.916667,North America
-Cyprus,Country,35.16666667,33.366667,Europe
-Czech Republic,Country,50.08333333,14.466667,Europe
-Dakar,Capital,14.73333333,-17.633333,Senegal
-Damascus,Capital,33.5,36.3,Syria
-Dar es Salaam,Capital,-6.8,39.283333,Tanzania
-Darmstadt,Capital,49.8728253,8.6511929,Germany
-Democratic Republic of the Congo,Country,-4.316666667,15.3,Africa
-Denmark,Country,55.66666667,12.583333,Europe
-Dhaka,Capital,23.71666667,90.4,Bangladesh
-Diego Garcia,Capital,-7.3,72.4,British Indian Ocean Territory
-Dili,Capital,-8.583333333,125.6,Timor-Leste
-Djibouti,Capital,11.58333333,43.15,Djibouti
-Djibouti,Country,11.58333333,43.15,Africa
-Doha,Capital,25.28333333,51.533333,Qatar
-Dominica,Country,15.3,-61.4,North America
-Dominican Republic,Country,18.46666667,-69.9,North America
-Douglas,Capital,54.15,-4.483333,Isle of Man
-Dresden,Capital,51.0504088,13.7372621,Germany
-Dublin,Capital,53.31666667,-6.233333,Ireland
-Dubrovnik,Capital,42.6506606,18.0944238,Croatia
-Dushanbe,Capital,38.55,68.766667,Tajikistan
-Ecuador,Country,-0.216666667,-78.5,South America
-Egypt,Country,30.05,31.25,Africa
-El Salvador,Country,13.7,-89.2,Central America
-El-Aaiún,Capital,27.153611,-13.203333,Western Sahara
-Entebbe,Capital,0.0511839,32.463708,Uganda
-Equatorial Guinea,Country,3.75,8.783333,Africa
-Eritrea,Country,15.33333333,38.933333,Africa
-Estonia,Country,59.43333333,24.716667,Europe
-Ethiopia,Country,9.033333333,38.7,Africa
-Falkland Islands,Country,-51.7,-57.85,South America
-Faroe Islands,Country,62,-6.766667,Europe
-Federated States of Micronesia,Country,6.916666667,158.15,Australia
-Fiji,Country,-18.13333333,178.416667,Australia
-Finland,Country,60.16666667,24.933333,Europe
-Florence,Capital,43.7695604,11.2558136,Italy
-France,Country,48.86666667,2.333333,Europe
-Frankfurt,Capital,50.1109221,8.6821267,Germany
-Freetown,Capital,8.483333333,-13.233333,Sierra Leone
-French Polynesia,Country,-17.53333333,-149.566667,Australia
-French Southern and Antarctic Lands,Country,-49.35,70.216667,Antarctica
-Funafuti,Capital,-8.516666667,179.216667,Tuvalu
-Gabon,Country,0.383333333,9.45,Africa
-Gaborone,Capital,-24.63333333,25.9,Botswana
-George Town,Capital,19.3,-81.383333,Cayman Islands
-Georgetown,Capital,6.8,-58.15,Guyana
-Georgia,Country,41.68333333,44.833333,Europe
-Germany,Country,52.51666667,13.4,Europe
-Ghana,Country,5.55,-0.216667,Africa
-Gibraltar,Capital,36.13333333,-5.35,Gibraltar
-Gibraltar,Country,36.13333333,-5.35,Europe
-Grand Turk,Capital,21.46666667,-71.133333,Turks and Caicos Islands
-Grand-Bassam,Capital,5.225936,-3.7536663,Ivory Coast
-Greece,Country,37.98333333,23.733333,Europe
-Greenland,Country,64.18333333,-51.75,Central America
-Grenada,Country,12.05,-61.75,North America
-Guam,Country,13.46666667,144.733333,Australia
-Guatemala,Country,14.61666667,-90.516667,Central America
-Guatemala City,Capital,14.61666667,-90.516667,Guatemala
-Guernsey,Country,49.45,-2.533333,Europe
-Guinea,Country,9.5,-13.7,Africa
-Guinea-Bissau,Country,11.85,-15.583333,Africa
-Gustavia,Capital,17.88333333,-62.85,Saint Barthelemy
-Guyana,Country,6.8,-58.15,South America
-Hagatna,Capital,13.46666667,144.733333,Guam
-Haiti,Country,18.53333333,-72.333333,North America
-Hakodate,Capital,41.7686961,140.7290599,Japan
-Hamilton,Capital,32.28333333,-64.783333,Bermuda
-Hanoi,Capital,21.03333333,105.85,Vietnam
-Hanover,Capital,44.1526004,-81.0254145,Germany
-Harare,Capital,-17.81666667,31.033333,Zimbabwe
-Hargeisa,Capital,9.55,44.05,Somaliland
-Havana,Capital,23.11666667,-82.35,Cuba
+Bosnia,Country,18.416667,43.86666667,Europe
+Botswana,Country,25.9,-24.63333333,Africa
+Brasilia,Capital,-47.916667,-15.78333333,Brazil
+Bratislava,Capital,17.116667,48.15,Slovakia
+Braunschweig ,Capital,10.5267696,52.2688736,Germany
+Brazil,Country,-47.916667,-15.78333333,South America
+Brazzaville,Capital,15.283333,-4.25,Republic of Congo
+Bridgetown,Capital,-59.616667,13.1,Barbados
+British Indian Ocean Territory,Country,72.4,-7.3,Africa
+British Virgin Islands,Country,-64.616667,18.41666667,North America
+Brunei Darussalam,Country,114.933333,4.883333333,Asia
+Brunswick,Capital,10.5267696,52.2688736,Germany
+Brussels,Capital,4.333333,50.83333333,Belgium
+Bucharest,Capital,26.1025384,44.4267674,Romania
+Bückeburg,Capital,9.0521233,52.2592762,Germany
+Buda,Capital,19.040235,47.497912,Hungary
+Budapest,Capital,19.083333,47.5,Hungary
+Buenos Aires,Capital,-58.666667,-34.58333333,Argentina
+Bujumbura,Capital,29.35,-3.366666667,Burundi
+Bulgaria,Country,23.316667,42.68333333,Europe
+Burkina Faso,Country,-1.516667,12.36666667,Africa
+Burundi,Country,29.35,-3.366666667,Africa
+Cairo,Capital,31.25,30.05,Egypt
+Cambodia,Country,104.916667,11.55,Asia
+Cameroon,Country,11.516667,3.866666667,Africa
+Canada,Country,-75.7,45.41666667,Central America
+Canberra,Capital,149.133333,-35.26666667,Australia
+Cape Verde,Country,-23.516667,14.91666667,Africa
+Caracas,Capital,-66.866667,10.48333333,Venezuela
+Castries,Capital,-61,14,Saint Lucia
+Cayman Islands,Country,-81.383333,19.3,North America
+Central African Republic,Country,18.583333,4.366666667,Africa
+Chad,Country,15.033333,12.1,Africa
+Chania,Capital,24.0180367,35.5138298,Greece
+Charlotte Amalie,Capital,-64.933333,18.35,US Virgin Islands
+Chile,Country,-70.666667,-33.45,South America
+China,Country,116.383333,39.91666667,Asia
+Chisinau,Capital,28.85,47,Moldova
+Christiania,Capital,10.7522454,59.9138688,Norway
+Christmas Island,Country,105.716667,-10.41666667,Australia
+Cocos Islands,Country,96.833333,-12.16666667,Australia
+Colombia,Country,-74.083333,4.6,South America
+Colombo,Capital,79.833333,6.916666667,Sri Lanka
+Comoros,Country,43.233333,-11.7,Africa
+Conakry,Capital,-13.7,9.5,Guinea
+Cook Islands,Country,-159.766667,-21.2,Australia
+Copenhagen,Capital,12.583333,55.66666667,Denmark
+Copenhagen,Capital,12.5683371,55.6760968,Denmark
+Corfu,Capital,19.9216777,39.6242621,Greece
+Costa Rica,Country,-84.083333,9.933333333,Central America
+Cote d'Ivoire,Country,-5.266667,6.816666667,Africa
+Croatia,Country,16,45.8,Europe
+Cuba,Country,-82.35,23.11666667,North America
+Curaçao,Country,-68.916667,12.1,North America
+Cyprus,Country,33.366667,35.16666667,Europe
+Czech Republic,Country,14.466667,50.08333333,Europe
+Dakar,Capital,-17.633333,14.73333333,Senegal
+Damascus,Capital,36.3,33.5,Syria
+Dar es Salaam,Capital,39.283333,-6.8,Tanzania
+Darmstadt,Capital,8.6511929,49.8728253,Germany
+Democratic Republic of the Congo,Country,15.3,-4.316666667,Africa
+Denmark,Country,12.583333,55.66666667,Europe
+Dhaka,Capital,90.4,23.71666667,Bangladesh
+Diego Garcia,Capital,72.4,-7.3,British Indian Ocean Territory
+Dili,Capital,125.6,-8.583333333,Timor-Leste
+Djibouti,Capital,43.15,11.58333333,Djibouti
+Djibouti,Country,43.15,11.58333333,Africa
+Doha,Capital,51.533333,25.28333333,Qatar
+Dominica,Country,-61.4,15.3,North America
+Dominican Republic,Country,-69.9,18.46666667,North America
+Douglas,Capital,-4.483333,54.15,Isle of Man
+Dresden,Capital,13.7372621,51.0504088,Germany
+Dublin,Capital,-6.233333,53.31666667,Ireland
+Dubrovnik,Capital,18.0944238,42.6506606,Croatia
+Dushanbe,Capital,68.766667,38.55,Tajikistan
+Ecuador,Country,-78.5,-0.216666667,South America
+Egypt,Country,31.25,30.05,Africa
+El Salvador,Country,-89.2,13.7,Central America
+El-Aaiún,Capital,-13.203333,27.153611,Western Sahara
+Entebbe,Capital,32.463708,0.0511839,Uganda
+Equatorial Guinea,Country,8.783333,3.75,Africa
+Eritrea,Country,38.933333,15.33333333,Africa
+Estonia,Country,24.716667,59.43333333,Europe
+Ethiopia,Country,38.7,9.033333333,Africa
+Falkland Islands,Country,-57.85,-51.7,South America
+Faroe Islands,Country,-6.766667,62,Europe
+Federated States of Micronesia,Country,158.15,6.916666667,Australia
+Fiji,Country,178.416667,-18.13333333,Australia
+Finland,Country,24.933333,60.16666667,Europe
+Florence,Capital,11.2558136,43.7695604,Italy
+France,Country,2.333333,48.86666667,Europe
+Frankfurt,Capital,8.6821267,50.1109221,Germany
+Freetown,Capital,-13.233333,8.483333333,Sierra Leone
+French Polynesia,Country,-149.566667,-17.53333333,Australia
+French Southern and Antarctic Lands,Country,70.216667,-49.35,Antarctica
+Funafuti,Capital,179.216667,-8.516666667,Tuvalu
+Gabon,Country,9.45,0.383333333,Africa
+Gaborone,Capital,25.9,-24.63333333,Botswana
+George Town,Capital,-81.383333,19.3,Cayman Islands
+Georgetown,Capital,-58.15,6.8,Guyana
+Georgia,Country,44.833333,41.68333333,Europe
+Germany,Country,13.4,52.51666667,Europe
+Ghana,Country,-0.216667,5.55,Africa
+Gibraltar,Capital,-5.35,36.13333333,Gibraltar
+Gibraltar,Country,-5.35,36.13333333,Europe
+Grand Turk,Capital,-71.133333,21.46666667,Turks and Caicos Islands
+Grand-Bassam,Capital,-3.7536663,5.225936,Ivory Coast
+Greece,Country,23.733333,37.98333333,Europe
+Greenland,Country,-51.75,64.18333333,Central America
+Grenada,Country,-61.75,12.05,North America
+Guam,Country,144.733333,13.46666667,Australia
+Guatemala,Country,-90.516667,14.61666667,Central America
+Guatemala City,Capital,-90.516667,14.61666667,Guatemala
+Guernsey,Country,-2.533333,49.45,Europe
+Guinea,Country,-13.7,9.5,Africa
+Guinea-Bissau,Country,-15.583333,11.85,Africa
+Gustavia,Capital,-62.85,17.88333333,Saint Barthelemy
+Guyana,Country,-58.15,6.8,South America
+Hagatna,Capital,144.733333,13.46666667,Guam
+Haiti,Country,-72.333333,18.53333333,North America
+Hakodate,Capital,140.7290599,41.7686961,Japan
+Hamilton,Capital,-64.783333,32.28333333,Bermuda
+Hanoi,Capital,105.85,21.03333333,Vietnam
+Hanover,Capital,-81.0254145,44.1526004,Germany
+Harare,Capital,31.033333,-17.81666667,Zimbabwe
+Hargeisa,Capital,44.05,9.55,Somaliland
+Havana,Capital,-82.35,23.11666667,Cuba
 Heard Island ,Country,0,0,Antarctica
-Heian-ky,Capital,35.011564,135.7681489,Japan
-Helsinki,Capital,60.16666667,24.933333,Finland
-Herzegovina,Country,43.86666667,18.416667,Europe
-Honduras,Country,14.1,-87.216667,Central America
-Hong Kong,Country,22.302711,114.177216,Asia
-Honiara,Capital,-9.433333333,159.95,Solomon Islands
-Huế ,Capital,16.4637117,107.5908628,Vietnam
-Hungary,Country,47.5,19.083333,Europe
-Iceland,Country,64.15,-21.95,Europe
-India,Country,28.6,77.2,Asia
-Indonesia,Country,-6.166666667,106.816667,Asia
-Iran,Country,35.7,51.416667,Asia
-Iraq,Country,33.33333333,44.4,Asia
-Ireland,Country,53.31666667,-6.233333,Europe
-Islamabad,Capital,33.68333333,73.05,Pakistan
-Island of Mozambique,Capital,-15.0364493,40.7323311,Mozambique
-Isle of Man,Country,54.15,-4.483333,Europe
-Israel,Country,31.76666667,35.233333,Asia
-Italy,Country,41.9,12.483333,Europe
-Jakarta,Capital,-6.166666667,106.816667,Indonesia
-Jamaica,Country,18,-76.8,North America
-Jamestown,Capital,-15.93333333,-5.716667,Saint Helena
-Japan,Country,35.68333333,139.75,Asia
-Jassy,Capital,47.1584549,27.6014418,Romania
-Jersey,Country,49.18333333,-2.1,Europe
-Jerusalem,Capital,31.76666667,35.233333,Israel
-Jerusalem,Capital,31.76666667,35.233333,Palestine
-Jordan,Country,31.95,35.933333,Asia
-Juba,Capital,4.85,31.616667,South Sudan
-Kabul,Capital,34.51666667,69.183333,Afghanistan
-Kampala,Capital,0.316666667,32.55,Uganda
-Kassel,Capital,51.3127114,9.4797461,Germany
-Kassel,Capital,51.3127114,9.4797461,Germany
-Kathmandu,Capital,27.71666667,85.316667,Nepal
-Kazakhstan,Country,51.16666667,71.416667,Asia
-Kelmis,Capital,50.7163786,6.0118139,Belgium
-Kenya,Country,-1.283333333,36.816667,Africa
-Khartoum,Capital,15.6,32.533333,Sudan
-Kigali,Capital,-1.95,30.05,Rwanda
-King Edward Point,Capital,-54.283333,-36.5,South Georgia and South Sandwich Islands
-Kingston,Capital,18,-76.8,Jamaica
-Kingston,Capital,-29.05,167.966667,Norfolk Island
-Kingstown,Capital,13.13333333,-61.216667,Saint Vincent and the Grenadines
-Kinshasa,Capital,-4.316666667,15.3,Democratic Republic of the Congo
-Kiribati,Country,-0.883333333,169.533333,Australia
-Kosovo,Country,42.66666667,21.166667,Europe
-Kuala Lumpur,Capital,3.166666667,101.7,Malaysia
-Kukawa,Capital,12.9229652,13.5639377,Nigeria
-Kuwait,Country,29.36666667,47.966667,Asia
-Kuwait City,Capital,29.36666667,47.966667,Kuwait
-Kyiv,Capital,50.43333333,30.516667,Ukraine
-Kyoto,Capital,35.011564,135.7681489,Japan
-Kyrgyzstan,Country,42.86666667,74.6,Asia
-La Paz,Capital,-16.5,-68.15,Bolivia
-Laos,Country,17.96666667,102.6,Asia
-Latvia,Country,56.95,24.1,Europe
-Lebanon,Country,33.86666667,35.5,Asia
-Lesotho,Country,-29.31666667,27.483333,Africa
-Levuka,Capital,-17.6817232,178.8323025,Fiji
-Liberia,Country,6.3,-10.8,Africa
-Libreville,Capital,0.383333333,9.45,Gabon
-Libya,Country,32.88333333,13.166667,Africa
-Liechtenstein,Country,47.13333333,9.516667,Europe
-Lilongwe,Capital,-13.96666667,33.783333,Malawi
-Lima,Capital,-12.05,-77.05,Peru
-Lisbon,Capital,38.71666667,-9.133333,Portugal
-Lithuania,Country,54.68333333,25.316667,Europe
-Ljubljana,Capital,46.05,14.516667,Slovenia
-Lome,Capital,6.116666667,1.216667,Togo
-London,Capital,51.5,-0.083333,United Kingdom
-Longyearbyen,Capital,78.21666667,15.633333,Svalbard
-Luanda,Capital,-8.833333333,13.216667,Angola
-Lucca,Capital,43.8429197,10.5026977,Italy
-Lucerne,Capital,47.0501682,8.3093072,Switzerland
-Lusaka,Capital,-15.41666667,28.283333,Zambia
-Luxembourg,Capital,49.6,6.116667,Luxembourg
-Luxembourg,Country,49.6,6.116667,Europe
+Heian-ky,Capital,135.7681489,35.011564,Japan
+Helsinki,Capital,24.933333,60.16666667,Finland
+Herzegovina,Country,18.416667,43.86666667,Europe
+Honduras,Country,-87.216667,14.1,Central America
+Hong Kong,Country,114.177216,22.302711,Asia
+Honiara,Capital,159.95,-9.433333333,Solomon Islands
+Huế ,Capital,107.5908628,16.4637117,Vietnam
+Hungary,Country,19.083333,47.5,Europe
+Iceland,Country,-21.95,64.15,Europe
+India,Country,77.2,28.6,Asia
+Indonesia,Country,106.816667,-6.166666667,Asia
+Iran,Country,51.416667,35.7,Asia
+Iraq,Country,44.4,33.33333333,Asia
+Ireland,Country,-6.233333,53.31666667,Europe
+Islamabad,Capital,73.05,33.68333333,Pakistan
+Island of Mozambique,Capital,40.7323311,-15.0364493,Mozambique
+Isle of Man,Country,-4.483333,54.15,Europe
+Israel,Country,35.233333,31.76666667,Asia
+Italy,Country,12.483333,41.9,Europe
+Jakarta,Capital,106.816667,-6.166666667,Indonesia
+Jamaica,Country,-76.8,18,North America
+Jamestown,Capital,-5.716667,-15.93333333,Saint Helena
+Japan,Country,139.75,35.68333333,Asia
+Jassy,Capital,27.6014418,47.1584549,Romania
+Jersey,Country,-2.1,49.18333333,Europe
+Jerusalem,Capital,35.233333,31.76666667,Israel
+Jerusalem,Capital,35.233333,31.76666667,Palestine
+Jordan,Country,35.933333,31.95,Asia
+Juba,Capital,31.616667,4.85,South Sudan
+Kabul,Capital,69.183333,34.51666667,Afghanistan
+Kampala,Capital,32.55,0.316666667,Uganda
+Kassel,Capital,9.4797461,51.3127114,Germany
+Kassel,Capital,9.4797461,51.3127114,Germany
+Kathmandu,Capital,85.316667,27.71666667,Nepal
+Kazakhstan,Country,71.416667,51.16666667,Asia
+Kelmis,Capital,6.0118139,50.7163786,Belgium
+Kenya,Country,36.816667,-1.283333333,Africa
+Khartoum,Capital,32.533333,15.6,Sudan
+Kigali,Capital,30.05,-1.95,Rwanda
+King Edward Point,Capital,-36.5,-54.283333,South Georgia and South Sandwich Islands
+Kingston,Capital,-76.8,18,Jamaica
+Kingston,Capital,167.966667,-29.05,Norfolk Island
+Kingstown,Capital,-61.216667,13.13333333,Saint Vincent and the Grenadines
+Kinshasa,Capital,15.3,-4.316666667,Democratic Republic of the Congo
+Kiribati,Country,169.533333,-0.883333333,Australia
+Kosovo,Country,21.166667,42.66666667,Europe
+Kuala Lumpur,Capital,101.7,3.166666667,Malaysia
+Kukawa,Capital,13.5639377,12.9229652,Nigeria
+Kuwait,Country,47.966667,29.36666667,Asia
+Kuwait City,Capital,47.966667,29.36666667,Kuwait
+Kyiv,Capital,30.516667,50.43333333,Ukraine
+Kyoto,Capital,135.7681489,35.011564,Japan
+Kyrgyzstan,Country,74.6,42.86666667,Asia
+La Paz,Capital,-68.15,-16.5,Bolivia
+Laos,Country,102.6,17.96666667,Asia
+Latvia,Country,24.1,56.95,Europe
+Lebanon,Country,35.5,33.86666667,Asia
+Lesotho,Country,27.483333,-29.31666667,Africa
+Levuka,Capital,178.8323025,-17.6817232,Fiji
+Liberia,Country,-10.8,6.3,Africa
+Libreville,Capital,9.45,0.383333333,Gabon
+Libya,Country,13.166667,32.88333333,Africa
+Liechtenstein,Country,9.516667,47.13333333,Europe
+Lilongwe,Capital,33.783333,-13.96666667,Malawi
+Lima,Capital,-77.05,-12.05,Peru
+Lisbon,Capital,-9.133333,38.71666667,Portugal
+Lithuania,Country,25.316667,54.68333333,Europe
+Ljubljana,Capital,14.516667,46.05,Slovenia
+Lome,Capital,1.216667,6.116666667,Togo
+London,Capital,-0.083333,51.5,United Kingdom
+Longyearbyen,Capital,15.633333,78.21666667,Svalbard
+Luanda,Capital,13.216667,-8.833333333,Angola
+Lucca,Capital,10.5026977,43.8429197,Italy
+Lucerne,Capital,8.3093072,47.0501682,Switzerland
+Lusaka,Capital,28.283333,-15.41666667,Zambia
+Luxembourg,Capital,6.116667,49.6,Luxembourg
+Luxembourg,Country,6.116667,49.6,Europe
 Macau,Country,0,0,Asia
-Macedonia,Country,42,21.433333,Europe
-Madagascar,Country,-18.91666667,47.516667,Africa
-Madrid,Capital,40.4,-3.683333,Spain
-Majuro,Capital,7.1,171.383333,Marshall Islands
-Malabo,Capital,3.75,8.783333,Equatorial Guinea
-Malawi,Country,-13.96666667,33.783333,Africa
-Malaysia,Country,3.166666667,101.7,Asia
-Maldives,Country,4.166666667,73.5,Asia
-Male,Capital,4.166666667,73.5,Maldives
-Mali,Country,12.65,-8,Africa
-Malta,Country,35.88333333,14.5,Europe
-Managua,Capital,12.13333333,-86.25,Nicaragua
-Manama,Capital,26.23333333,50.566667,Bahrain
-Mandalay,Capital,21.9588282,96.0891032,Myanmar
-Manila,Capital,14.6,120.966667,Philippines
-Maputo,Capital,-25.95,32.583333,Mozambique
-Marawi,Capital,8.0106213,124.297718,Philippines
-Mariehamn,Capital,60.116667,19.9,Aland Islands
-Marigot,Capital,18.0731,-63.0822,Saint Martin
-Marshall Islands,Country,7.1,171.383333,Australia
-Maseru,Capital,-29.31666667,27.483333,Lesotho
-Mata-Utu,Capital,-13.95,-171.933333,Wallis and Futuna
-Mauritania,Country,18.06666667,-15.966667,Africa
-Mauritius,Country,-20.15,57.483333,Africa
-Mbabane,Capital,-26.31666667,31.133333,Swaziland
+Macedonia,Country,21.433333,42,Europe
+Madagascar,Country,47.516667,-18.91666667,Africa
+Madrid,Capital,-3.683333,40.4,Spain
+Majuro,Capital,171.383333,7.1,Marshall Islands
+Malabo,Capital,8.783333,3.75,Equatorial Guinea
+Malawi,Country,33.783333,-13.96666667,Africa
+Malaysia,Country,101.7,3.166666667,Asia
+Maldives,Country,73.5,4.166666667,Asia
+Male,Capital,73.5,4.166666667,Maldives
+Mali,Country,-8,12.65,Africa
+Malta,Country,14.5,35.88333333,Europe
+Managua,Capital,-86.25,12.13333333,Nicaragua
+Manama,Capital,50.566667,26.23333333,Bahrain
+Mandalay,Capital,96.0891032,21.9588282,Myanmar
+Manila,Capital,120.966667,14.6,Philippines
+Maputo,Capital,32.583333,-25.95,Mozambique
+Marawi,Capital,124.297718,8.0106213,Philippines
+Mariehamn,Capital,19.9,60.116667,Aland Islands
+Marigot,Capital,-63.0822,18.0731,Saint Martin
+Marshall Islands,Country,171.383333,7.1,Australia
+Maseru,Capital,27.483333,-29.31666667,Lesotho
+Mata-Utu,Capital,-171.933333,-13.95,Wallis and Futuna
+Mauritania,Country,-15.966667,18.06666667,Africa
+Mauritius,Country,57.483333,-20.15,Africa
+Mbabane,Capital,31.133333,-26.31666667,Swaziland
 McDonald Island,Country,0,0,Antarctica
-Melekeok,Capital,7.483333333,134.633333,Palau
-Mexico,Country,19.43333333,-99.133333,Central America
-Mexico City,Capital,19.43333333,-99.133333,Mexico
-Milan,Capital,45.4642035,9.189982,Italy
-Minsk,Capital,53.9,27.566667,Belarus
-Mogadishu,Capital,2.066666667,45.333333,Somalia
-Moldova,Country,47,28.85,Europe
-Monaco,Capital,43.73333333,7.416667,Monaco
-Monaco,Country,43.73333333,7.416667,Europe
-Mongolia,Country,47.91666667,106.916667,Asia
-Monrovia,Capital,6.3,-10.8,Liberia
-Montenegro,Country,42.43333333,19.266667,Europe
-Montevideo,Capital,-34.85,-56.166667,Uruguay
-Montserrat,Country,16.7,-62.216667,North America
-Morocco,Country,34.01666667,-6.816667,Africa
-Moroni,Capital,-11.7,43.233333,Comoros
-Moscow,Capital,55.75,37.6,Russia
-Mozambique,Country,-25.95,32.583333,Africa
-Muscat,Capital,23.61666667,58.583333,Oman
-Myanmar,Country,16.8,96.15,Asia
-N'Djamena,Capital,12.1,15.033333,Chad
-Nafplio,Capital,37.5673173,22.8015531,Greece
-Nairobi,Capital,-1.283333333,36.816667,Kenya
-Namibia,Country,-22.56666667,17.083333,Africa
-Naples,Capital,40.8517983,14.26812,Italy
-Nassau,Capital,25.08333333,-77.35,Bahamas
-Nauru,Country,-0.5477,166.920867,Australia
-Nepal,Country,27.71666667,85.316667,Asia
-Netherlands,Country,52.35,4.916667,Europe
-New Caledonia,Country,-22.26666667,166.45,Australia
-New Delhi,Capital,28.6,77.2,India
-New Zealand,Country,-41.3,174.783333,Australia
-Niamey,Capital,13.51666667,2.116667,Niger
-Nicaragua,Country,12.13333333,-86.25,Central America
-Nicosia,Capital,35.16666667,33.366667,Cyprus
-Niger,Country,13.51666667,2.116667,Africa
-Nigeria,Country,9.083333333,7.533333,Africa
-Niue,Country,-19.01666667,-169.916667,Australia
-Norfolk Island,Country,-29.05,167.966667,Australia
-North Korea,Country,39.01666667,125.75,Asia
-North Nicosia,Capital,35.183333,33.366667,Northern Cyprus
-Northern Cyprus,Country,35.183333,33.366667,Europe
-Northern Mariana Islands,Country,15.2,145.75,Australia
-Norway,Country,59.91666667,10.75,Europe
-Nouakchott,Capital,18.06666667,-15.966667,Mauritania
-Noumea,Capital,-22.26666667,166.45,New Caledonia
-Nuku'alofa,Capital,-21.13333333,-175.2,Tonga
-Nuuk,Capital,64.18333333,-51.75,Greenland
-Okiato,Capital,-35.3039393,174.1220763,New Zealand
-Oldenburg,Capital,53.1434501,8.2145521,Germany
-Oman,Country,23.61666667,58.583333,Asia
-Oranjestad,Capital,12.51666667,-70.033333,Aruba
-Oslo,Capital,59.91666667,10.75,Norway
-Otjimbingwe,Capital,-22.3531369,16.1286901,Namibia
-Ottawa,Capital,45.41666667,-75.7,Canada
-Ouagadougou,Capital,12.36666667,-1.516667,Burkina Faso
-Pago Pago,Capital,-14.26666667,-170.7,American Samoa
-Pakistan,Country,33.68333333,73.05,Asia
-Palau,Country,7.483333333,134.633333,Australia
-Palestine,Country,31.76666667,35.233333,Asia
-Palikir,Capital,6.916666667,158.15,Federated States of Micronesia
-Panama,Country,8.966666667,-79.533333,Central America
-Panama City,Capital,8.966666667,-79.533333,Panama
-Papeete,Capital,-17.53333333,-149.566667,French Polynesia
-Papua New Guinea,Country,-9.45,147.183333,Australia
-Paraguay,Country,-25.26666667,-57.666667,South America
-Paramaribo,Capital,5.833333333,-55.166667,Suriname
-Paris,Capital,48.86666667,2.333333,France
-Peru,Country,-12.05,-77.05,South America
-Petrograd ,Capital,59.9310584,30.3609097,Russia
-Philippines,Country,14.6,120.966667,Asia
-Philipsburg,Capital,18.01666667,-63.033333,Sint Maarten
-Phnom Penh,Capital,11.5563738,104.9282099,Cambodia
-Phú Xuân,Capital,10.6286249,105.2838511,Vietnam
-Pitcairn Islands,Country,-25.06666667,-130.083333,Australia
-Plovdiv,Capital,42.1354079,24.7452904,Bulgaria
-Plymouth,Capital,16.7,-62.216667,Montserrat
-Podgorica,Capital,42.43333333,19.266667,Montenegro
-Poland,Country,52.25,21,Europe
-Port Louis,Capital,-20.15,57.483333,Mauritius
-Port Moresby,Capital,-9.45,147.183333,Papua New Guinea
-Port of Spain,Capital,10.65,-61.516667,Trinidad and Tobago
-Port-au-Prince,Capital,18.53333333,-72.333333,Haiti
-Port-aux-Francais,Capital,-49.35,70.216667,French Southern and Antarctic Lands
-Port-Vila,Capital,-17.73333333,168.316667,Vanuatu
-Porto-Novo,Capital,6.483333333,2.616667,Benin
-Portugal,Country,38.71666667,-9.133333,Europe
-Prague,Capital,50.08333333,14.466667,Czech Republic
-Praia,Capital,14.91666667,-23.516667,Cape Verde
-Pretoria,Capital,-25.7,28.216667,South Africa
-Principe,Country,0.333333333,6.733333,Africa
-Pristina,Capital,42.66666667,21.166667,Kosovo
-Puerto Rico,Country,18.46666667,-66.116667,North America
-Pyongyang,Capital,39.01666667,125.75,North Korea
-Qatar,Country,25.28333333,51.533333,Asia
-Quito,Capital,-0.216666667,-78.5,Ecuador
-Rabat,Capital,34.01666667,-6.816667,Morocco
-Ragusa,Capital,42.6506606,18.0944238,Croatia
-Rangoon,Capital,16.8,96.15,Myanmar
-Rangoon ,Capital,16.840939,96.173526,Myanmar
-Republic of Congo,Country,-4.25,15.283333,Africa
-Reykjavik,Capital,64.15,-21.95,Iceland
-Riga,Capital,56.95,24.1,Latvia
-Riyadh,Capital,24.65,46.7,Saudi Arabia
-Road Town,Capital,18.41666667,-64.616667,British Virgin Islands
-Romania,Country,44.43333333,26.1,Europe
-Rome,Capital,41.9027835,12.4963655,Italy
-Roseau,Capital,15.3,-61.4,Dominica
-Russell,Capital,-35.3039393,174.1220763,New Zealand
-Russia,Country,55.75,37.6,Europe
-Rwanda,Country,-1.95,30.05,Africa
-Saint Barthelemy,Country,17.88333333,-62.85,North America
-Saint George's,Capital,12.05,-61.75,Grenada
-Saint Helena,Country,-15.93333333,-5.716667,Africa
-Saint Helier,Capital,49.18333333,-2.1,Jersey
-Saint John's,Capital,17.11666667,-61.85,Antigua and Barbuda
-Saint Kitts and Nevis,Country,17.3,-62.716667,North America
-Saint Lucia,Country,14,-61,North America
-Saint Martin,Country,18.0731,-63.0822,North America
-Saint Peter Port,Capital,49.45,-2.533333,Guernsey
-Saint Petersburg,Capital,59.9310584,30.3609097,Russia
-Saint Pierre and Miquelon,Country,46.76666667,-56.183333,Central America
-Saint Vincent and the Grenadines,Country,13.13333333,-61.216667,Central America
-Saint-Pierre,Capital,46.76666667,-56.183333,Saint Pierre and Miquelon
-Saipan,Capital,15.2,145.75,Northern Mariana Islands
-Samoa,Country,-13.81666667,-171.766667,Australia
-San Jose,Capital,9.933333333,-84.083333,Costa Rica
-San Juan,Capital,18.46666667,-66.116667,Puerto Rico
-San Marino,Capital,43.93333333,12.416667,San Marino
-San Marino,Country,43.93333333,12.416667,Europe
-San Salvador,Capital,13.7,-89.2,El Salvador
-Sanaa,Capital,15.35,44.2,Yemen
-Santiago,Capital,-33.45,-70.666667,Chile
-Santo Domingo,Capital,18.46666667,-69.9,Dominican Republic
-Sao Tome,Capital,0.333333333,6.733333,Sao Tome and Principe
-Sao Tome ,Country,0.333333333,6.733333,Africa
-Sarajevo,Capital,43.86666667,18.416667,Bosnia and Herzegovina
-Saudi Arabia,Country,24.65,46.7,Asia
-Senegal,Country,14.73333333,-17.633333,Africa
-Seoul,Capital,37.55,126.983333,South Korea
-Serbia,Country,44.83333333,20.5,Europe
-Seychelles,Country,-4.616666667,55.45,Africa
-Sierra Leone,Country,8.483333333,-13.233333,Africa
-Singapore,Capital,1.283333333,103.85,Singapore
-Singapore,Country,1.283333333,103.85,Asia
-Sint Maarten,Country,18.01666667,-63.033333,North America
-Skopje,Capital,42,21.433333,Macedonia
-Slovakia,Country,48.15,17.116667,Europe
-Slovenia,Country,46.05,14.516667,Europe
-Sofia,Capital,42.68333333,23.316667,Bulgaria
-Solomon Islands,Country,-9.433333333,159.95,Australia
-Somalia,Country,2.066666667,45.333333,Africa
-Somaliland,Country,9.55,44.05,Africa
-South Africa,Country,-25.7,28.216667,Africa
-South Georgia and South Sandwich Islands,Country,-54.283333,-36.5,Antarctica
-South Korea,Country,37.55,126.983333,Asia
-South Sudan,Country,4.85,31.616667,Africa
-Spain,Country,40.4,-3.683333,Europe
-Sri Lanka,Country,6.916666667,79.833333,Asia
-Stanley,Capital,-51.7,-57.85,Falkland Islands
-Stockholm,Capital,59.33333333,18.05,Sweden
-Stuttgart,Capital,48.7758459,9.1829321,Germany
-Sudan,Country,15.6,32.533333,Africa
-Suriname,Country,5.833333333,-55.166667,South America
-Suva,Capital,-18.13333333,178.416667,Fiji
-Svalbard,Country,78.21666667,15.633333,Europe
-Swaziland,Country,-26.31666667,31.133333,Africa
-Sweden,Country,59.33333333,18.05,Europe
-Switzerland,Country,46.91666667,7.466667,Europe
-Syria,Country,33.5,36.3,Asia
-Taipei,Capital,25.03333333,121.516667,Taiwan
-Taiwan,Country,25.03333333,121.516667,Asia
-Tajikistan,Country,38.55,68.766667,Asia
-Tallinn,Capital,59.43333333,24.716667,Estonia
-Tanzania,Country,-6.8,39.283333,Africa
-Tarawa,Capital,-0.883333333,169.533333,Kiribati
-Tarnovo,Capital,43.0756739,25.6171514,Bulgaria
-Tashkent,Capital,41.31666667,69.25,Uzbekistan
-Tbilisi,Capital,41.68333333,44.833333,Georgia
-Tegucigalpa,Capital,14.1,-87.216667,Honduras
-Tehran,Capital,35.7,51.416667,Iran
-Thailand,Country,13.75,100.516667,Asia
-The Gambia,Country,13.45,-16.566667,Africa
-The Settlement,Capital,-10.41666667,105.716667,Christmas Island
-The Valley,Capital,18.21666667,-63.05,Anguilla
-Thimphu,Capital,27.46666667,89.633333,Bhutan
-Timor-Leste,Country,-8.583333333,125.6,Asia
-Tirana,Capital,41.31666667,19.816667,Albania
-Tobago,Country,10.65,-61.516667,North America
-Togo,Country,6.116666667,1.216667,Africa
-Tokelau,Country,-9.166667,-171.833333,Australia
-Tokyo,Capital,35.68333333,139.75,Japan
-Tonga,Country,-21.13333333,-175.2,Australia
-Torshavn,Capital,62,-6.766667,Faroe Islands
-Trinidad,Country,10.65,-61.516667,North America
-Tripoli,Capital,32.88333333,13.166667,Libya
-Tulagi,Capital,-9.1015826,160.147069,Solomon Islands
-Tunis,Capital,36.8,10.183333,Tunisia
-Tunisia,Country,36.8,10.183333,Africa
-Turin,Capital,45.0703393,7.686864,Italy
-Turkey,Country,39.93333333,32.866667,Europe
-Turkmenistan,Country,37.95,58.383333,Asia
-Turks and Caicos Islands,Country,21.46666667,-71.133333,North America
-Turku,Capital,60.4518126,22.2666303,Finland
-Tuvalu,Country,-8.516666667,179.216667,Australia
-Uganda,Country,0.316666667,32.55,Africa
-Ukraine,Country,50.43333333,30.516667,Europe
-Ulaanbaatar,Capital,47.91666667,106.916667,Mongolia
-United Arab Emirates,Country,24.46666667,54.366667,Asia
-United Kingdom,Country,51.5,-0.083333,Europe
-United States,Country,38.883333,-77,Central America
-Uruguay,Country,-34.85,-56.166667,South America
-US Minor Outlying Islands,Country,38.883333,-77,Australia
-US Virgin Islands,Country,18.35,-64.933333,North America
-Uzbekistan,Country,41.31666667,69.25,Asia
-Vaduz,Capital,47.13333333,9.516667,Liechtenstein
-Valletta,Capital,35.88333333,14.5,Malta
-Vanuatu,Country,-17.73333333,168.316667,Australia
-Vatican,Country,41.9,12.45,Europe
-Vatican City,Capital,41.9,12.45,Vatican City
-Venezuela,Country,10.48333333,-66.866667,South America
-Venice,Capital,45.4408474,12.3155151,Italy
-Victoria,Capital,-4.616666667,55.45,Seychelles
-Vienna,Capital,48.2,16.366667,Austria
-Vientiane,Capital,17.96666667,102.6,Laos
-Vietnam,Country,21.03333333,105.85,Asia
-Vilnius,Capital,54.68333333,25.316667,Lithuania
-Wallis and Futuna,Country,-13.95,-171.933333,Australia
-Warsaw,Capital,52.25,21,Poland
-Washington,Capital,38.883333,-77,United States
-Wellington,Capital,-41.3,174.783333,New Zealand
-West Island,Capital,-12.16666667,96.833333,Cocos Islands
-Western Sahara,Country,27.153611,-13.203333,Africa
-Wiesbaden,Capital,50.0782184,8.2397608,Germany
-Willemstad,Capital,12.1,-68.916667,CuraÃ§ao
-Windhoek,Capital,-22.56666667,17.083333,Namibia
-Yamoussoukro,Capital,6.816666667,-5.266667,Cote d'Ivoire
-Yangon,Capital,16.840939,96.173526,Myanmar
-Yaounde,Capital,3.866666667,11.516667,Cameroon
-Yaren,Capital,-0.5477,166.920867,Nauru
-Yemen,Country,15.35,44.2,Asia
-Yerevan,Capital,40.16666667,44.5,Armenia
-Zagreb,Capital,45.8,16,Croatia
-Zambia,Country,-15.41666667,28.283333,Africa
-Zanzibar City,Capital,-6.165193,39.1989144,Tanzania
-Zimbabwe,Country,-17.81666667,31.033333,Africa
-Zomba,Capital,-15.3765857,35.3356518,Malawi
+Melekeok,Capital,134.633333,7.483333333,Palau
+Mexico,Country,-99.133333,19.43333333,Central America
+Mexico City,Capital,-99.133333,19.43333333,Mexico
+Milan,Capital,9.189982,45.4642035,Italy
+Minsk,Capital,27.566667,53.9,Belarus
+Mogadishu,Capital,45.333333,2.066666667,Somalia
+Moldova,Country,28.85,47,Europe
+Monaco,Capital,7.416667,43.73333333,Monaco
+Monaco,Country,7.416667,43.73333333,Europe
+Mongolia,Country,106.916667,47.91666667,Asia
+Monrovia,Capital,-10.8,6.3,Liberia
+Montenegro,Country,19.266667,42.43333333,Europe
+Montevideo,Capital,-56.166667,-34.85,Uruguay
+Montserrat,Country,-62.216667,16.7,North America
+Morocco,Country,-6.816667,34.01666667,Africa
+Moroni,Capital,43.233333,-11.7,Comoros
+Moscow,Capital,37.6,55.75,Russia
+Mozambique,Country,32.583333,-25.95,Africa
+Muscat,Capital,58.583333,23.61666667,Oman
+Myanmar,Country,96.15,16.8,Asia
+N'Djamena,Capital,15.033333,12.1,Chad
+Nafplio,Capital,22.8015531,37.5673173,Greece
+Nairobi,Capital,36.816667,-1.283333333,Kenya
+Namibia,Country,17.083333,-22.56666667,Africa
+Naples,Capital,14.26812,40.8517983,Italy
+Nassau,Capital,-77.35,25.08333333,Bahamas
+Nauru,Country,166.920867,-0.5477,Australia
+Nepal,Country,85.316667,27.71666667,Asia
+Netherlands,Country,4.916667,52.35,Europe
+New Caledonia,Country,166.45,-22.26666667,Australia
+New Delhi,Capital,77.2,28.6,India
+New Zealand,Country,174.783333,-41.3,Australia
+Niamey,Capital,2.116667,13.51666667,Niger
+Nicaragua,Country,-86.25,12.13333333,Central America
+Nicosia,Capital,33.366667,35.16666667,Cyprus
+Niger,Country,2.116667,13.51666667,Africa
+Nigeria,Country,7.533333,9.083333333,Africa
+Niue,Country,-169.916667,-19.01666667,Australia
+Norfolk Island,Country,167.966667,-29.05,Australia
+North Korea,Country,125.75,39.01666667,Asia
+North Nicosia,Capital,33.366667,35.183333,Northern Cyprus
+Northern Cyprus,Country,33.366667,35.183333,Europe
+Northern Mariana Islands,Country,145.75,15.2,Australia
+Norway,Country,10.75,59.91666667,Europe
+Nouakchott,Capital,-15.966667,18.06666667,Mauritania
+Noumea,Capital,166.45,-22.26666667,New Caledonia
+Nuku'alofa,Capital,-175.2,-21.13333333,Tonga
+Nuuk,Capital,-51.75,64.18333333,Greenland
+Okiato,Capital,174.1220763,-35.3039393,New Zealand
+Oldenburg,Capital,8.2145521,53.1434501,Germany
+Oman,Country,58.583333,23.61666667,Asia
+Oranjestad,Capital,-70.033333,12.51666667,Aruba
+Oslo,Capital,10.75,59.91666667,Norway
+Otjimbingwe,Capital,16.1286901,-22.3531369,Namibia
+Ottawa,Capital,-75.7,45.41666667,Canada
+Ouagadougou,Capital,-1.516667,12.36666667,Burkina Faso
+Pago Pago,Capital,-170.7,-14.26666667,American Samoa
+Pakistan,Country,73.05,33.68333333,Asia
+Palau,Country,134.633333,7.483333333,Australia
+Palestine,Country,35.233333,31.76666667,Asia
+Palikir,Capital,158.15,6.916666667,Federated States of Micronesia
+Panama,Country,-79.533333,8.966666667,Central America
+Panama City,Capital,-79.533333,8.966666667,Panama
+Papeete,Capital,-149.566667,-17.53333333,French Polynesia
+Papua New Guinea,Country,147.183333,-9.45,Australia
+Paraguay,Country,-57.666667,-25.26666667,South America
+Paramaribo,Capital,-55.166667,5.833333333,Suriname
+Paris,Capital,2.333333,48.86666667,France
+Peru,Country,-77.05,-12.05,South America
+Petrograd ,Capital,30.3609097,59.9310584,Russia
+Philippines,Country,120.966667,14.6,Asia
+Philipsburg,Capital,-63.033333,18.01666667,Sint Maarten
+Phnom Penh,Capital,104.9282099,11.5563738,Cambodia
+Phú Xuân,Capital,105.2838511,10.6286249,Vietnam
+Pitcairn Islands,Country,-130.083333,-25.06666667,Australia
+Plovdiv,Capital,24.7452904,42.1354079,Bulgaria
+Plymouth,Capital,-62.216667,16.7,Montserrat
+Podgorica,Capital,19.266667,42.43333333,Montenegro
+Poland,Country,21,52.25,Europe
+Port Louis,Capital,57.483333,-20.15,Mauritius
+Port Moresby,Capital,147.183333,-9.45,Papua New Guinea
+Port of Spain,Capital,-61.516667,10.65,Trinidad and Tobago
+Port-au-Prince,Capital,-72.333333,18.53333333,Haiti
+Port-aux-Francais,Capital,70.216667,-49.35,French Southern and Antarctic Lands
+Port-Vila,Capital,168.316667,-17.73333333,Vanuatu
+Porto-Novo,Capital,2.616667,6.483333333,Benin
+Portugal,Country,-9.133333,38.71666667,Europe
+Prague,Capital,14.466667,50.08333333,Czech Republic
+Praia,Capital,-23.516667,14.91666667,Cape Verde
+Pretoria,Capital,28.216667,-25.7,South Africa
+Principe,Country,6.733333,0.333333333,Africa
+Pristina,Capital,21.166667,42.66666667,Kosovo
+Puerto Rico,Country,-66.116667,18.46666667,North America
+Pyongyang,Capital,125.75,39.01666667,North Korea
+Qatar,Country,51.533333,25.28333333,Asia
+Quito,Capital,-78.5,-0.216666667,Ecuador
+Rabat,Capital,-6.816667,34.01666667,Morocco
+Ragusa,Capital,18.0944238,42.6506606,Croatia
+Rangoon,Capital,96.15,16.8,Myanmar
+Rangoon ,Capital,96.173526,16.840939,Myanmar
+Republic of Congo,Country,15.283333,-4.25,Africa
+Reykjavik,Capital,-21.95,64.15,Iceland
+Riga,Capital,24.1,56.95,Latvia
+Riyadh,Capital,46.7,24.65,Saudi Arabia
+Road Town,Capital,-64.616667,18.41666667,British Virgin Islands
+Romania,Country,26.1,44.43333333,Europe
+Rome,Capital,12.4963655,41.9027835,Italy
+Roseau,Capital,-61.4,15.3,Dominica
+Russell,Capital,174.1220763,-35.3039393,New Zealand
+Russia,Country,37.6,55.75,Europe
+Rwanda,Country,30.05,-1.95,Africa
+Saint Barthelemy,Country,-62.85,17.88333333,North America
+Saint George's,Capital,-61.75,12.05,Grenada
+Saint Helena,Country,-5.716667,-15.93333333,Africa
+Saint Helier,Capital,-2.1,49.18333333,Jersey
+Saint John's,Capital,-61.85,17.11666667,Antigua and Barbuda
+Saint Kitts and Nevis,Country,-62.716667,17.3,North America
+Saint Lucia,Country,-61,14,North America
+Saint Martin,Country,-63.0822,18.0731,North America
+Saint Peter Port,Capital,-2.533333,49.45,Guernsey
+Saint Petersburg,Capital,30.3609097,59.9310584,Russia
+Saint Pierre and Miquelon,Country,-56.183333,46.76666667,Central America
+Saint Vincent and the Grenadines,Country,-61.216667,13.13333333,Central America
+Saint-Pierre,Capital,-56.183333,46.76666667,Saint Pierre and Miquelon
+Saipan,Capital,145.75,15.2,Northern Mariana Islands
+Samoa,Country,-171.766667,-13.81666667,Australia
+San Jose,Capital,-84.083333,9.933333333,Costa Rica
+San Juan,Capital,-66.116667,18.46666667,Puerto Rico
+San Marino,Capital,12.416667,43.93333333,San Marino
+San Marino,Country,12.416667,43.93333333,Europe
+San Salvador,Capital,-89.2,13.7,El Salvador
+Sanaa,Capital,44.2,15.35,Yemen
+Santiago,Capital,-70.666667,-33.45,Chile
+Santo Domingo,Capital,-69.9,18.46666667,Dominican Republic
+Sao Tome,Capital,6.733333,0.333333333,Sao Tome and Principe
+Sao Tome ,Country,6.733333,0.333333333,Africa
+Sarajevo,Capital,18.416667,43.86666667,Bosnia and Herzegovina
+Saudi Arabia,Country,46.7,24.65,Asia
+Senegal,Country,-17.633333,14.73333333,Africa
+Seoul,Capital,126.983333,37.55,South Korea
+Serbia,Country,20.5,44.83333333,Europe
+Seychelles,Country,55.45,-4.616666667,Africa
+Sierra Leone,Country,-13.233333,8.483333333,Africa
+Singapore,Capital,103.85,1.283333333,Singapore
+Singapore,Country,103.85,1.283333333,Asia
+Sint Maarten,Country,-63.033333,18.01666667,North America
+Skopje,Capital,21.433333,42,Macedonia
+Slovakia,Country,17.116667,48.15,Europe
+Slovenia,Country,14.516667,46.05,Europe
+Sofia,Capital,23.316667,42.68333333,Bulgaria
+Solomon Islands,Country,159.95,-9.433333333,Australia
+Somalia,Country,45.333333,2.066666667,Africa
+Somaliland,Country,44.05,9.55,Africa
+South Africa,Country,28.216667,-25.7,Africa
+South Georgia and South Sandwich Islands,Country,-36.5,-54.283333,Antarctica
+South Korea,Country,126.983333,37.55,Asia
+South Sudan,Country,31.616667,4.85,Africa
+Spain,Country,-3.683333,40.4,Europe
+Sri Lanka,Country,79.833333,6.916666667,Asia
+Stanley,Capital,-57.85,-51.7,Falkland Islands
+Stockholm,Capital,18.05,59.33333333,Sweden
+Stuttgart,Capital,9.1829321,48.7758459,Germany
+Sudan,Country,32.533333,15.6,Africa
+Suriname,Country,-55.166667,5.833333333,South America
+Suva,Capital,178.416667,-18.13333333,Fiji
+Svalbard,Country,15.633333,78.21666667,Europe
+Swaziland,Country,31.133333,-26.31666667,Africa
+Sweden,Country,18.05,59.33333333,Europe
+Switzerland,Country,7.466667,46.91666667,Europe
+Syria,Country,36.3,33.5,Asia
+Taipei,Capital,121.516667,25.03333333,Taiwan
+Taiwan,Country,121.516667,25.03333333,Asia
+Tajikistan,Country,68.766667,38.55,Asia
+Tallinn,Capital,24.716667,59.43333333,Estonia
+Tanzania,Country,39.283333,-6.8,Africa
+Tarawa,Capital,169.533333,-0.883333333,Kiribati
+Tarnovo,Capital,25.6171514,43.0756739,Bulgaria
+Tashkent,Capital,69.25,41.31666667,Uzbekistan
+Tbilisi,Capital,44.833333,41.68333333,Georgia
+Tegucigalpa,Capital,-87.216667,14.1,Honduras
+Tehran,Capital,51.416667,35.7,Iran
+Thailand,Country,100.516667,13.75,Asia
+The Gambia,Country,-16.566667,13.45,Africa
+The Settlement,Capital,105.716667,-10.41666667,Christmas Island
+The Valley,Capital,-63.05,18.21666667,Anguilla
+Thimphu,Capital,89.633333,27.46666667,Bhutan
+Timor-Leste,Country,125.6,-8.583333333,Asia
+Tirana,Capital,19.816667,41.31666667,Albania
+Tobago,Country,-61.516667,10.65,North America
+Togo,Country,1.216667,6.116666667,Africa
+Tokelau,Country,-171.833333,-9.166667,Australia
+Tokyo,Capital,139.75,35.68333333,Japan
+Tonga,Country,-175.2,-21.13333333,Australia
+Torshavn,Capital,-6.766667,62,Faroe Islands
+Trinidad,Country,-61.516667,10.65,North America
+Tripoli,Capital,13.166667,32.88333333,Libya
+Tulagi,Capital,160.147069,-9.1015826,Solomon Islands
+Tunis,Capital,10.183333,36.8,Tunisia
+Tunisia,Country,10.183333,36.8,Africa
+Turin,Capital,7.686864,45.0703393,Italy
+Turkey,Country,32.866667,39.93333333,Europe
+Turkmenistan,Country,58.383333,37.95,Asia
+Turks and Caicos Islands,Country,-71.133333,21.46666667,North America
+Turku,Capital,22.2666303,60.4518126,Finland
+Tuvalu,Country,179.216667,-8.516666667,Australia
+Uganda,Country,32.55,0.316666667,Africa
+Ukraine,Country,30.516667,50.43333333,Europe
+Ulaanbaatar,Capital,106.916667,47.91666667,Mongolia
+United Arab Emirates,Country,54.366667,24.46666667,Asia
+United Kingdom,Country,-0.083333,51.5,Europe
+United States,Country,-77,38.883333,Central America
+Uruguay,Country,-56.166667,-34.85,South America
+US Minor Outlying Islands,Country,-77,38.883333,Australia
+US Virgin Islands,Country,-64.933333,18.35,North America
+Uzbekistan,Country,69.25,41.31666667,Asia
+Vaduz,Capital,9.516667,47.13333333,Liechtenstein
+Valletta,Capital,14.5,35.88333333,Malta
+Vanuatu,Country,168.316667,-17.73333333,Australia
+Vatican,Country,12.45,41.9,Europe
+Vatican City,Capital,12.45,41.9,Vatican City
+Venezuela,Country,-66.866667,10.48333333,South America
+Venice,Capital,12.3155151,45.4408474,Italy
+Victoria,Capital,55.45,-4.616666667,Seychelles
+Vienna,Capital,16.366667,48.2,Austria
+Vientiane,Capital,102.6,17.96666667,Laos
+Vietnam,Country,105.85,21.03333333,Asia
+Vilnius,Capital,25.316667,54.68333333,Lithuania
+Wallis and Futuna,Country,-171.933333,-13.95,Australia
+Warsaw,Capital,21,52.25,Poland
+Washington,Capital,-77,38.883333,United States
+Wellington,Capital,174.783333,-41.3,New Zealand
+West Island,Capital,96.833333,-12.16666667,Cocos Islands
+Western Sahara,Country,-13.203333,27.153611,Africa
+Wiesbaden,Capital,8.2397608,50.0782184,Germany
+Willemstad,Capital,-68.916667,12.1,CuraÃ§ao
+Windhoek,Capital,17.083333,-22.56666667,Namibia
+Yamoussoukro,Capital,-5.266667,6.816666667,Cote d'Ivoire
+Yangon,Capital,96.173526,16.840939,Myanmar
+Yaounde,Capital,11.516667,3.866666667,Cameroon
+Yaren,Capital,166.920867,-0.5477,Nauru
+Yemen,Country,44.2,15.35,Asia
+Yerevan,Capital,44.5,40.16666667,Armenia
+Zagreb,Capital,16,45.8,Croatia
+Zambia,Country,28.283333,-15.41666667,Africa
+Zanzibar City,Capital,39.1989144,-6.165193,Tanzania
+Zimbabwe,Country,31.033333,-17.81666667,Africa
+Zomba,Capital,35.3356518,-15.3765857,Malawi
