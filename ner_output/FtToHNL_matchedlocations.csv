@@ -9,16 +9,17 @@
 5        Heath  administrative          40.0228421        -82.4445991  United States       OSM
 6        Heath  administrative          42.6898311        -72.8178076  United States       OSM
     LocationName Category  Latitude  Longitude          PartOf
-266       London  Capital -0.083333       51.5  United Kingdom
+273       London  Capital -0.083333       51.5  United Kingdom
         LocationName        Category     Latitude            Longitude          PartOf Gazetteer
 0           Tasmania  administrative   -42.035067          146.6366887       Australia       OSM
 1  Van Diemen's Land         island1                                               TAS    TLCMap
 2  Van Diemen's Land            park  52.09974355  -0.5142026280666261  United Kingdom       OSM
   LocationName     Category     Latitude            Longitude          PartOf Gazetteer
 0      Vickers      primary  51.59845985  -1.7415535311162076  United Kingdom       OSM
-1      Vickers  residential   29.6687304          -95.2244965   United States       OSM
-2      Vickers       hamlet   34.3525983            -83.93685   United States       OSM
-3      Vickers       hamlet   41.6117096          -83.4958794   United States       OSM
+1      Vickers  residential    30.373898           -94.319196   United States       OSM
+2      Vickers  residential   29.6687304          -95.2244965   United States       OSM
+3      Vickers       hamlet   34.3525983            -83.93685   United States       OSM
+4      Vickers       hamlet   41.6117096          -83.4958794   United States       OSM
   LocationName        Category    Latitude           Longitude         PartOf Gazetteer
 0       Sylvia          parish      -20.85  143.81666666666666            QLD    TLCMap
 1       Sylvia     residential  14.6413659          121.100725    Philippines       OSM
@@ -26,22 +27,25 @@
 3       Sylvia     residential  35.7593667         -91.6302065  United States       OSM
 4       Sylvia          hamlet  36.1717246         -87.4255674  United States       OSM
 5       Sylvia  administrative  37.9580938         -98.4084398  United States       OSM
-  LocationName             Category    Latitude    Longitude          PartOf Gazetteer
-0         Bath  locality unbounded)   -34.83706    138.49131              SA    TLCMap
-1         Bath                 city  51.3813864   -2.3596963  United Kingdom       OSM
-2  Bath County       administrative  38.1245248  -83.7249243   United States       OSM
-3         Bath       administrative  40.1933784  -90.1409523   United States       OSM
-4         Bath       administrative   43.910755   -69.820862   United States       OSM
-  LocationName        Category     Latitude   Longitude        PartOf Gazetteer
-0        Frere          suburb  -28.8922222  29.7747222  South Africa       OSM
-1      Ferrere  administrative    44.875446    7.994732        Italia       OSM
-2        Frere          hamlet    45.879004   9.9476697        Italia       OSM
+  LocationName             Category    Latitude           Longitude          PartOf Gazetteer
+0         Bath  locality unbounded)   -34.83706           138.49131              SA    TLCMap
+1   Bath Abbey     place_of_worship  51.3814544  -2.358865873946672  United Kingdom       OSM
+2         Bath                 city  51.3813864          -2.3596963  United Kingdom       OSM
+3  Bath County       administrative  38.1245248         -83.7249243   United States       OSM
+4         Bath       administrative  40.1933784         -90.1409523   United States       OSM
+5         Bath       administrative   43.910755          -69.820862   United States       OSM
+      LocationName        Category     Latitude   Longitude        PartOf Gazetteer
+0            Frere          hamlet   44.4701528    7.004274        Italia       OSM
+1  Borgata Ferrere          hamlet   44.3666976   7.3916044        Italia       OSM
+2            Frere          suburb  -28.8922222  29.7747222  South Africa       OSM
+3          Ferrere  administrative    44.875446    7.994732        Italia       OSM
+4            Frere          hamlet    45.879004   9.9476697        Italia       OSM
      LocationName             Category             Latitude           Longitude          PartOf Gazetteer
-0         Chatham      railway station         -37.82402802          145.089035             VIC    TLCMap
-1         Chatham         trig station  -31.898333333333333  152.46777777777777             NSW    TLCMap
-2         Chatham       neighbourhoold         -37.82236099         145.0923615             VIC    TLCMap
-3         Chatham            homestead            -31.30709            116.8343              WA    TLCMap
-4         Chatham  historical locality  -31.898333333333333  152.48444444444442             NSW    TLCMap
+0         Chatham         trig station  -31.898333333333333  152.46777777777777             NSW    TLCMap
+1         Chatham       neighbourhoold         -37.82236099         145.0923615             VIC    TLCMap
+2         Chatham            homestead            -31.30709            116.8343              WA    TLCMap
+3         Chatham  historical locality  -31.898333333333333  152.48444444444442             NSW    TLCMap
+4         Chatham               parish  -25.616666666666667  139.13333333333333             QLD    TLCMap
 5         Chatham                 town           51.3819167            0.526559  United Kingdom       OSM
 6  Chatham County       administrative           31.9668887         -81.0626008   United States       OSM
 7  Chatham County       administrative           35.7151316         -79.2533035   United States       OSM
@@ -72,23 +76,24 @@
 6  Pinecrest Public School          school           45.3443641  -75.78478218194566         Canada       OSM
 7              Pine County  administrative           46.0820957         -92.7542126  United States       OSM
     LocationName Category  Latitude  Longitude PartOf
-206        India  Country      77.2       28.6   Asia
+213        India  Country      77.2       28.6   Asia
   LocationName  Category    Latitude    Longitude         PartOf Gazetteer
 0        Three  cycleway  43.9445278  -71.4940105  United States       OSM
-                 LocationName            Category     Latitude    Longitude     PartOf Gazetteer
-0        Van Diemens Creamery           ice_cream  -41.4834771  146.5981326  Australia       OSM
-1           Van Diemen Avenue         residential  -41.4654798  147.1314152  Australia       OSM
-2              Van Gogh Court         residential  -41.3799529  147.1181359  Australia       OSM
-3        Van Diemens Crescent         residential  -41.0585817  145.8838217  Australia       OSM
-4  Amsterdam-Van Diemenstraat  monitoring_station   52.3899851    4.8878686  Nederland       OSM
+                 LocationName            Category     Latitude           Longitude     PartOf Gazetteer
+0              Van Gogh Court         residential  -41.3799529         147.1181359  Australia       OSM
+1        Van Diemens Crescent         residential  -41.0585817         145.8838217  Australia       OSM
+2           Van Diemen Avenue         residential  -41.4654798         147.1314152  Australia       OSM
+3    Van Diemen Quality Bulbs                farm  -40.9546547  145.72353706498484  Australia       OSM
+4  Amsterdam-Van Diemenstraat  monitoring_station   52.3899851           4.8878686  Nederland       OSM
                LocationName           Category      Latitude           Longitude                  PartOf  \
 0                    Tasman  Municipality/City       -43.054             147.834                     TAS   
 1                    Tasman     administrative   -43.0422943  147.69664144273847               Australia   
 2                    Tasman          homestead     -32.46015           144.58254                     NSW   
 3                    Tasman          homestead                                                       NSW   
-4  Mount Tasman / Rarakiroa               peak    -43.565698         170.1571884  New Zealand / Aotearoa   
-5                    Tasman     administrative  -41.30222105  172.89453190955697  New Zealand / Aotearoa   
-6                    Tasman            station    37.4086658        -121.9444674           United States   
+4                    Tasman            village   -41.1891054         173.0526542  New Zealand / Aotearoa   
+5  Mount Tasman / Rarakiroa               peak    -43.565698         170.1571884  New Zealand / Aotearoa   
+6                    Tasman     administrative  -41.30222105  172.89453190955697  New Zealand / Aotearoa   
+7                    Tasman            station    37.4086658        -121.9444674           United States   
 
   Gazetteer  
 0    TLCMap  
@@ -98,34 +103,44 @@
 4       OSM  
 5       OSM  
 6       OSM  
+7       OSM  
   LocationName         Category      Latitude    Longitude     PartOf Gazetteer
 0  Cape Pillar  Suburb/Locality  -43.18000031  147.9299927        TAS    TLCMap
 1  Cape Pillar             cape   -43.2215036  148.0107165  Australia       OSM
 2  Cape Pillar             Cape  -43.22000122  148.0099945        TAS    TLCMap
 3  Cape Pillar         locality   -53.1379539   73.4104006  Australia       OSM
 4  Cape Pillar   administrative   -43.1817045  147.9383047  Australia       OSM
-  LocationName    Category     Latitude    Longitude     PartOf Gazetteer
-0  Pirates Bay         bay   -43.021334  147.9384131  Australia       OSM
-1  Pirates Bay         bay  -38.3792167  144.7708906  Australia       OSM
-2  Pirates Bay  restaurant   -8.7998639  115.2354403  Indonesia       OSM
-3  pirates bay         bay   39.7149598   19.6571192      Ελλάς       OSM
-     LocationName        Category    Latitude    Longitude        PartOf Gazetteer
-0            East            None   -30.59869     122.5848            WA    TLCMap
-1             Est  administrative   3.9894393    14.178373      Cameroun       OSM
-2            East         village    3.360672    31.695825        Uganda       OSM
-3  Poblacion East         quarter   9.8276999  122.6439348   Philippines       OSM
-4             Est           state  12.2527495    0.8736106  Burkina Faso       OSM
+  LocationName       Category     Latitude    Longitude     PartOf Gazetteer
+0  Pirates Bay            bay   -43.021334  147.9384131  Australia       OSM
+1  Pirates Bay            bay  -38.3792167  144.7708906  Australia       OSM
+2  Pirates Bay  travel_agency   -8.3647299  116.0860116  Indonesia       OSM
+3  Pirates Bay     restaurant   -8.7998639  115.2354403  Indonesia       OSM
+4  pirates bay            bay   39.7149598   19.6571192      Ελλάς       OSM
+     LocationName        Category    Latitude           Longitude        PartOf Gazetteer
+0            East            None   -30.59869            122.5848            WA    TLCMap
+1             Est  administrative   12.255555  1.0095763618883151  Burkina Faso       OSM
+2             Est  administrative   3.9894393           14.178373      Cameroun       OSM
+3            East         village    3.360672           31.695825        Uganda       OSM
+4  Poblacion East         quarter   9.8276999         122.6439348   Philippines       OSM
+5             Est           state  12.2527495           0.8736106  Burkina Faso       OSM
            LocationName        Category           Latitude          Longitude         PartOf Gazetteer
 0               Western  administrative               -7.5                142  Papua Niugini       OSM
 1               Western           state          0.5090396         34.5731341          Kenya       OSM
 2                 Ouest           state          5.5211184         10.6528684       Cameroun       OSM
 3  西礁West (London) Reef            reef  8.861665949999999  112.1931736941656       Việt Nam       OSM
 4                  West  administrative         31.8034812        -97.0933471  United States       OSM
-    LocationName Category     Latitude            Longitude          PartOf Gazetteer
-0  Isle of Wight   island  50.67108245  -1.3328042802764226  United Kingdom       OSM
-               LocationName     Category     Latitude   Longitude        PartOf Gazetteer
-0  The Best Of South Africa          yes  -34.1929297  18.4288931  South Africa       OSM
-1            The Oaks Close  residential  -33.9692821  22.4538144  South Africa       OSM
+    LocationName        Category     Latitude            Longitude          PartOf Gazetteer
+0  Isle of Wight  administrative   50.6710482  -1.3327111133199459  United Kingdom       OSM
+1  Isle of Wight            fire   50.6710482  -1.3327111133199459  United Kingdom       OSM
+2  Isle of Wight       political   50.6710482  -1.3327111133199459  United Kingdom       OSM
+3  Isle of Wight      ceremonial   50.6710482  -1.3327111133199459  United Kingdom       OSM
+4  Isle of Wight          island  50.67108245  -1.3328042802764226  United Kingdom       OSM
+                               LocationName     Category     Latitude   Longitude        PartOf Gazetteer
+0  MOSAIC Lagoon Cafe in the 1892 Spookhuis         cafe  -34.4267527  19.3539093  South Africa       OSM
+1                           The Mews Street  residential  -33.9185222  18.6551518  South Africa       OSM
+2                          The Indraf Kafee  convenience  -33.9678234   22.456758  South Africa       OSM
+3                  The Best Of South Africa          yes  -34.1929297  18.4288931  South Africa       OSM
+4                            The Oaks Close  residential  -33.9692821  22.4538144  South Africa       OSM
   LocationName       Category    Latitude   Longitude     PartOf Gazetteer
 0         Swan  travel_agency  -20.163587  57.5032798  Mauritius       OSM
     LocationName     Category            Latitude           Longitude           PartOf Gazetteer
@@ -147,10 +162,11 @@
 1    Peninsula            None            -31.94878            115.9057             WA    TLCMap
 2    Peninsula            None            -31.96788            121.8298             WA    TLCMap
 3    Peninsula          parish  -22.416666666666668  150.61666666666667            QLD    TLCMap
-4    Peninsula          hamlet          -11.0856935         -67.3161825        Bolivia       OSM
-5    Peninsula          hamlet           -1.8281384         -79.9893534        Ecuador       OSM
-6    Peninsula   neighbourhood   38.221989199999996  -84.56188590725293  United States       OSM
-7    Peninsula  administrative            41.241167          -81.552618  United States       OSM
+4    Peninsula  administrative   38.221989199999996  -84.56188590725293  United States       OSM
+5    Peninsula          hamlet          -11.0856935         -67.3161825        Bolivia       OSM
+6    Peninsula          hamlet           -1.8281384         -79.9893534        Ecuador       OSM
+7    Peninsula   neighbourhood   38.221989199999996  -84.56188590725293  United States       OSM
+8    Peninsula  administrative            41.241167          -81.552618  United States       OSM
   LocationName Category      Latitude            Longitude     PartOf Gazetteer
 0    Storm Bay      Bay  -43.16999817          147.4400024        TAS    TLCMap
 1    Storm Bay     None     -34.34778             115.1683         WA    TLCMap
@@ -162,7 +178,7 @@
 7    Storm Bay      bay   49.66505075  -123.82468428626042     Canada       OSM
 8    Storm Bay      bay    49.6780658          -94.3186347     Canada       OSM
     LocationName Category   Latitude  Longitude  PartOf
-215        Italy  Country  12.483333       41.9  Europe
+222        Italy  Country  12.483333       41.9  Europe
   LocationName     Category            Latitude            Longitude          PartOf Gazetteer
 0      Sorrell   industrial  53.961450600000006  -1.0665293366389048  United Kingdom       OSM
 1      Sorrell  residential          32.5234174          -96.8170835   United States       OSM
@@ -178,10 +194,11 @@
 2  Mount Royal        trig station   -35.65416666666667  146.83972222222224            NSW    TLCMap
 3  Mount Royal            mountain  -32.181666666666665  151.33444444444444            NSW    TLCMap
 4  Mount Royal            mountain  -30.615000000000002  150.81777777777776            NSW    TLCMap
-5  Mount Royal                peak           33.6634371          -85.791353  United States       OSM
-6  Mount Royal                peak            42.367304         -74.4251472  United States       OSM
-7   Mont-Royal                peak           45.5085881         -73.5897111         Canada       OSM
-8  Mount Royal      administrative           46.6836433         -64.2583205         Canada       OSM
+5   Mont-Royal      administrative           45.5143668         -73.6439247         Canada       OSM
+6  Mount Royal                peak           33.6634371          -85.791353  United States       OSM
+7  Mount Royal                peak            42.367304         -74.4251472  United States       OSM
+8   Mont-Royal                peak           45.5085881         -73.5897111         Canada       OSM
+9  Mount Royal      administrative           46.6836433         -64.2583205         Canada       OSM
               LocationName  Category      Latitude          Longitude     PartOf Gazetteer
 0  D'Entrecasteaux Channel  Channel1  -43.25999832        147.2599945        TAS    TLCMap
 1  D'Entrecasteaux Channel    strait  -43.23647525  147.3052940560143  Australia       OSM
@@ -198,9 +215,11 @@
 1      Derwent       homestead           -30.874125           150.650851             NSW    TLCMap
 2      Derwent       homestead  -23.166666666666668               132.15              NT    TLCMap
 3      Derwent          parish                -21.7   140.66666666666666             QLD    TLCMap
-4      Derwent  administrative          53.39788105  -1.7078207528115286  United Kingdom       OSM
-5      Derwent          hamlet           39.9231278          -81.5442893   United States       OSM
-6      Derwent          hamlet           53.6543655         -110.9657492          Canada       OSM
+4      Derwent           river           53.3660162           -1.6988582  United Kingdom       OSM
+5      Derwent           river           53.3645119           -1.7020654  United Kingdom       OSM
+6      Derwent  administrative          53.39788105  -1.7078207528115286  United Kingdom       OSM
+7      Derwent          hamlet           39.9231278          -81.5442893   United States       OSM
+8      Derwent          hamlet           53.6543655         -110.9657492          Canada       OSM
   LocationName   Category    Latitude   Longitude PartOf Gazetteer
 0        ocean  nightclub  37.1034349  25.3748431  Ελλάς       OSM
   LocationName   Category    Latitude           Longitude       PartOf Gazetteer
@@ -212,12 +231,12 @@
 5         تدمر       town  34.5560155          38.2809746        سوريا       OSM
 6        Tamar       peak  46.2181038          13.9659246    Slovenija       OSM
     LocationName Category  Latitude  Longitude      PartOf
-523     Victoria  Capital     55.45  -4.616667  Seychelles
+530     Victoria  Capital     55.45  -4.616667  Seychelles
                   LocationName Category             Latitude           Longitude     PartOf Gazetteer
 0  Yarra Bay Bicentennial Park     park  -33.977710200000004  151.22932069489116  Australia       OSM
 1              Yarra Bay Beach    beach         -33.97894325  151.22918594272664  Australia       OSM
     LocationName Category    Latitude  Longitude       PartOf
-531   Wellington  Capital  174.783333      -41.3  New Zealand
+538   Wellington  Capital  174.783333      -41.3  New Zealand
            LocationName         Category             Latitude           Longitude                  PartOf  \
 0             Dromedary  Suburb/Locality         -42.74000168         147.1600037                     TAS   
 1             Dromedary             None  -24.585555555555555            149.1225                     QLD   
@@ -251,12 +270,13 @@
 8            Mount Wellington      peak           42.8053512         -74.8732068  United States       OSM
 9            Mount Wellington      peak           50.1389052        -123.9495681         Canada       OSM
          LocationName           Category      Latitude           Longitude          PartOf Gazetteer
-0          Launceston               city  -41.43999863         147.1399994             TAS    TLCMap
+0          Launceston  Municipality/City       -41.361             147.304             TAS    TLCMap
 1          Launceston     administrative   -41.4340813         147.1373496       Australia       OSM
 2  City of Launceston     administrative    -41.320994  147.27312884087405       Australia       OSM
-3          Launceston  Municipality/City       -41.361             147.304             TAS    TLCMap
+3          Launceston               city  -41.43999863         147.1399994             TAS    TLCMap
 4          Launceston     administrative   -41.4340813         147.1373496       Australia       OSM
-5          Launceston     administrative    50.6365062          -4.3604432  United Kingdom       OSM
+5          Launceston            station    50.6404065          -4.3648051  United Kingdom       OSM
+6          Launceston     administrative    50.6365062          -4.3604432  United Kingdom       OSM
         LocationName        Category    Latitude    Longitude         PartOf Gazetteer
 0             Smyrna  administrative   33.883887  -84.5147454  United States       OSM
 1             Smyrna            town  35.9824598  -86.5199492  United States       OSM
@@ -271,32 +291,32 @@
 4  Pyramid Island   island          -0.90142105   33.93945448162722             Kenya       OSM
 5  Pyramid Island    islet            51.964949  178.31201332614398     United States       OSM
 6  Pyramid Island    islet          59.19742285  -135.4572064523979     United States       OSM
-  LocationName              Category    Latitude            Longitude         PartOf Gazetteer
-0  Rocky Point                  hill   -32.67505            138.04626             SA    TLCMap
-1  Rocky Point                point1    -32.1693            133.55366             SA    TLCMap
-2  Rocky Point  locality (unbounded)   -32.63276            137.75866             SA    TLCMap
-3  Rocky Point             homestead  -29.958082           151.840401            NSW    TLCMap
-4  Rocky Point                  None      -29.05    167.9211111111111            NFK    TLCMap
-5  Rocky Point                hamlet  32.5336665         -112.8482119  United States       OSM
-6  Rocky Point        administrative  40.9525987          -72.9253805  United States       OSM
-7  Rocky Point                  peak  42.1153704           -72.853709  United States       OSM
-8  Rocky Point        administrative  46.2024075          -63.1505008         Canada       OSM
-9  Rocky Point              locality   47.731189  -114.18882405182927  United States       OSM
+  LocationName        Category      Latitude            Longitude         PartOf Gazetteer
+0  Rocky Point          point1  -32.09345241          133.6281923             SA    TLCMap
+1  Rocky Point          point1     -34.59254            137.87597             SA    TLCMap
+2  Rocky Point           point        -33.14   151.35944444444445            NSW    TLCMap
+3  Rocky Point          point1      -32.1693            133.55366             SA    TLCMap
+4  Rocky Point           point       -28.215    153.5511111111111            NSW    TLCMap
+5  Rocky Point          hamlet    32.5336665         -112.8482119  United States       OSM
+6  Rocky Point  administrative    40.9525987          -72.9253805  United States       OSM
+7  Rocky Point            peak    42.1153704           -72.853709  United States       OSM
+8  Rocky Point  administrative    46.2024075          -63.1505008         Canada       OSM
+9  Rocky Point        locality     47.731189  -114.18882405182927  United States       OSM
   LocationName   Category      Latitude           Longitude     PartOf Gazetteer
 0   Port Davey        Bay  -43.33000183         145.9100037        TAS    TLCMap
 1   Port Davey  District1  -43.41999817         146.1600037        TAS    TLCMap
 2   Port Davey        bay   -43.2729083  145.94968056120592  Australia       OSM
-      LocationName         Category             Latitude          Longitude     PartOf Gazetteer
-0  Mount Direction         Mountain         -42.79000092        147.3000031        TAS    TLCMap
-1  Mount Direction   administrative            -41.24326          147.01687  Australia       OSM
-2  Mount Direction         Mountain         -41.24000168        147.0299988        TAS    TLCMap
-3  Mount Direction         mountain         -37.18736267        143.3345795        VIC    TLCMap
-4  Mount Direction             peak            -41.24125          147.03311  Australia       OSM
-5  Mount Direction  Suburb/Locality         -41.24000168        147.0099945        TAS    TLCMap
-6  Mount Direction             peak           -42.797977        147.3077395  Australia       OSM
-7  Mount Direction             peak            -37.18681          143.33393  Australia       OSM
-8  Mount Direction         mountain  -31.698333333333334  149.7011111111111        NSW    TLCMap
-9  Mount Direction             peak          -17.9786111           143.8775  Australia       OSM
+      LocationName        Category             Latitude           Longitude     PartOf Gazetteer
+0  Mount Direction        Mountain         -42.79000092         147.3000031        TAS    TLCMap
+1  Mount Direction  administrative            -41.24326           147.01687  Australia       OSM
+2  Mount Direction        Mountain         -41.24000168         147.0299988        TAS    TLCMap
+3  Mount Direction        mountain         -37.18736267         143.3345795        VIC    TLCMap
+4  Mount Direction        mountain  -17.983333333333334  143.88333333333333        QLD    TLCMap
+5  Mount Direction            peak            -41.24125           147.03311  Australia       OSM
+6  Mount Direction            peak           -42.797977         147.3077395  Australia       OSM
+7  Mount Direction            peak            -37.18681           143.33393  Australia       OSM
+8  Mount Direction        mountain  -31.698333333333334   149.7011111111111        NSW    TLCMap
+9  Mount Direction            peak          -17.9786111            143.8775  Australia       OSM
         LocationName Category      Latitude         Longitude     PartOf Gazetteer
 0  Macquarie Harbour  Harbour  -42.29999924       145.3600006        TAS    TLCMap
 1  Macquarie Harbour      bay  -42.33770255  145.403673139089  Australia       OSM
@@ -306,8 +326,12 @@
    LocationName Category      Latitude    Longitude     PartOf Gazetteer
 0  Mount Zeehan     hill  -41.91999817  145.3200073        TAS    TLCMap
 1  Mount Zeehan     peak      -41.9267     145.3229  Australia       OSM
-   LocationName Category   Latitude   Longitude          PartOf Gazetteer
-0  King's River    river  52.536908  -7.3401677  Éire / Ireland       OSM
+   LocationName Category    Latitude   Longitude          PartOf Gazetteer
+0  King's River    river   52.529434  -7.4677341  Éire / Ireland       OSM
+1  King's River    river  52.5425973   -7.489768  Éire / Ireland       OSM
+2  King's River    river  52.5403557  -7.2580667  Éire / Ireland       OSM
+3  King's River    river  52.5345398  -7.3639866  Éire / Ireland       OSM
+4  King's River    river   52.536908  -7.3401677  Éire / Ireland       OSM
            LocationName    Category      Latitude           Longitude         PartOf Gazetteer
 0          Sarah Island     island1  -42.38000107         145.4400024            TAS    TLCMap
 1          Sarah Island  attraction   -42.3895803         145.4473843      Australia       OSM
@@ -316,16 +340,19 @@
 4          Sarah Island       islet     48.544094  -88.36470013398821         Canada       OSM
 5  ᐅᑲᓕᐊᕐᔪᒃ Sarah Island      island   63.20785695  -64.54777755281438         Canada       OSM
                     LocationName          Category    Latitude           Longitude          PartOf Gazetteer
-0                  Philip Street      unclassified  51.4427857          -2.5929537  United Kingdom       OSM
-1               St Philip's Road          tertiary  53.3898938          -1.4798071  United Kingdom       OSM
-2  Saint Philip's Baptist Church  place_of_worship  40.6377174  -74.13135692832495   United States       OSM
-3          King Philip's Remains          memorial  41.7229465         -71.2835099   United States       OSM
+0              St. Philip's Lane       residential  53.3895222          -1.4796846  United Kingdom       OSM
+1                  Philip Street      unclassified  51.4427857          -2.5929537  United Kingdom       OSM
+2               St Philip's Road          tertiary  53.3898938          -1.4798071  United Kingdom       OSM
+3  Saint Philip's Baptist Church  place_of_worship  40.6377174  -74.13135692832495   United States       OSM
+4          King Philip's Remains          memorial  41.7229465         -71.2835099   United States       OSM
         LocationName        Category    Latitude    Longitude         PartOf Gazetteer
 0  Village of Hobart  administrative  42.3714704  -74.6704311  United States       OSM
   LocationName        Category     Latitude           Longitude         PartOf Gazetteer
-0        Earth      university  10.21990825  -83.59177371174943     Costa Rica       OSM
-1        Earth  administrative   34.2331373        -102.4107493  United States       OSM
-2        earth           track   49.7933447          13.8667052          Česko       OSM
+0        earth           track   49.5904859          14.6651358          Česko       OSM
+1        earth           track    49.802872          15.5172618          Česko       OSM
+2        Earth      university  10.21990825  -83.59177371174943     Costa Rica       OSM
+3        Earth  administrative   34.2331373        -102.4107493  United States       OSM
+4        earth           track   49.7933447          13.8667052          Česko       OSM
                    LocationName        Category     Latitude           Longitude          PartOf Gazetteer
 0  South East Constituency 1947       political   53.3262506  -6.236059861357543  Éire / Ireland       OSM
 1           South-East District  administrative  -24.9902332  25.726402352052464        Botswana       OSM
@@ -348,30 +375,32 @@
 6  Port Arthur              suburb    48.4348261  -89.2194423           Canada       OSM
 7  Port Arthur              suburb    60.4468775   22.2444076  Suomi / Finland       OSM
     LocationName Category   Latitude  Longitude           PartOf
-200     Honduras  Country -87.216667       14.1  Central America
+207     Honduras  Country -87.216667       14.1  Central America
     LocationName        Category             Latitude           Longitude         PartOf Gazetteer
 0         Arthur    trig station  -32.363055555555555  150.85805555555555            NSW    TLCMap
 1         Arthur    trig station   -33.64833333333333   151.1927777777778            NSW    TLCMap
 2         Arthur          parish  -32.681666666666665   149.8011111111111            NSW    TLCMap
-3         Arthur  administrative           39.7147552          -88.472278  United States       OSM
-4  Arthur County  administrative           41.5721288        -101.6974898  United States       OSM
-5         Arthur  administrative              42.3353         -95.3475647  United States       OSM
-6         Arthur  administrative           47.1041435         -97.2181431  United States       OSM
+3         Arthur  administrative           41.5706962        -101.6914885  United States       OSM
+4         Arthur  administrative           39.7147552          -88.472278  United States       OSM
+5  Arthur County  administrative           41.5721288        -101.6974898  United States       OSM
+6         Arthur  administrative              42.3353         -95.3475647  United States       OSM
+7         Arthur  administrative           47.1041435         -97.2181431  United States       OSM
   LocationName Category             Latitude           Longitude     PartOf Gazetteer
 0  Hells Gates     Pass         -42.20999908         145.2100067        TAS    TLCMap
 1  Hells Gates     bay1  -31.518472222222222  159.06355555555558        NSW    TLCMap
-2  Hells Gates   strait          -42.2101271         145.2142261  Australia       OSM
-3  Hells Gates  channel  -32.531666666666666  151.96777777777777        NSW    TLCMap
-4  Hells Gates      bay           -31.518396         159.0721965  Australia       OSM
-5  Hells Gates    inlet  -26.379722222222224  153.11916666666667        QLD    TLCMap
-6  Hells Gates     None  -19.116666666666667  145.63333333333333        QLD    TLCMap
+2  Hells Gates   Ravine         -42.36000061         146.8300018        TAS    TLCMap
+3  Hells Gates   Ravine         -41.61999893         145.0399933        TAS    TLCMap
+4  Hells Gates   strait          -42.2101271         145.2142261  Australia       OSM
+5  Hells Gates  channel  -32.531666666666666  151.96777777777777        NSW    TLCMap
+6  Hells Gates      bay           -31.518396         159.0721965  Australia       OSM
 7  Hells Gates    water           46.2939985         -66.8910642     Canada       OSM
   LocationName        Category             Latitude           Longitude          PartOf Gazetteer
 0      England          parish  -27.433333333333334  152.46666666666667             QLD    TLCMap
-1    Worcester  administrative           52.1911849          -2.2206585  United Kingdom       OSM
-2      England  administrative           34.5442609         -91.9690285   United States       OSM
-3      England          hamlet           40.8403347         -82.2393255   United States       OSM
-4      England   neighbourhood            54.495797           8.8784857     Deutschland       OSM
+1      England  administrative           52.5310214          -1.2649062  United Kingdom       OSM
+2    Worcester  administrative           52.1911849          -2.2206585  United Kingdom       OSM
+3      England  administrative           34.5442609         -91.9690285   United States       OSM
+4      England          hamlet           40.8403347         -82.2393255   United States       OSM
+5      England   neighbourhood            54.495797           8.8784857     Deutschland       OSM
   LocationName            Category      Latitude           Longitude          PartOf Gazetteer
 0     New Town     Suburb/Locality  -42.84999847         147.3000031             TAS    TLCMap
 1     New Town  locality (bounded)     -33.95489           137.69592              SA    TLCMap
@@ -382,17 +411,20 @@
 6     New Town      administrative     47.980848          -102.49018   United States       OSM
      LocationName Category      Latitude    Longitude PartOf Gazetteer
 0  Grummet Island   Island  -42.38000107  145.4499969    TAS    TLCMap
-  LocationName  Category    Latitude   Longitude       PartOf Gazetteer
-0      Grummet  locality  50.3686748  10.8561277  Deutschland       OSM
-  LocationName        Category     Latitude          Longitude         PartOf Gazetteer
-0      Malabar    trig station      -33.965  151.2511111111111            NSW    TLCMap
-1      Malabar       homestead   -35.564599        148.3241805            NSW    TLCMap
-2      Malabar       homestead  -34.2227815         148.163882            NSW    TLCMap
-3      Malabar       homestead   -35.718037         147.892788            NSW    TLCMap
-4      Malabar  administrative  -33.9629779        151.2480171      Australia       OSM
-5      Malabar       homestead  -29.5811455         147.689279            NSW    TLCMap
-6      Malabar         volcano   -7.1404971        107.6313311      Indonesia       OSM
-7      Malabar  administrative   27.9869722        -80.5870164  United States       OSM
+  LocationName     Category    Latitude   Longitude       PartOf Gazetteer
+0      grummet  information  50.4723087    11.96739  Deutschland       OSM
+1      Grummet     locality  50.3686748  10.8561277  Deutschland       OSM
+  LocationName        Category             Latitude           Longitude         PartOf Gazetteer
+0      Malabar    trig station              -33.965   151.2511111111111            NSW    TLCMap
+1      Malabar          suburb   -33.95805555555556  151.25416666666666            NSW    TLCMap
+2      Malabar       homestead          -34.2227815          148.163882            NSW    TLCMap
+3      Malabar  administrative          -33.9629779         151.2480171      Australia       OSM
+4      Malabar            hill            -31.51275           159.06125            NSW    TLCMap
+5      Malabar            None  -27.583333333333332  152.58333333333334            QLD    TLCMap
+6      Malabar         village           -7.2880681         108.6960653      Indonesia       OSM
+7      Malabar         village           -6.9260791         107.6210172      Indonesia       OSM
+8      Malabar         volcano           -7.1404971         107.6313311      Indonesia       OSM
+9      Malabar  administrative           27.9869722         -80.5870164  United States       OSM
    LocationName           Category             Latitude           Longitude         PartOf Gazetteer
 0         Dawes     neighbourhoold         -37.81597137         146.4990234            VIC    TLCMap
 1         Dawes             parish   -31.17527777777778  142.79805555555555            NSW    TLCMap
@@ -403,12 +435,12 @@
 6         Dawes             hamlet           38.1428826         -81.4520584  United States       OSM
 7  Dawes County     administrative             42.71723        -103.1216528  United States       OSM
                        LocationName        Category             Latitude           Longitude     PartOf Gazetteer
-0                            Sydney   historic area              -33.865  151.20944444444444        NSW    TLCMap
+0                            Sydney            city              -33.865  151.20944444444444        NSW    TLCMap
 1  Sydney (Kingsford Smith) Airport       aerodrome          -33.9498935  151.18196819346016  Australia       OSM
 2                            Sydney  administrative           -33.867926  151.21013810170962  Australia       OSM
 3     Council of the City of Sydney  administrative          -33.8888621   151.2048978618509  Australia       OSM
-4                            Sydney            city              -33.865  151.20944444444444        NSW    TLCMap
-5                            Sydney          suburb   -33.87305555555555  151.20944444444444        NSW    TLCMap
+4                            Sydney          suburb   -33.87305555555555  151.20944444444444        NSW    TLCMap
+5                            Sydney   historic area              -33.865  151.20944444444444        NSW    TLCMap
 6                            Sydney  administrative          -33.8698439         151.2082848  Australia       OSM
 7                            Sydney          parish  -26.466666666666665  143.16666666666666        QLD    TLCMap
 8                            Sydney            None   -29.05388888888889   167.9597222222222        NFK    TLCMap
