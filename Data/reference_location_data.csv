@@ -1,11 +1,20 @@
 LocationName,Category,Latitude,Longitude,PartOf
-Melbourne,city,-37.8142176,144.9631608,VIC
-Brisbane,city,-27.4689682,153.0234991,QLD
-Perth,city,-31.9558964,115.8605801,WA
-Darwin,city,-12.46044,130.8410469,NT
-Alice Springs,city,-23.6983884,133.8812885,NT
-Ballarat,city,-37.5623025,143.8605649,VIC
-Canberra,city,-35.2975906,149.1012676,ACT
+Melbourne,City,-37.8142176,144.9631608,VIC
+Brisbane,City,-27.4689682,153.0234991,QLD
+Perth,City,-31.9558964,115.8605801,WA
+Darwin,City,-12.46044,130.8410469,NT
+Alice Springs,City,-23.6983884,133.8812885,NT
+Ballarat,City,-37.5623025,143.8605649,VIC
+Canberra,Capital,-35.2975906,149.1012676,ACT
+Hobart,City,-42.893851,147.27208577170381,TAS
+Hobart Town,City,-42.893851,147.27208577170381,TAS
+Adelaide,City,-34.9281805,138.5999312,SA
+Sydney,City,-33.8698439,151.2082848,NSW
+New South Wales,State,-33.8698439,151.2082848,Australia
+Victoria,State,-37.8142176, 144.9631608,Australia
+Queensland,State,-27.4689682, 153.0234991,Australia
+Tasmania,State,-42.893851,147.27208577170381,Australia
+Northern Territory,State,-23.6983884,133.8812885,Australia
 Abuja,Capital,7.533333,9.083333333,Nigeria
 Accra,Capital,-0.216667,5.55,Ghana
 Adamstown,Capital,-130.083333,-25.06666667,Pitcairn Islands
