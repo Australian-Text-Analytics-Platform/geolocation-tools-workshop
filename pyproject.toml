@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "geolocations"
+version = "0.1.0"
+description = ""
+authors = ["Ben Foley <ben@cbmm.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter = "^1.0.0"
+pandas = "^1.5.0"
+numpy = "^1.23.3"
+nltk = "^3.7"
+ratelimit = "^2.2.1"
+spacy = "^3.4.1"
+ipywidgets = "7.6.2"
+
+[tool.poetry.group.dev.dependencies]
+nbdime = "^3.1.1"
+
+[tool.black]
+line-length = 120
+target-version = ['py39']
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
