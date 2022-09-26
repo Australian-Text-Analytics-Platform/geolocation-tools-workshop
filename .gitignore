@@ -1,3 +1,7 @@
 venv
 .idea
 Notebooks/.ipynb_checkpoints
+
+# Ignore all output files, but keep the dir
+output/*
+!output/.keep
