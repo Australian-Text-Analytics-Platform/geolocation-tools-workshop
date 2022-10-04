@@ -9,8 +9,8 @@ This workshop (20 Oct 2022) was a combination of slides and Jupytr notebooks, al
 __[TO DO] Add the binder links once the repo is public__
 
 * _Geolocating Australian Historical Resources: Finding placenames and locations with gazetteers_ (Workshop slides)
-* _[Introduction to Named Entity Recognition with spaCy](https://github.com/Australian-Text-Analytics-Platform/geolocation-tools-workshop/blob/abb322e16ca6187a74669ebc7722a7fa08c52c1b/notebooks/spacy_ner_introduction.ipynb)_ (Jupytr Python notebook)
-* _[ATAP Notebook for the Geolocation project](https://github.com/Australian-Text-Analytics-Platform/geolocation-tools-workshop/blob/abb322e16ca6187a74669ebc7722a7fa08c52c1b/notebooks/atap_geolocation_workshop.ipynb)_ (Jupytr Python notebook)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Australian-Text-Analytics-Platform/geolocation-tools-workshop/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FAustralian-Text-Analytics-Platform%2Fgeolocation-tools-workshop%2Fblob%2Fmain%2Fnotebooks%2Fatap_geolocation_workshop.ipynb)
+* _[Introduction to Named Entity Recognition with spaCy](https://github.com/Australian-Text-Analytics-Platform/geolocation-tools-workshop/blob/abb322e16ca6187a74669ebc7722a7fa08c52c1b/notebooks/spacy_ner_introduction.ipynb)_ (Jupytr Python notebook)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Australian-Text-Analytics-Platform/geolocation-tools-workshop/f6a83000e358c7823089487a2bd2e985725a1c86?urlpath=lab%2Ftree%2Fnotebooks%2Fspacy_ner_introduction.ipynb)
+* _[ATAP Notebook for the Geolocation project](https://github.com/Australian-Text-Analytics-Platform/geolocation-tools-workshop/blob/abb322e16ca6187a74669ebc7722a7fa08c52c1b/notebooks/atap_geolocation_workshop.ipynb)_ (Jupytr Python notebook)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Australian-Text-Analytics-Platform/geolocation-tools-workshop/f6a83000e358c7823089487a2bd2e985725a1c86?urlpath=lab%2Ftree%2Fnotebooks%2Fatap_geolocation_workshop.ipynb)
 
 This was developed as part of the [ATAP project](#section-atap).
 
