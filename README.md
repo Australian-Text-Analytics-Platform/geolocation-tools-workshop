@@ -2,11 +2,9 @@
 
 _Tools for geolocation analysis of textual data with related workshop notebook_
 
-__[TO DO] Describe this workshop__
+This repository relates to a workshop that was presented at the 2022 ASA National Annual Conference for the Australian Society of Archivists (ASA) on 20 Oct 2022. The workshop related to how to use software to recognise placenames in historical documents and then use online gazetteers to determine what known locations the placenames correspond to, and gather related geolocation data like coordinates.
 
-This workshop (20 Oct 2022) was a combination of slides and Jupytr notebooks, along with audio presentations and explanations.
-
-__[TO DO] Add the binder links once the repo is public__
+This site provides a combination of slides and Jupytr notebooks, along with audio presentations and explanations. 
 
 * _Geolocating Australian Historical Resources: Finding placenames and locations with gazetteers_ (Workshop slides)
 * _[Introduction to Named Entity Recognition with spaCy](https://github.com/Australian-Text-Analytics-Platform/geolocation-tools-workshop/blob/abb322e16ca6187a74669ebc7722a7fa08c52c1b/notebooks/spacy_ner_introduction.ipynb)_ (Jupytr Python notebook)  [![Binder](https://mybinder.org/badge_logo.svg)](https://binderhub.atap-binder.cloud.edu.au/v2/gh/Australian-Text-Analytics-Platform/geolocation-tools-workshop/HEAD?labpath=notebooks%2Fspacy_ner_introduction.ipynb)
@@ -16,9 +14,9 @@ This was developed as part of the [ATAP project](#section-atap).
 
 ## Using notebooks on cloud services  <a class="anchor" id="section-binder"></a>
 
-__[TO DO] Describe *briefly* how to run the notebooks, or point to the slides__ 
-
 The above links to the [Binder](https://mybinder.org/) service enable you to load the notebook in a online cloud environment, rather than having to install the software on your own computer (it might take a little while to load). This is a free service, but note that cloud sessions will close if you stop using the notebooks, and no data will be saved. Make sure you download any changed notebooks or harvested data that you want to save.
+
+To execute each stage of a notebook, click on the "run" triangle symbol to execute the command cell you have selected. The cells are sequential, so you must have previously executed all previous cells in the correct order.
 
 ## Australian Text Analytics Platform <a class="anchor" id="section-atap"></a>
 
