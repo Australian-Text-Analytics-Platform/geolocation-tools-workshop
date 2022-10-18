@@ -1,8 +1,8 @@
-# geolocation-tools-workshop
+# Geolocation Tools Workshop
 
 _Tools for geolocation analysis of textual data with related workshop notebook_
 
-This repository relates to a workshop that was presented at the 2022 ASA National Annual Conference for the Australian Society of Archivists (ASA) on 20 Oct 2022. The workshop related to how to use software to recognise placenames in historical documents and then use online gazetteers to determine what known locations the placenames correspond to, and gather related geolocation data like coordinates.
+This repository relates to a workshop that was presented at the 2022 ASA National Annual Conference for the Australian Society of Archivists (ASA) on 20 Oct 2022. The workshop taught how to use software to recognise placenames in historical documents and then use online gazetteers to determine what known locations the placenames correspond to, and gather related geolocation data like coordinates.
 
 This site provides a combination of slides and Jupytr notebooks, along with audio presentations and explanations. 
 
@@ -14,7 +14,7 @@ This was developed as part of the [ATAP project](#section-atap).
 
 ## Using notebooks on cloud services  <a class="anchor" id="section-binder"></a>
 
-The above links to the [Binder](https://mybinder.org/) service enable you to load the notebook in a online cloud environment, rather than having to install the software on your own computer (it might take a little while to load). This is a free service, but note that cloud sessions will close if you stop using the notebooks, and no data will be saved. Make sure you download any changed notebooks or harvested data that you want to save.
+The above links to the [Binder](https://mybinder.org/) service enable you to load the notebook in a online cloud environment, rather than having to install the software on your own computer (it might take a little while to load). This is a free service hosted by [AARnet](https://www.aarnet.edu.au), but any users must use [CILogon](https://www.cilogon.org/faq), which is normally only available to academic researchers. Note that cloud sessions will close if you stop using the notebooks, and no data will be saved. Make sure you download any changed notebooks or harvested data that you want to save.
 
 To execute each stage of a notebook, click on the "run" triangle symbol to execute the command cell you have selected. The cells are sequential, so you must have previously executed all previous cells in the correct order.
 
