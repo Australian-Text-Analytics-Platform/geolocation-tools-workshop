@@ -6,7 +6,7 @@ This repository relates to a workshop that was presented at the 2022 ASA Nationa
 
 This site provides a combination of slides and Jupytr notebooks, along with audio presentations and explanations. 
 
-* _Geolocating Australian Historical Resources: Finding placenames and locations with gazetteers_ (Workshop slides)
+* _[Geolocating Australian Historical Resources: Finding placenames and locations with gazetteers](https://github.com/Australian-Text-Analytics-Platform/geolocation-tools-workshop/raw/main/docs/ATAP%20Geolocations%20Workshop%20slides.pdf)_ (Workshop slides)
 * _[Introduction to Named Entity Recognition with spaCy](https://github.com/Australian-Text-Analytics-Platform/geolocation-tools-workshop/blob/abb322e16ca6187a74669ebc7722a7fa08c52c1b/notebooks/spacy_ner_introduction.ipynb)_ (Jupytr Python notebook)  [![Binder](https://mybinder.org/badge_logo.svg)](https://binderhub.atap-binder.cloud.edu.au/v2/gh/Australian-Text-Analytics-Platform/geolocation-tools-workshop/HEAD?labpath=notebooks%2Fspacy_ner_introduction.ipynb)
 * _[ATAP Notebook for the Geolocation project](https://github.com/Australian-Text-Analytics-Platform/geolocation-tools-workshop/blob/abb322e16ca6187a74669ebc7722a7fa08c52c1b/notebooks/atap_geolocation_workshop.ipynb)_ (Jupytr Python notebook)  [![Binder](https://mybinder.org/badge_logo.svg)](https://binderhub.atap-binder.cloud.edu.au/v2/gh/Australian-Text-Analytics-Platform/geolocation-tools-workshop/HEAD?labpath=notebooks%2Fatap_geolocation_workshop.ipynb)
 
